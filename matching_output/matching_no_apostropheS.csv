@@ -1,0 +1,287 @@
+Disease_name,KEGG_ID,KeyMolnet_ID
+acute myeloid leukemia,H00003,105
+hairy cell leukemia,H00006,131
+hodgkin lymphoma,H00007,99
+burkitt lymphoma,H00008,97
+multiple myeloma,H00010,122
+lymphoplasmacytic lymphoma,H00011,102
+polycythemia vera,H00012,165
+small cell lung cancer,H00013,25
+non-small cell lung cancer,H00014,30
+esophageal cancer,H00017,19
+gastric cancer,H00018,15
+pancreatic cancer,H00019,22
+colorectal cancer,H00020,20
+renal cell carcinoma,H00021,60
+bladder cancer,H00022,61
+prostate cancer,H00024,56
+endometrial cancer,H00026,50
+ovarian cancer,H00027,53
+choriocarcinoma,H00028,54
+breast cancer,H00031,47
+adrenal carcinoma,H00033,77
+ewing sarcoma,H00035,31
+osteosarcoma,H00036,32
+rhabdomyosarcoma,H00037,39
+melanoma,H00038,35
+basal cell carcinoma,H00039,34
+kaposi sarcoma,H00041,38
+glioma,H00042,65
+neuroblastoma,H00043,76
+pancreatic neuroendocrine tumor,H00045,178
+cholangiocarcinoma,H00046,21
+hepatocellular carcinoma,H00048,18
+synovial sarcoma,H00050,40
+alveolar soft part sarcoma,H00051,45
+alzheimer disease,H00056,603
+parkinson disease,H00057,595
+huntington disease,H00059,588
+ataxia telangiectasia,H00064,593
+friedreich ataxia,H00067,589
+hereditary fructose intolerance,H00071,777
+refsum disease,H00075,632
+progressive supranuclear palsy,H00077,599
+frontotemporal lobar degeneration,H00078,611
+asthma,H00079,751
+systemic lupus erythematosus,H00080,807
+chronic granulomatous disease,H00098,245
+fabry disease,H00125,457
+gaucher disease,H00126,380
+metachromatic leukodystrophy,H00127,504
+krabbe disease,H00135,414
+alpha-mannosidosis,H00139,395
+beta-mannosidosis,H00140,469
+fucosidosis,H00141,463
+sialidosis,H00142,425
+aspartylglucosaminuria,H00145,387
+cerebrotendinous xanthomatosis,H00151,567
+sitosterolemia,H00152,428
+familial combined hyperlipidemia,H00153,517
+familial hypercholesterolemia,H00155,513
+tangier disease,H00159,436
+abetalipoproteinemia,H00160,573
+alkaptonuria,H00163,391
+hermansky-pudlak syndrome,H00166,449
+histidinemia,H00171,450
+maple syrup urine disease,H00172,494
+isovaleric acidemia,H00173,398
+propionic acidemia,H00175,466
+cystathioninuria,H00182,426
+homocystinuria,H00183,476
+hypermethioninemia,H00184,545
+ornithine transcarbamylase deficiency,H00187,406
+hyperlysinemia,H00188,546
+dihydropyrimidine dehydrogenase deficiency,H00193,433
+adenine phosphoribosyltransferase deficiency,H00195,389
+adenylosuccinate lyase deficiency,H00197,388
+orotic aciduria,H00198,407
+dihydropyrimidinase deficiency,H00199,432
+wilson disease,H00210,400
+hemochromatosis,H00211,468
+acrodermatitis enteropathica,H00212,561
+hypophosphatasia,H00213,562
+congenital adrenal hyperplasia,H00216,342
+pulmonary alveolar proteinosis,H00217,757
+cystic fibrosis,H00218,566
+factor v deficiency,H00220,226
+afibrinogenemia,H00222,232
+bernard-soulier syndrome,H00224,215
+thrombotic thrombocytopenic purpura,H00225,803
+congenital amegakaryocytic thrombocytopenia,H00227,224
+hereditary spherocytosis,H00230,187
+hereditary elliptocytosis,H00231,189
+hereditary stomatocytosis,H00232,188
+fanconi anemia,H00238,198
+bartter syndrome,H00239,323
+gitelman syndrome,H00240,317
+liddle syndrome,H00242,826
+pseudohypoparathyroidism,H00244,331
+growth hormone deficiency,H00254,339
+apparent mineralocorticoid excess syndrome,H00259,713
+hereditary sensory and autonomic neuropathy,H00265,634
+multiple sulfatase deficiency,H00272,558
+cystinosis,H00275,427
+crohn disease,H00286,762
+hypertrophic cardiomyopathy,H00292,739
+dilated cardiomyopathy,H00294,736
+viral myocarditis,H00295,732
+type 1 diabetes mellitus,H00408,292
+type 2 diabetes mellitus,H00409,293
+bardet-biedl syndrome,H00418,878
+holt-oram syndrome,H00433,882
+osteopetrosis,H00436,871
+paget disease of bone,H00437,819
+rett syndrome,H00440,578
+campomelic dysplasia,H00442,866
+spinal muscular atrophy,H00455,592
+nail-patella syndrome,H00464,892
+prader-willi syndrome,H00478,881
+osteogenesis imperfecta,H00506,867
+dyskeratosis congenita,H00507,890
+cleidocranial dysplasia,H00521,885
+hereditary hemorrhagic telangiectasia,H00533,741
+nephronophthisis,H00537,861
+septo-optic dysplasia,H00544,851
+alagille syndrome,H00551,854
+von hippel-lindau syndrome,H00559,879
+emery-dreifuss muscular dystrophy,H00563,652
+limb-girdle muscular dystrophy 1c,H00567,675
+epstein syndrome,H00578,204
+alport syndrome,H00581,876
+facioscapulohumeral muscular dystrophy,H00591,669
+persistent mullerian duct syndrome,H00609,855
+progressive familial intrahepatic cholestasis,H00624,770
+rheumatoid arthritis,H00630,788
+marfan syndrome,H00653,883
+netherton syndrome,H00671,269
+nemaline myopathy,H00698,660
+central core disease,H00699,656
+centronuclear myopathy,H00700,692
+oculopharyngeal muscular dystrophy,H00704,668
+myotonia congenita,H00705,690
+leprechaunism,H00719,305
+long qt syndrome,H00720,731
+brugada syndrome,H00728,735
+paramyotonia congenita,H00743,689
+congenital myasthenic syndrome,H00770,691
+ehlers-danlos syndrome,H00802,863
+age-related macular degeneration,H00821,702
+trichothiodystrophy,H00866,367
+li-fraumeni syndrome,H00881,156
+iminoglycinuria,H00905,399
+dicarboxylic aminoaciduria,H00911,431
+factor xi deficiency,H00938,228
+rabson-mendenhall syndrome,H00942,296
+factor xiii deficiency,H00945,227
+familial adenomatous polyposis,H01025,139
+n-acetylglutamate synthase deficiency,H01032,383
+paroxysmal nocturnal hemoglobinuria,H01053,194
+pyruvate kinase deficiency,H01096,455
+prolidase deficiency,H01119,467
+hereditary pyropoikilocytosis,H01125,190
+autosomal recessive spastic ataxia of charlevoix-saguenay,H01170,587
+cataract,H01202,701
+restrictive cardiomyopathy,H01219,738
+cowden syndrome,H01222,153
+isolated follicle-stimulating hormone deficiency,H01253,352
+familial hypobetalipoproteinemia,H01270,516
+mulibrey nanism,H01289,271
+idiopathic pulmonary fibrosis,H01299,755
+bloom syndrome,H01346,880
+melas syndrome,H01347,664
+kearns-sayre syndrome,H01355,653
+allergic contact dermatitis,H01357,781
+atopic dermatitis,H01358,780
+anaphylaxis,H01359,900
+allergic rhinitis,H01360,747
+polyarteritis nodosa,H01382,802
+xeroderma pigmentosum,H01428,887
+cushing syndrome,H01431,318
+guillain-barre syndrome,H01436,627
+neurofibromatosis type 1,H01437,888
+neurofibromatosis type 2,H01438,889
+diabetic nephropathy,H01456,829
+diabetic neuropathy,H01459,304
+crow-fukase syndrome,H01461,95
+mycosis fungoides,H01463,114
+ulcerative colitis,H01466,763
+primary biliary cirrhosis,H01467,769
+eosinophilic granulomatosis with polyangiitis,H01468,805
+lipodystrophy,H01475,549
+castleman disease,H01479,155
+myelodysplastic syndrome,H01481,162
+acromegaly,H01483,340
+multiple sclerosis,H01490,615
+systemic sclerosis,H01492,808
+lupus nephritis,H01500,827
+sjogren syndrome,H01502,799
+inclusion body myositis,H01505,811
+hepatic encephalopathy,H01506,768
+retinoblastoma,H01513,73
+zollinger-ellison syndrome,H01522,307
+wiskott-aldrich syndrome,H01523,262
+digeorge syndrome,H01524,266
+down syndrome,H01552,895
+wernicke encephalopathy,H01565,355
+beriberi,H01566,365
+iga nephropathy,H01581,822
+pellagra,H01582,364
+hydroxykynureninuria,H01583,452
+disseminated intravascular coagulation,H01587,231
+osteoporosis,H01593,816
+myasthenia gravis,H01594,672
+lambert-eaton myasthenic syndrome,H01596,650
+restless legs syndrome,H01597,597
+addison disease,H01598,312
+primary aldosteronism,H01603,332
+myelofibrosis,H01605,163
+essential thrombocytosis,H01612,244
+follicular lymphoma,H01613,132
+multiple system atrophy,H01614,612
+primary pulmonary hypertension,H01619,728
+angina pectoris,H01632,725
+fibromyalgia,H01636,814
+endometriosis,H01639,845
+schizophrenia,H01649,574
+bipolar disorder,H01653,576
+psoriasis,H01656,783
+microscopic polyangiitis,H01658,804
+medulloblastoma,H01667,66
+ankylosing spondylitis,H01674,812
+acute pancreatitis,H01681,773
+giant cell arteritis,H01698,801
+membranoproliferative glomerulonephritis,H01726,834
+myocardial infarction,H01730,726
+epidermolysis bullosa,H01737,893
+relapsing polychondritis,H01758,821
+hyperostosis corticalis generalisata,H01774,869
+carney complex,H01820,136
+peripheral t cell lymphoma,H01892,126
+fanconi-bickel syndrome,H01947,458
+fukuyama congenital muscular dystrophy,H01957,694
+duchenne muscular dystrophy,H01963,657
+becker muscular dystrophy,H01964,661
+miyoshi myopathy,H01965,671
+cartilage-hair hypoplasia,H01966,872
+hyper-ige syndrome,H01968,275
+x-linked lymphoproliferative syndrome,H01969,255
+limb-girdle muscular dystrophy 2b,H01974,679
+welander distal myopathy,H01975,651
+tibial muscular dystrophy,H01976,695
+unverricht-lundborg disease,H01995,618
+galactokinase deficiency,H02009,413
+tay-sachs disease,H02016,442
+sandhoff disease,H02017,424
+familial male-limited precocious puberty,H02019,329
+aromatase deficiency,H02020,313
+chediak-higashi syndrome,H02021,437
+griscelli syndrome,H02022,264
+familial hypocalciuric hypercalcemia,H02026,515
+laron syndrome,H02037,326
+may-hegglin anomaly,H02051,235
+sebastian syndrome,H02052,206
+fechtner syndrome,H02053,208
+crigler-najjar syndrome,H02054,415
+gilbert syndrome,H02055,434
+dubin-johnson syndrome,H02056,443
+rotor syndrome,H02057,503
+von willebrand disease,H02092,209
+autism,H02111,579
+autosomal dominant hypophosphatemic rickets,H02141,550
+x-linked recessive hypophosphatemic rickets,H02142,354
+cryptorchidism,H02176,859
+androgen insensitivity syndrome,H02177,314
+benign recurrent intrahepatic cholestasis,H02192,772
+childhood absence epilepsy,H02215,620
+factor vii deficiency,H02256,225
+factor x deficiency,H02257,229
+nephroblastoma,H02301,59
+hepatoblastoma,H02302,17
+adenosine deaminase deficiency,H02309,258
+molybdenum cofactor deficiency,H02311,498
+glutathione synthetase deficiency,H02312,418
+hepatic lipase deficiency,H02329,519
+dejerine-sottas disease,H02359,630
+non-hodgkin lymphoma,H02418,125
+head and neck cancer,H02420,82
+atherosclerosis,H02505,740

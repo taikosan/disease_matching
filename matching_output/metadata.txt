@@ -1,0 +1,6 @@
+KEGG: 'kegg_DISEASE_210514.csv', 2158 diseases
+KeyMolnet: 'Disease ID_keymolnet.csv', 901 diseases  
+
+# of matching diseases: 
+all_lowercase = 262
+all_lowercase + no 's = 286
