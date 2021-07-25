@@ -1,0 +1,440 @@
+KMN_candidate_IDs	KMN_candidate_Names	ICDclass	KMN_ICD10
+KMN3	Sepsis	A30-A49	NO_DATA
+KMN16	Hereditary Nonpolyposis Colon Cancer	C15-C26	NO_DATA
+KMN23	Pancreatic Endocrine Tumor	C15-C26	NO_DATA
+KMN24	Nesidioblastosis of Pancreas	C15-C26	NO_DATA
+KMN36	Cutaneous Squamous Cell Carcinoma	C43-C44	NO_DATA
+KMN37	Dermatofibrosarcoma Protuberans	C43-C44	NO_DATA
+KMN41	Hemangiopericytoma	C45-C49	NO_DATA
+KMN42	Liposarcoma	C45-C49	NO_DATA
+KMN43	Mesothelioma	C45-C49	C45
+KMN44	Soft Tissue Sarcoma	C45-C49	NO_DATA
+KMN46	Peripheral Nerve Sheath Tumors	C45-C49	NO_DATA
+KMN48	Sertoli Cell Tumor	C51-C58	NO_DATA
+KMN49	Leydig Cell Tumor	C51-C58	NO_DATA
+KMN51	Cervix Cancer	C51-C58	NO_DATA
+KMN52	Carcinoma of the Fallopian Tube	C51-C58	NO_DATA
+KMN55	Seminoma	C60-C63	NO_DATA
+KMN57	Nonseminoma	C60-C63	NO_DATA
+KMN75	Thyroid Neoplasia	C73-C75	NO_DATA
+KMN86	B-cell Lymphoma	C81-C96	NO_DATA
+KMN87	B-cell Chronic Lymphocytic Leukaemia	C81-C96	NO_DATA
+KMN88	MALT Lymphoma	C81-C96	NO_DATA
+KMN89	POEMS Syndrome	C81-C96	NO_DATA
+KMN90	T-cell Acute Lymphoid Leukemia	C81-C96	NO_DATA
+KMN91	Diffuse Large-Cell Lymphoma	C81-C96	NO_DATA
+KMN92	Diffuse Large B-cell Lymphoma	C81-C96	C83.3
+KMN93	alpha Heavy Chain Disease	C81-C96	NO_DATA
+KMN94	gamma Heavy Chain Disease	C81-C96	NO_DATA
+KMN96	Sezary Syndrome	C81-C96	NO_DATA
+KMN98	Plasma-cell Leukaemia	C81-C96	NO_DATA
+KMN100	Mantle-cell Lymphoma	C81-C96	NO_DATA
+KMN101	mu Heavy Chain Disease	C81-C96	NO_DATA
+KMN103	Waldenstrom's Macroglobulinemia	C81-C96	NO_DATA
+KMN104	Acute Lymphoid Leukemia	C81-C96	NO_DATA
+KMN106	Minimally Differentiated Leukemia	C81-C96	NO_DATA
+KMN107	Myeloblastic Leukemia without Maturation	C81-C96	NO_DATA
+KMN108	Myeloblastic Leukemia with Maturation	C81-C96	NO_DATA
+KMN109	Hypergranular Promyelocytic Leukemia	C81-C96	NO_DATA
+KMN110	Myelomonocytic Leukemia	C81-C96	NO_DATA
+KMN111	Myelomonocytic Leukemia Variant: Increase in Abnormal Marrow Eosinophils	C81-C96	NO_DATA
+KMN112	Erythroleukemia	C81-C96	NO_DATA
+KMN113	Megakaryoblastic leukemia	C81-C96	NO_DATA
+KMN115	Nodular Lymphocyte-Predominant Hodgkin's Lymphoma	C81-C96	NO_DATA
+KMN116	Primary Effusion Lymphoma	C81-C96	NO_DATA
+KMN117	Classical Hodgkin's Lymphoma	C81-C96	NO_DATA
+KMN118	Adult T Cell Lymphoma/Leukemia	C81-C96	NO_DATA
+KMN119	Primary Testicular Lymphoma	C81-C96	NO_DATA
+KMN120	Precursor B Cell Acute Lymphoid Leukemia	C81-C96	NO_DATA
+KMN121	Precursor T cell Lymphoblastic Lymphoma	C81-C96	NO_DATA
+KMN123	Monocytic Leukemia	C81-C96	C93
+KMN124	Cutaneous T cell Lymphoma	C81-C96	NO_DATA
+KMN127	Chronic Myelogenous Leukemia	C81-C96	NO_DATA
+KMN128	Anaplastic Large T-cell Lymphoma	C81-C96	NO_DATA
+KMN129	Immunoblastic lymphoma	C81-C96	NO_DATA
+KMN130	Immunoproliferative Small Intestinal Disease	C81-C96	C88.3
+KMN134	Vipoma	D10-D36	NO_DATA
+KMN135	Insulinoma	D10-D36	NO_DATA
+KMN137	Glucagonoma	D10-D36	NO_DATA
+KMN138	Somatostatinoma Syndrome	D10-D36	NO_DATA
+KMN140	Pheochromocytoma	D10-D36	NO_DATA
+KMN141	TSH-Secreting Adenomas	D10-D36	NO_DATA
+KMN142	Osteochondroma	D10-D36	NO_DATA
+KMN143	Lipoma	D10-D36	NO_DATA
+KMN144	Hypothalamic Gangliocytoma	D10-D36	NO_DATA
+KMN145	Dysplastic gangliocytoma of cerebellum	D10-D36	NO_DATA
+KMN146	Schwannoma	D10-D36	NO_DATA
+KMN147	Neuroendocrine Tumor	D10-D36	NO_DATA
+KMN148	Gonadotropin-Producing Pituitary Adenoma	D10-D36	NO_DATA
+KMN149	Polyposis Coli	D10-D36	NO_DATA
+KMN150	Myxoma	D10-D36	NO_DATA
+KMN151	Pulmonary Lymphangioleiomyomatosis	D10-D36	NO_DATA
+KMN152	Leiomyoma	D10-D36	NO_DATA
+KMN154	Gastrinoma	D37-D48	NO_DATA
+KMN157	Pituitary Tumor	D37-D48	NO_DATA
+KMN158	Familial Paraganglioma Syndrome	D37-D48	NO_DATA
+KMN159	Teratoma	D37-D48	NO_DATA
+KMN160	Hemangioblastoma	D37-D48	NO_DATA
+KMN161	Goiter	D37-D48	NO_DATA
+KMN164	GIST	D37-D48	NO_DATA
+KMN166	Meningiomas	D37-D48	NO_DATA
+KMN167	Desmoplastic Small Round-cell Tumor	D37-D48	NO_DATA
+KMN168	Adenoid-cystic carcinoma	D37-D48	NO_DATA
+KMN169	Multiple Endocrine Neoplasia Type 1	D37-D48	NO_DATA
+KMN170	Multiple Endocrine Neoplasia Type 2	D37-D48	NO_DATA
+KMN171	Craniopharyngioma	D37-D48	NO_DATA
+KMN172	Soft Tissue Tumor	D37-D48	NO_DATA
+KMN173	Brain Tumor	D37-D48	NO_DATA
+KMN174	Refractory anemia	D37-D48	NO_DATA
+KMN175	Juxtaglomerular Cell Tumor	D37-D48	NO_DATA
+KMN176	Chronic Idiopathic Myelofibrosis	D37-D48	NO_DATA
+KMN177	Epithelioid Hemangioendothelioma	D37-D48	NO_DATA
+KMN179	Granulosa Cell Tumor	D37-D48	NO_DATA
+KMN184	alpha-Thalassemia Syndrome	D55-D59	NO_DATA
+KMN185	G6PD Deficiency	D55-D59	NO_DATA
+KMN186	beta-Thalassemia Syndrome	D55-D59	NO_DATA
+KMN191	Sickle Cell Syndrome	D55-D59	NO_DATA
+KMN192	High oxygen affinity hemoglobin erythremia	D55-D59	NO_DATA
+KMN193	Congenital hemolytic anemia	D55-D59	NO_DATA
+KMN195	Immune Hemolysis	D55-D59	NO_DATA
+KMN196	Spur Cell Anemia	D55-D59	NO_DATA
+KMN197	X-Linked Sideroblastic Anemia	D60-D64	NO_DATA
+KMN199	Hereditary sideroblastic anemia	D60-D64	D64.0
+KMN200	Anaplastic anemia	D60-D64	NO_DATA
+KMN201	Idiopathic sideroblastic anemia	D60-D64	NO_DATA
+KMN202	Alpha2 Plasmin Inhibitor Deficiency	D65-D69	NO_DATA
+KMN203	Antithrombin Deficiency	D65-D69	NO_DATA
+KMN205	Glanzmann's Disease	D65-D69	NO_DATA
+KMN207	Dysfibrinogenemia	D65-D69	NO_DATA
+KMN210	Plasminogen Activator Inhibitor 1 Deficiency	D65-D69	NO_DATA
+KMN211	Protein C Deficiency	D65-D69	NO_DATA
+KMN212	Protein S Deficiency	D65-D69	NO_DATA
+KMN213	Prothrombin Deficiency	D65-D69	NO_DATA
+KMN214	Henoch-Schonlein Purpura	D65-D69	NO_DATA
+KMN216	Resistance to Activated Protein C	D65-D69	NO_DATA
+KMN217	Hemophilia A	D65-D69	NO_DATA
+KMN218	Hemophilia B	D65-D69	NO_DATA
+KMN219	Hyperfibrinogenemia	D65-D69	NO_DATA
+KMN220	Coagulant factor VII hyperactivity	D65-D69	NO_DATA
+KMN221	Congenital coagulant factor XII deficiency	D65-D69	NO_DATA
+KMN222	Congenital hypoplasminogenemia	D65-D69	NO_DATA
+KMN223	Congenital heparin cofactor II deficiency	D65-D69	NO_DATA
+KMN230	Idiopathic Thrombocytopenic Purpura	D65-D69	NO_DATA
+KMN233	TNF-alpha Receptor-associated Periodic Syndrome	D70-D77	NO_DATA
+KMN234	Mycobacteria Susceptibility	D70-D77	NO_DATA
+KMN236	Eosinophilia	D70-D77	D72.1
+KMN237	Neutropenia	D70-D77	D70
+KMN238	Polycythemia	D70-D77	NO_DATA
+KMN239	Congenital Methemoglobinemia	D70-D77	D74.0
+KMN240	Congenital neutropenia	D70-D77	NO_DATA
+KMN241	Leukocyte Adhesion Deficiency Type 1	D70-D77	NO_DATA
+KMN242	Leukocyte Adhesion Deficiency Type 2	D70-D77	NO_DATA
+KMN243	Leukocyte Adhesion Deficiency Type 3	D70-D77	NO_DATA
+KMN282	X-linked TBG Deficiency	E00-E07	NO_DATA
+KMN283	Graves' Disease	E00-E07	NO_DATA
+KMN284	Sick Euthyroid Syndrome	E00-E07	NO_DATA
+KMN285	Familial Dysalbuminemic Hyperthyroxinemia	E00-E07	NO_DATA
+KMN286	Hashimoto's disease	E00-E07	NO_DATA
+KMN287	Resistance to Thyroid Hormone	E00-E07	NO_DATA
+KMN288	Euthyroid Hyperthyroxinemia	E00-E07	NO_DATA
+KMN289	Thyroid Disease	E00-E07	NO_DATA
+KMN290	Autoimmune Hypothyroidism	E00-E07	NO_DATA
+KMN291	Congenital Hypothyroidism	E00-E07	NO_DATA
+KMN308	17 alpha-Hydroxylase Deficiency	E20-E35	NO_DATA
+KMN309	21-Hydroxylase Deficiency	E20-E35	NO_DATA
+KMN310	3 beta-Hydroxysteroid Dehydrogenase Type II Deficiency	E20-E35	NO_DATA
+KMN311	ACTH Deficiency	E20-E35	NO_DATA
+KMN315	Carcinoid Syndrome	E20-E35	E34.0
+KMN316	Kallmann Syndrome	E20-E35	NO_DATA
+KMN319	Cushing's Disease	E20-E35	NO_DATA
+KMN320	Glucocorticoid-Remediable Aldosteronism	E20-E35	E26.02
+KMN321	Gonadotropin Deficiency	E20-E35	NO_DATA
+KMN322	Gonadotropin-Independent Precocious Puberty	E20-E35	NO_DATA
+KMN324	Frohlich Syndrome	E20-E35	NO_DATA
+KMN325	Jansen's Disease	E20-E35	NO_DATA
+KMN327	Lymphocytic Hypophysitis	E20-E35	NO_DATA
+KMN328	Ectopic hormone producing tumor	E20-E35	NO_DATA
+KMN330	Pseudopseudohypoparathyroidism	E20-E35	NO_DATA
+KMN333	Syndrome of Inappropriate Antidiuretic Hormone Secretion	E20-E35	NO_DATA
+KMN334	Hypergonadotropic Hypogonadal Ovarian Failure	E20-E35	NO_DATA
+KMN335	Autoimmune Polyendocrinopathy-Candidiasis-Ectodermal Dystrophy	E20-E35	NO_DATA
+KMN336	Congenital Disorders Associated with Gonadotropin Deficiency	E20-E35	NO_DATA
+KMN337	Gonadotropin-releasing Hormone Resistance	E20-E35	NO_DATA
+KMN338	Adult GH Deficiency	E20-E35	NO_DATA
+KMN341	Congenital Lipoid Adrenal Hyperplasia	E20-E35	NO_DATA
+KMN343	Progeria	E20-E35	NO_DATA
+KMN344	Polyglandular Autoimmune Syndrome Type I	E20-E35	NO_DATA
+KMN345	Polyglandular Autoimmune Syndrome Type II	E20-E35	NO_DATA
+KMN346	Polycystic Ovarian Syndrome	E20-E35	E28.2
+KMN347	Idiopathic hypoparathyroidism	E20-E35	E20.0
+KMN348	Diabetes Insipidus	E20-E35	E23.2
+KMN349	Panhypopituitarism	E20-E35	NO_DATA
+KMN350	Adrenogenital Syndrome	E20-E35	NO_DATA
+KMN351	Ovarian Failure	E20-E35	NO_DATA
+KMN353	Rogers' Syndrome	E50-E64	NO_DATA
+KMN356	Vitamin B12 Deficiency	E50-E64	NO_DATA
+KMN357	Thiamine Deficiency	E50-E64	E51
+KMN358	Vitamin B6 Deficiency	E50-E64	NO_DATA
+KMN359	Vitamin D-Dependent Rickets Type II	E50-E64	NO_DATA
+KMN360	Vitamin D-Dependent Rickets Type I	E50-E64	NO_DATA
+KMN361	Vitamin D Deficiency	E50-E64	E55
+KMN362	Vitamin E deficiency	E50-E64	NO_DATA
+KMN363	Vitamin K Deficiency	E50-E64	NO_DATA
+KMN366	Folate Deficiency	E50-E64	NO_DATA
+KMN374	3-Oxothiolase Deficiency	E70-E90	NO_DATA
+KMN375	3-Hydroxy-3-methylglutaric Aciduria	E70-E90	NO_DATA
+KMN376	3-Methylcrotonyl Glycinuria	E70-E90	NO_DATA
+KMN377	3-Methylglutaconic Aciduria Type I	E70-E90	NO_DATA
+KMN378	4-Hydroxybutyric Aciduria	E70-E90	NO_DATA
+KMN379	Beta-mercaptolactate-cysteine disulfiduria	E70-E90	NO_DATA
+KMN381	GM2-ganglioside activator deficiency	E70-E90	NO_DATA
+KMN382	GTP Cyclohydrolase I Deficiency	E70-E90	NO_DATA
+KMN384	PRPP synthetase super-activity	E70-E90	NO_DATA
+KMN385	PRPP synthetase deficiency	E70-E90	NO_DATA
+KMN386	X-Linked Hypophosphatemic Rickets	E70-E90	NO_DATA
+KMN390	ApoA-I Deficiency	E70-E90	NO_DATA
+KMN392	Arginase Deficiency	E70-E90	NO_DATA
+KMN393	Argininosuccinic Acidemia	E70-E90	NO_DATA
+KMN394	alpha-Ketoadipic Acidemia	E70-E90	NO_DATA
+KMN396	alpha1 Antitrypsin Deficiency	E70-E90	NO_DATA
+KMN397	Andersen's Syndrome	E70-E90	NO_DATA
+KMN401	Wolman Disease	E70-E90	NO_DATA
+KMN402	Galactosemia with Uridyl Transferase Deficiency	E70-E90	NO_DATA
+KMN403	Uridine Diphosphate Galactose 4-Epimerase Deficiency	E70-E90	NO_DATA
+KMN404	Ureidopropionase Deficiency	E70-E90	NO_DATA
+KMN405	Urocanic Aciduria	E70-E90	NO_DATA
+KMN408	CPT II Deficiency	E70-E90	NO_DATA
+KMN409	Carnitine Deficiency	E70-E90	NO_DATA
+KMN410	Carnosinase deficiency	E70-E90	NO_DATA
+KMN411	Carbamylphosphate Synthase Deficiency	E70-E90	NO_DATA
+KMN412	Carbinolamine Dehydratase Deficiency	E70-E90	NO_DATA
+KMN416	Glucose-Galactose Malabsorption	E70-E90	NO_DATA
+KMN417	Glucose-Transport Defect	E70-E90	NO_DATA
+KMN419	Glutaric Acidemia Type II	E70-E90	NO_DATA
+KMN420	Glutaric Acidemia Type I	E70-E90	NO_DATA
+KMN421	Cholesteryl Ester Storage Disease	E70-E90	NO_DATA
+KMN422	CETP Deficiency	E70-E90	NO_DATA
+KMN423	Sarcosinemia	E70-E90	NO_DATA
+KMN429	Citrullinemia Type II	E70-E90	NO_DATA
+KMN430	Citrullinemia Type I	E70-E90	NO_DATA
+KMN435	Sulfocysteinuria	E70-E90	NO_DATA
+KMN438	Thymidine Phosphorylase Deficiency	E70-E90	NO_DATA
+KMN439	Tyrosinemia Type III	E70-E90	NO_DATA
+KMN440	Tyrosinemia Type II	E70-E90	NO_DATA
+KMN441	Tyrosinemia Type I	E70-E90	NO_DATA
+KMN444	ALA-Dehydratase-Deficient Porphyria	E70-E90	NO_DATA
+KMN445	Tryptophan Malabsorption	E70-E90	NO_DATA
+KMN446	Tryptophanuria	E70-E90	NO_DATA
+KMN447	Niemann-Pick Disease	E70-E90	E75.24
+KMN448	Hartnup Disease	E70-E90	NO_DATA
+KMN451	Histidinuria	E70-E90	NO_DATA
+KMN453	HPRT Deficiency	E70-E90	NO_DATA
+KMN454	Pyrimidine 5'-Nucleotidase Deficiency	E70-E90	NO_DATA
+KMN456	Farber Disease	E70-E90	NO_DATA
+KMN459	Fanconi Syndrome	E70-E90	NO_DATA
+KMN460	Phenylketonuria Type III	E70-E90	NO_DATA
+KMN461	Phenylketonuria Type II	E70-E90	NO_DATA
+KMN462	Phenylketonuria Type I	E70-E90	NO_DATA
+KMN464	Fructose 1,6-diphosphatase Deficiency	E70-E90	NO_DATA
+KMN465	Fructose 1,6-bisphosphate Aldolase A Deficiency	E70-E90	NO_DATA
+KMN470	beta-Enolase Deficiency	E70-E90	NO_DATA
+KMN471	Hawkinsinuria	E70-E90	NO_DATA
+KMN472	Phosphoglycerate Kinase Deficiency	E70-E90	NO_DATA
+KMN473	Phosphoglycerate Dehydrogenase Deficiency	E70-E90	NO_DATA
+KMN474	Phosphoglycerate Mutase Deficiency	E70-E90	NO_DATA
+KMN475	Homocarnosinosis	E70-E90	NO_DATA
+KMN477	Homocystinuria and Methylmalonic Acidemia	E70-E90	NO_DATA
+KMN478	Formiminoglutamic Aciduria	E70-E90	NO_DATA
+KMN479	Myoadenylate Deaminase Deficiency	E70-E90	E79.2
+KMN480	Mucolipidoses-III	E70-E90	NO_DATA
+KMN481	Mucolipidoses-II	E70-E90	NO_DATA
+KMN482	Mucopolysaccharidosis IH/S	E70-E90	NO_DATA
+KMN483	Mucopolysaccharidosis IH	E70-E90	NO_DATA
+KMN484	Mucopolysaccharidosis IIIA	E70-E90	NO_DATA
+KMN485	Mucopolysaccharidosis IIIB	E70-E90	NO_DATA
+KMN486	Mucopolysaccharidosis IIIC	E70-E90	NO_DATA
+KMN487	Mucopolysaccharidosis IIID	E70-E90	NO_DATA
+KMN488	Mucopolysaccharidosis II	E70-E90	NO_DATA
+KMN489	Mucopolysaccharidosis IS	E70-E90	NO_DATA
+KMN490	Mucopolysaccharidosis IVA	E70-E90	NO_DATA
+KMN491	Mucopolysaccharidosis IVB	E70-E90	NO_DATA
+KMN492	Mucopolysaccharidosis VII	E70-E90	NO_DATA
+KMN493	Mucopolysaccharidosis VI	E70-E90	NO_DATA
+KMN495	Metabolic Syndrome	E70-E90	E88.81
+KMN496	Methionine Malabsorption	E70-E90	NO_DATA
+KMN497	Methylmalonic Acidemia	E70-E90	E71.120
+KMN499	Lysinuria	E70-E90	NO_DATA
+KMN500	Lipoamide dehydrogenasee deficieny	E70-E90	NO_DATA
+KMN501	Lipoprotein Lipase Deficiency	E70-E90	NO_DATA
+KMN502	LCAT Deficiency	E70-E90	NO_DATA
+KMN505	Hereditary Xanthinuria	E70-E90	NO_DATA
+KMN506	Hereditary Coproporphyria	E70-E90	NO_DATA
+KMN507	Hereditary Vitamin D-resistant Rickets	E70-E90	NO_DATA
+KMN508	Hereditary Aceruloplasminemia	E70-E90	NO_DATA
+KMN509	Familial Apolipoprotein C-II Deficiency	E70-E90	NO_DATA
+KMN510	Familial Dysbetalipoproteinemia	E70-E90	NO_DATA
+KMN511	Familial Defective ApoB-100	E70-E90	NO_DATA
+KMN512	Familial Hyperalphalipoproteinemia	E70-E90	NO_DATA
+KMN514	Familial Hypertriglyceridemia	E70-E90	NO_DATA
+KMN518	Activation-Induced Cytidine Deaminase Deficiency	E70-E90	NO_DATA
+KMN520	Hepatoerythropoietic porphyria	E70-E90	NO_DATA
+KMN521	Glycogen Storage Disease 0	E70-E90	NO_DATA
+KMN522	Glycogen Storage Disease III	E70-E90	NO_DATA
+KMN523	Glycogen Storage Disease IV	E70-E90	NO_DATA
+KMN524	Glycogen Storage Disease IX	E70-E90	NO_DATA
+KMN525	Glycogen Storage Disease I	E70-E90	NO_DATA
+KMN526	Glycogen Storage Disease VI	E70-E90	NO_DATA
+KMN527	Glycogen Storage Disease XI	E70-E90	NO_DATA
+KMN528	Pseudohypoaldosteronism	E70-E90	NO_DATA
+KMN529	Acute Intermittent Porphyria	E70-E90	NO_DATA
+KMN530	Glycogen Storage Disease II	E70-E90	NO_DATA
+KMN531	Glycogen Storage Disease VII	E70-E90	NO_DATA
+KMN532	Glycogen Storage Disease V	E70-E90	NO_DATA
+KMN533	Primary Lactase Deficiency	E70-E90	NO_DATA
+KMN534	Primary Hypoalphalipoproteinemia	E70-E90	NO_DATA
+KMN535	Classic Cystinuria	E70-E90	NO_DATA
+KMN536	Hyper Lp(a) lipoproteinemia	E70-E90	NO_DATA
+KMN537	Hyperornithinemia-Hyperammonemia-Homocitrullinuria	E70-E90	NO_DATA
+KMN538	Hypercystinuria	E70-E90	NO_DATA
+KMN539	Hyperoxaluria Type II	E70-E90	NO_DATA
+KMN540	Hyperoxaluria Type I	E70-E90	NO_DATA
+KMN541	Hypervalinemia	E70-E90	NO_DATA
+KMN542	Hyperhydroxyprolinemia	E70-E90	NO_DATA
+KMN543	Hyperprolinemia Type II	E70-E90	NO_DATA
+KMN544	Hyperprolinemia Type I	E70-E90	NO_DATA
+KMN547	Hyperleucine-Isoleucinemia	E70-E90	NO_DATA
+KMN548	Hyperuricemia	E70-E90	NO_DATA
+KMN551	Autosomal Recessive Hypercholesterolemia	E70-E90	NO_DATA
+KMN552	Neuronal ceroid-lipofuscinosis	E70-E90	NO_DATA
+KMN553	Erythropoietic Protoporphyria	E70-E90	NO_DATA
+KMN554	Congenital Chloridorrhea	E70-E90	NO_DATA
+KMN555	Congenital Homocystinuria Syndrome	E70-E90	NO_DATA
+KMN556	Congenital Erythropoietic Porphyria	E70-E90	NO_DATA
+KMN557	Polygenic Hypercholesterolemia	E70-E90	NO_DATA
+KMN559	Multiple Carboxylase/Biotinidase Deficiency	E70-E90	NO_DATA
+KMN560	Variegate Porphyria	E70-E90	NO_DATA
+KMN563	Hypouricemia	E70-E90	NO_DATA
+KMN564	Dibasic Aminoaciduria	E70-E90	NO_DATA
+KMN565	Lactate Dehydrogenase Deficiency	E70-E90	NO_DATA
+KMN568	Albinism (oculocutaneous)	E70-E90	NO_DATA
+KMN569	Porphyria Cutanea Tarda	E70-E90	E80.1
+KMN570	Nonketotic hyperglycinemia-type I	E70-E90	NO_DATA
+KMN571	Essential Fructosuria	E70-E90	E74.11
+KMN572	Essential pentosuria	E70-E90	NO_DATA
+KMN575	Depression	F30-F39	NO_DATA
+KMN577	Anorexia Nervosa	F50-F59	F50.0
+KMN580	Acute Bacterial Meningitis	G00-G09	NO_DATA
+KMN581	Hypothalamic Encephalitis	G00-G09	NO_DATA
+KMN582	Paraneoplastic Encephalomyelitis	G00-G09	NO_DATA
+KMN583	Brainstem Encephalitis	G00-G09	NO_DATA
+KMN584	Encephalomyelitis	G00-G09	NO_DATA
+KMN585	Limbic Encephalitis	G00-G09	NO_DATA
+KMN586	X-Linked Spinobulbar Muscular Atrophy	G10-G13	NO_DATA
+KMN590	Amyotrophic Lateral Sclerosis	G10-G13	G12.21
+KMN591	Dentatorubropallidoluysian Atrophy	G10-G13	NO_DATA
+KMN594	DOPA-responsive Dystonia	G20-G26	NO_DATA
+KMN596	Hereditary progressive dystonia	G20-G26	NO_DATA
+KMN598	Opsoclonus-Myoclonus	G20-G26	NO_DATA
+KMN600	Early-onset torsion dystonia	G20-G26	NO_DATA
+KMN601	Idiopathic Torsion Dystonia	G20-G26	NO_DATA
+KMN602	Chorea	G20-G26	NO_DATA
+KMN616	Miller-Dieker's syndrome	G40-G47	NO_DATA
+KMN617	Epilepsy Syndrome	G40-G47	NO_DATA
+KMN619	Familial Hemiplegic Migraine	G40-G47	NO_DATA
+KMN621	Sleep Apnea	G40-G47	G47.3
+KMN622	MERRF Syndrome	G40-G47	E88.42
+KMN623	Severe myoclonic epilepsy of infancy	G40-G47	NO_DATA
+KMN624	Generalized Epilepsy with Febrile Convulsions Plus	G40-G47	NO_DATA
+KMN625	Migraine	G40-G47	G43
+KMN626	Benign Neonatal Familial Convulsion	G40-G47	NO_DATA
+KMN648	Myotonic Dystrophy Type 1	G70-G73	NO_DATA
+KMN649	Myotonic Dystrophy Type 2	G70-G73	NO_DATA
+KMN654	Schwartz-Jampel syndrome (chondrodystrophic myotonia)	G70-G73	NO_DATA
+KMN655	Stiff-Person Syndrome	G70-G73	NO_DATA
+KMN658	Thomsen's Disease	G70-G73	NO_DATA
+KMN659	Na channel myotonia	G70-G73	NO_DATA
+KMN662	Becker's Disease	G70-G73	NO_DATA
+KMN663	Mitochondrial DNA Depletion Myopathy	G70-G73	NO_DATA
+KMN665	Primary merosin deficiency	G70-G73	NO_DATA
+KMN666	Hereditary Inclusion Body Myopathy	G70-G73	NO_DATA
+KMN667	Distal Myopathy with Rimmed Vacuoles	G70-G73	NO_DATA
+KMN670	Hyperkalemic Periodic Paralysis	G70-G73	NO_DATA
+KMN673	Limb-Girdle Muscular Dystrophy 1A	G70-G73	NO_DATA
+KMN674	Limb-Girdle Muscular Dystrophy 1B	G70-G73	NO_DATA
+KMN676	Limb-Girdle Muscular Dystrophy 1D	G70-G73	NO_DATA
+KMN677	Limb-Girdle Muscular Dystrophy 1E	G70-G73	NO_DATA
+KMN678	Limb-Girdle Muscular Dystrophy 2A	G70-G73	NO_DATA
+KMN680	Limb-Girdle Muscular Dystrophy 2C	G70-G73	NO_DATA
+KMN681	Limb-Girdle Muscular Dystrophy 2D	G70-G73	NO_DATA
+KMN682	Limb-Girdle Muscular Dystrophy 2E	G70-G73	NO_DATA
+KMN683	Limb-Girdle Muscular Dystrophy 2F	G70-G73	NO_DATA
+KMN684	Limb-Girdle Muscular Dystrophy 2G	G70-G73	NO_DATA
+KMN685	Limb-Girdle Muscular Dystrophy 2H	G70-G73	NO_DATA
+KMN686	Limb-Girdle Muscular Dystrophy 2I	G70-G73	NO_DATA
+KMN687	Limb-Girdle Muscular Dystrophy 2J	G70-G73	NO_DATA
+KMN688	Neuromyotonia	G70-G73	NO_DATA
+KMN693	Hypokalemic Periodic Paralysis	G70-G73	NO_DATA
+KMN696	Familial Spastic Paraplegia	G80-G83	NO_DATA
+KMN703	Paraneoplastic Retinopathy	H30-H36	NO_DATA
+KMN704	Diabetic Proliferative Retinopathy	H30-H36	NO_DATA
+KMN705	Gyrate Atrophy of the Choroid and Retina	H30-H36	NO_DATA
+KMN706	Glaucoma	H40-H42	H40
+KMN711	11beta-hydroxysteroid dehydrogenase deficiency	I10-I15	NO_DATA
+KMN712	11beta-hydroxylase deficiency	I10-I15	NO_DATA
+KMN714	Hypertension under acute psychological stress	I10-I15	NO_DATA
+KMN715	Juvenile hypertension	I10-I15	NO_DATA
+KMN716	Renovascular Hypertension	I10-I15	I15.0
+KMN717	Renal Parenchymal Hypertension	I10-I15	NO_DATA
+KMN718	Endocrine hypertension	I10-I15	NO_DATA
+KMN719	Essential Hypertension	I10-I15	NO_DATA
+KMN729	Pulmonary Thromboembolism	I26-I28	NO_DATA
+KMN730	Pulmonary Embolism	I26-I28	I26
+KMN733	Catecholamine VT	I30-I52	NO_DATA
+KMN734	Jorvell and Lange-Nielsen Syndrome	I30-I52	NO_DATA
+KMN737	Acute Pericarditis	I30-I52	I30
+KMN742	Aneurysm	I70-I79	NO_DATA
+KMN748	Bronchiectasis	J40-J47	J47
+KMN749	Emphysema	J40-J47	J43
+KMN750	Chronic Obstructive Pulmonary Disease	J40-J47	NO_DATA
+KMN752	Hypersensitivity Pneumonitis	J60-J70	NO_DATA
+KMN758	Type A Gastritis	K20-K31	NO_DATA
+KMN759	Menetrier's Disease	K20-K31	NO_DATA
+KMN760	Gastroesophageal regurgitation	K20-K31	NO_DATA
+KMN761	Peptic Ulcer Disease	K20-K31	NO_DATA
+KMN764	Mesenteric Venous Thrombosis	K55-K63	NO_DATA
+KMN774	Gallstone	K80-K87	NO_DATA
+KMN782	Lymphomatoid Papulosis	L40-L45	NO_DATA
+KMN784	Urticaria	L50-L54	L50
+KMN785	Papular Mucinosis	L80-L99	NO_DATA
+KMN786	Lichen Myxedematosus	L80-L99	NO_DATA
+KMN787	Psoriatic Arthritis	M05-M14	NO_DATA
+KMN789	Adult Still's disease	M05-M14	NO_DATA
+KMN790	Monosodium Urate Gout	M05-M14	NO_DATA
+KMN791	CPPD Deposition Disease	M05-M14	NO_DATA
+KMN792	Uric Acid Nephropathy	M05-M14	NO_DATA
+KMN793	Reactive Arthritis	M05-M14	NO_DATA
+KMN797	Wegener's Granulomatosis	M30-M36	M31.3
+KMN798	Goodpasture's Syndrome	M30-M36	NO_DATA
+KMN800	Behcet's Syndrome	M30-M36	NO_DATA
+KMN806	Anti-Glomerular Basement Membrane Disease	M30-M36	NO_DATA
+KMN809	Polymyositis	M30-M36	M33.2
+KMN810	Dermatomyositis	M30-M36	NO_DATA
+KMN820	Hypertrophic Osteoarthropathy	M86-M90	NO_DATA
+KMN823	Light Chain Deposition Disease	N00-N08	NO_DATA
+KMN824	Cryoglobulinemia Glomerulopathy	N00-N08	NO_DATA
+KMN825	Mesangioproliferative Glomerulonephritis	N00-N08	NO_DATA
+KMN828	Focal and Segmental Glomerulosclerosis	N00-N08	NO_DATA
+KMN830	Idiopathic Renal-Limited Crescentic Glomerulonephritis	N00-N08	NO_DATA
+KMN831	Crescentic Glomerulonephritis	N00-N08	NO_DATA
+KMN832	Minimal Change Disease	N00-N08	NO_DATA
+KMN833	Membranous Glomerulopathy	N00-N08	NO_DATA
+KMN835	Thin Basement Membrane Nephropathy	N00-N08	NO_DATA
+KMN838	Type 1 Renal Tubular Acidosis	N25-N29	NO_DATA
+KMN839	Type 2 Renal Tubular Acidosis	N25-N29	NO_DATA
+KMN840	Type 3 Renal Tubular Acidosis	N25-N29	NO_DATA
+KMN841	Type 4 Renal Tubular Acidosis	N25-N29	NO_DATA
+KMN842	Renal osteodystrophy	N25-N29	N25.0
+KMN853	Congenital Heart Disease	Q20-Q28	NO_DATA
+KMN856	Mayer-Rokitansky-Kuster-Hauser Syndrome	Q50-Q56	NO_DATA
+KMN857	Leydig Cell Hypoplasia	Q50-Q56	NO_DATA
+KMN858	Gonadal Dysgenesis	Q50-Q56	NO_DATA

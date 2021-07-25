@@ -1,0 +1,287 @@
+Name	ICD-10	keymolnet_id	keymolnet_disease	KMN_ICD10	ICD10_check
+Acute myeloid leukemia	C92.0	KMN105	acute myeloid leukemia	C94.2	False
+Hairy cell leukemia	C91.4	KMN131	hairy cell leukemia	C91.4	True
+Hodgkin lymphoma	C81	KMN99	hodgkin lymphoma	C81	True
+Burkitt lymphoma	C83.7	KMN97	burkitt lymphoma	C83.7	True
+Multiple myeloma	C90.0	KMN122	multiple myeloma	C90.0	True
+Lymphoplasmacytic lymphoma	C83.8;C88.0	KMN102	lymphoplasmacytic lymphoma	C83.0	False
+Polycythemia vera	D45	KMN165	polycythemia vera	D45	True
+Small cell lung cancer	C34	KMN25	small cell lung cancer	C34.9	False
+Non-small cell lung cancer	C34	KMN30	non-small cell lung cancer	C34.9	False
+Esophageal cancer	C15	KMN19	esophageal cancer	C15	True
+Gastric cancer	C16	KMN15	gastric cancer	C16.9	False
+Pancreatic cancer	C25	KMN22	pancreatic cancer	C25	True
+Colorectal cancer	C18;C19;C20	KMN20	colorectal cancer	C18	False
+Renal cell carcinoma	C64	KMN60	renal cell carcinoma	C64	True
+Bladder cancer	C67	KMN61	bladder cancer	C67	True
+Prostate cancer	C61	KMN56	prostate cancer	C61	True
+Endometrial cancer	C54	KMN50	endometrial cancer	C54.1	False
+Ovarian cancer	C56	KMN53	ovarian cancer	C56	True
+Choriocarcinoma	C58	KMN54	choriocarcinoma	C58	True
+Breast cancer	C50	KMN47	breast cancer	C50	True
+Adrenal carcinoma	C74	KMN77	adrenal carcinoma	C74.0	False
+Ewing sarcoma	C41	KMN31	ewing sarcoma	C49.9	False
+Osteosarcoma	C41	KMN32	osteosarcoma	C41.9	False
+Rhabdomyosarcoma	C49	KMN39	rhabdomyosarcoma	C49.9	False
+Melanoma	C43	KMN35	melanoma	C43	True
+Basal cell carcinoma	C44	KMN34	basal cell carcinoma	C44.0	False
+Kaposi sarcoma	C46	KMN38	kaposi sarcoma	C46	True
+Glioma	C71	KMN65	glioma	C71.9	False
+Neuroblastoma	C38;C47;C48;C72;C74;C76	KMN76	neuroblastoma	C74.9	False
+Pancreatic neuroendocrine tumor	C25.4	KMN178	pancreatic neuroendocrine tumor	E16.8	False
+Cholangiocarcinoma	C22	KMN21	cholangiocarcinoma	C22.1	False
+Hepatocellular carcinoma	C22	KMN18	hepatocellular carcinoma	C22.0	False
+Synovial sarcoma	C49	KMN40	synovial sarcoma	C49.9	False
+Alveolar soft part sarcoma	C49	KMN45	alveolar soft part sarcoma	C49.9	False
+Alzheimer disease	G30	KMN603	alzheimer disease	G30	True
+Parkinson disease	G20	KMN595	parkinson disease	G20	True
+Huntington disease	G10	KMN588	huntington disease	G10	True
+Ataxia telangiectasia	G11.3	KMN593	ataxia telangiectasia	G11.3	True
+Friedreich ataxia	G11.1	KMN589	friedreich ataxia	G11.1	True
+Hereditary fructose intolerance	E74.1	KMN777	hereditary fructose intolerance	E74.12	False
+Refsum disease	G60.1	KMN632	refsum disease	G60.1	True
+Progressive supranuclear palsy	G23.1	KMN599	progressive supranuclear palsy	G23.1	True
+Frontotemporal lobar degeneration	G31.0	KMN611	frontotemporal lobar degeneration	G31.0	True
+Asthma	J45	KMN751	asthma	J45	True
+Systemic lupus erythematosus	M32	KMN807	systemic lupus erythematosus	M32	True
+Chronic granulomatous disease	D71	KMN245	chronic granulomatous disease	D71	True
+Fabry disease	E75.2	KMN457	fabry disease	E75.2	True
+Gaucher disease	E75.2	KMN380	gaucher disease	E75.22	False
+Metachromatic leukodystrophy	E75.2	KMN504	metachromatic leukodystrophy	E75.25	False
+Krabbe disease	E75.2	KMN414	krabbe disease	E75.2	True
+alpha-Mannosidosis	E77.1	KMN395	alpha-mannosidosis	E77.1	True
+beta-Mannosidosis	E77.1	KMN469	beta-mannosidosis	E77.1	True
+Fucosidosis	E77.1	KMN463	fucosidosis	E77.1	True
+Sialidosis	E77.1	KMN425	sialidosis	E77.1	True
+Aspartylglucosaminuria	E77.1	KMN387	aspartylglucosaminuria	E77.1	True
+Cerebrotendinous xanthomatosis	E75.5	KMN567	cerebrotendinous xanthomatosis	E75.5	True
+Sitosterolemia	E78.5	KMN428	sitosterolemia	E78.0	False
+Familial combined hyperlipidemia	E78.4	KMN517	familial combined hyperlipidemia	E78.4	True
+Familial hypercholesterolemia	E78.0	KMN513	familial hypercholesterolemia	E78.01	False
+Tangier disease	E78.6	KMN436	tangier disease	E78.6	True
+Abetalipoproteinemia	E78.6	KMN573	abetalipoproteinemia	E78.6	True
+Alkaptonuria	E70.2	KMN391	alkaptonuria	E70.2	True
+Hermansky-Pudlak syndrome	E70.3	KMN449	hermansky-pudlak syndrome	E70.331	False
+Histidinemia	E70.8	KMN450	histidinemia	E70.41	False
+Maple syrup urine disease	E71.0	KMN494	maple syrup urine disease	E71.0	True
+Isovaleric acidemia	E71.1	KMN398	isovaleric acidemia	E71.110	False
+Propionic acidemia	E71.1	KMN466	propionic acidemia	E71.121	False
+Cystathioninuria	E72.1	KMN426	cystathioninuria	E72.1	True
+Homocystinuria	E72.1	KMN476	homocystinuria	E72.11	False
+Hypermethioninemia	E72.1	KMN545	hypermethioninemia	E72.1	True
+Ornithine transcarbamylase deficiency	E72.4	KMN406	ornithine transcarbamylase deficiency	E72.4	True
+Hyperlysinemia	E72.3	KMN546	hyperlysinemia	E72.3	True
+Dihydropyrimidine dehydrogenase deficiency	E79.8	KMN433	dihydropyrimidine dehydrogenase deficiency	E79.8	True
+Adenine phosphoribosyltransferase deficiency	N20.2	KMN389	adenine phosphoribosyltransferase deficiency	E79.8	False
+Adenylosuccinate lyase deficiency	E79.9	KMN388	adenylosuccinate lyase deficiency	E79.8	False
+Orotic aciduria	D53.0	KMN407	orotic aciduria	D53.0;E79.8	False
+Dihydropyrimidinase deficiency	NO_DATA	KMN432	dihydropyrimidinase deficiency	E79.8	False
+Wilson disease	E83.0	KMN400	wilson disease	E83.0	True
+Hemochromatosis	E83.1	KMN468	hemochromatosis	E83.11	False
+Acrodermatitis enteropathica	E83.2	KMN561	acrodermatitis enteropathica	E83.2	True
+Hypophosphatasia	E83.3	KMN562	hypophosphatasia	E83.3	True
+Congenital adrenal hyperplasia	E25.0	KMN342	congenital adrenal hyperplasia	E25.0	True
+Pulmonary alveolar proteinosis	J84.0	KMN757	pulmonary alveolar proteinosis	J84.0	True
+Cystic fibrosis	E84	KMN566	cystic fibrosis	E84	True
+Factor V deficiency	D68.2	KMN226	factor v deficiency	D68.2	True
+Afibrinogenemia	D68.2	KMN232	afibrinogenemia	D65	False
+Bernard-Soulier syndrome	D69.1	KMN215	bernard-soulier syndrome	D69.1	True
+Thrombotic thrombocytopenic purpura	D69.2	KMN803	thrombotic thrombocytopenic purpura	M31.1	False
+Congenital amegakaryocytic thrombocytopenia	D69.4	KMN224	congenital amegakaryocytic thrombocytopenia	D61.0	False
+Hereditary spherocytosis	D58.0	KMN187	hereditary spherocytosis	D58.0	True
+Hereditary elliptocytosis	D58.1	KMN189	hereditary elliptocytosis	D58.1	True
+Hereditary stomatocytosis	D58.8	KMN188	hereditary stomatocytosis	D58.8	True
+Fanconi anemia	D61.0	KMN198	fanconi anemia	D61.0	True
+Bartter syndrome	E26.8	KMN323	bartter syndrome	E26.8	True
+Gitelman syndrome	E26.8	KMN317	gitelman syndrome	N15.8	False
+Liddle syndrome	I15.2	KMN826	liddle syndrome	I15.1	False
+Pseudohypoparathyroidism	E20.1	KMN331	pseudohypoparathyroidism	E20.1	True
+Growth hormone deficiency	E23.0	KMN339	growth hormone deficiency	E23.0	True
+Apparent mineralocorticoid excess syndrome	E26.1	KMN713	apparent mineralocorticoid excess syndrome	E26.1	True
+Hereditary sensory and autonomic neuropathy	G90.1;G60.8	KMN634	hereditary sensory and autonomic neuropathy	G60.8	False
+Multiple sulfatase deficiency	E75.2	KMN558	multiple sulfatase deficiency	E75.2	True
+Cystinosis	E72.0	KMN427	cystinosis	E72.04	False
+Crohn disease	K50	KMN762	crohn disease	K50	True
+Hypertrophic cardiomyopathy	I42	KMN739	hypertrophic cardiomyopathy	I42	True
+Dilated cardiomyopathy	I42	KMN736	dilated cardiomyopathy	I42.0	False
+Viral myocarditis	I40	KMN732	viral myocarditis	B33.22	False
+Type 1 diabetes mellitus	E10	KMN292	type 1 diabetes mellitus	E10	True
+Type 2 diabetes mellitus	E11	KMN293	type 2 diabetes mellitus	E11	True
+Bardet-Biedl syndrome	Q87.8	KMN878	bardet-biedl syndrome	Q87.8	True
+Holt-Oram syndrome	Q87.2	KMN882	holt-oram syndrome	Q87.2	True
+Osteopetrosis	Q78.2	KMN871	osteopetrosis	Q78.2	True
+Paget disease of bone	M88	KMN819	paget disease of bone	M88	True
+Rett syndrome	F84.2	KMN578	rett syndrome	F84.2	True
+Campomelic dysplasia	Q87.1	KMN866	campomelic dysplasia	Q87.1	True
+Spinal muscular atrophy	G12.0;G12.1	KMN592	spinal muscular atrophy	G12	False
+Nail-patella syndrome	Q87.2	KMN892	nail-patella syndrome	Q87.2	True
+Prader-Willi syndrome	Q87.1	KMN881	prader-willi syndrome	Q87.11	False
+Osteogenesis imperfecta	Q78.0	KMN867	osteogenesis imperfecta	Q78.0	True
+Dyskeratosis congenita	Q82.8	KMN890	dyskeratosis congenita	Q82.8	True
+Cleidocranial dysplasia	Q74.0	KMN885	cleidocranial dysplasia	Q74.0	True
+Hereditary hemorrhagic telangiectasia	I78.0	KMN741	hereditary hemorrhagic telangiectasia	I78.0	True
+Nephronophthisis	Q61.5	KMN861	nephronophthisis	Q61.5	True
+Septo-optic dysplasia	Q04.8	KMN851	septo-optic dysplasia	Q04.4	False
+Alagille syndrome	Q44.7	KMN854	alagille syndrome	Q44.7	True
+von Hippel-Lindau syndrome	Q85.8	KMN879	von hippel-lindau syndrome	Q85.8	True
+Emery-Dreifuss muscular dystrophy	G71.0	KMN652	emery-dreifuss muscular dystrophy	G71.0	True
+Limb-girdle muscular dystrophy 1C	G71.0	KMN675	limb-girdle muscular dystrophy 1c	G71.0	True
+Epstein syndrome	D69.4	KMN204	epstein syndrome	D69.4	True
+Alport syndrome	Q87.8	KMN876	alport syndrome	Q87.8	True
+Facioscapulohumeral muscular dystrophy	G71.0	KMN669	facioscapulohumeral muscular dystrophy	G71.02	False
+Persistent Mullerian duct syndrome	Q55.8	KMN855	persistent mullerian duct syndrome	Q55.8	True
+Progressive familial intrahepatic cholestasis	K83.1	KMN770	progressive familial intrahepatic cholestasis	K76.8	False
+Rheumatoid arthritis	M05	KMN788	rheumatoid arthritis	M06	False
+Marfan syndrome	Q87.4	KMN883	marfan syndrome	Q87.4	True
+Netherton syndrome	Q80.8	KMN269	netherton syndrome	Q80.8	True
+Nemaline myopathy	G71.2	KMN660	nemaline myopathy	G71.21	False
+Central core disease	G71.2	KMN656	central core disease	G71.2	True
+Centronuclear myopathy	G71.2	KMN692	centronuclear myopathy	G71.22	False
+Oculopharyngeal muscular dystrophy	G71.0	KMN668	oculopharyngeal muscular dystrophy	G71.0	True
+Myotonia congenita	G71.1	KMN690	myotonia congenita	G71.12	False
+Leprechaunism	E34.8	KMN305	leprechaunism	E34.8	True
+Long QT syndrome	I45.81	KMN731	long qt syndrome	I45.81	True
+Brugada syndrome	I49.0	KMN735	brugada syndrome	I49.8	False
+Paramyotonia congenita	G71.1	KMN689	paramyotonia congenita	G71.1	True
+Congenital myasthenic syndrome	G70.2	KMN691	congenital myasthenic syndrome	G70.2	True
+Ehlers-Danlos syndrome	Q79.6	KMN863	ehlers-danlos syndrome	Q79.6	True
+Age-related macular degeneration	H35.3	KMN702	age-related macular degeneration	H35.2	False
+Trichothiodystrophy	L67.8	KMN367	trichothiodystrophy	L67.8	True
+Li-Fraumeni syndrome	Z15	KMN156	li-fraumeni syndrome	C97	False
+Iminoglycinuria	E72.0	KMN399	iminoglycinuria	E72.0	True
+Dicarboxylic aminoaciduria	NO_DATA	KMN431	dicarboxylic aminoaciduria	E72.0	False
+Factor XI deficiency	D68.1	KMN228	factor xi deficiency	D68.1	True
+Rabson-Mendenhall syndrome	E13	KMN296	rabson-mendenhall syndrome	E13	True
+Factor XIII deficiency	D68.2	KMN227	factor xiii deficiency	D68.2	True
+Familial adenomatous polyposis	D12.6	KMN139	familial adenomatous polyposis	D12.6	True
+N-acetylglutamate synthase deficiency	E72.2	KMN383	n-acetylglutamate synthase deficiency	E72.2	True
+Paroxysmal nocturnal hemoglobinuria	D59.5	KMN194	paroxysmal nocturnal hemoglobinuria	D59.5	True
+Pyruvate kinase deficiency	D55.2	KMN455	pyruvate kinase deficiency	E74.4	False
+Prolidase deficiency	E72.8	KMN467	prolidase deficiency	E72.8	True
+Hereditary pyropoikilocytosis	D58.1	KMN190	hereditary pyropoikilocytosis	D58.1	True
+Autosomal recessive spastic ataxia of Charlevoix-Saguenay	G11.1	KMN587	autosomal recessive spastic ataxia of charlevoix-saguenay	G11.1	True
+Cataract	H26;Q12.0	KMN701	cataract	H26	False
+Restrictive cardiomyopathy	I42	KMN738	restrictive cardiomyopathy	I42.5	False
+Cowden syndrome	Q85.9	KMN153	cowden syndrome	Q85.8	False
+Isolated follicle-stimulating hormone deficiency	E23.6	KMN352	isolated follicle-stimulating hormone deficiency	E23.6	True
+Familial hypobetalipoproteinemia	E78.6	KMN516	familial hypobetalipoproteinemia	E78.6	True
+Mulibrey nanism	Q87.1	KMN271	mulibrey nanism	Q87.1	True
+Idiopathic pulmonary fibrosis	J84.1	KMN755	idiopathic pulmonary fibrosis	J84.112	False
+Bloom syndrome	Q82.8	KMN880	bloom syndrome	Q82.8	True
+MELAS Syndrome	G71.3	KMN664	melas syndrome	E88.41	False
+Kearns-Sayre syndrome	H49.8	KMN653	kearns-sayre syndrome	H49.81	False
+Allergic contact dermatitis	L23	KMN781	allergic contact dermatitis	L23	True
+Atopic dermatitis	L20	KMN780	atopic dermatitis	L20	True
+Anaphylaxis	NO_DATA	KMN900	anaphylaxis	T78.2	False
+Allergic rhinitis	J30	KMN747	allergic rhinitis	J30	True
+Polyarteritis nodosa	M30.0	KMN802	polyarteritis nodosa	M30.0	True
+Xeroderma pigmentosum	Q82.1	KMN887	xeroderma pigmentosum	Q82.1	True
+Cushing syndrome	E24	KMN318	cushing syndrome	E24	True
+Guillain-Barre syndrome	G61.0	KMN627	guillain-barre syndrome	G61.0	True
+Neurofibromatosis type 1	Q85.0	KMN888	neurofibromatosis type 1	Q85.0	True
+Neurofibromatosis type 2	Q85.0	KMN889	neurofibromatosis type 2	Q85.0	True
+Diabetic nephropathy	E14.2	KMN829	diabetic nephropathy	N08.3	False
+Diabetic neuropathy	E14.4	KMN304	diabetic neuropathy	E10.4	False
+Crow-Fukase syndrome	D47.7	KMN95	crow-fukase syndrome	D47.7	True
+Mycosis fungoides	C84	KMN114	mycosis fungoides	C84.0	False
+Ulcerative colitis	K51	KMN763	ulcerative colitis	K51	True
+Primary biliary cirrhosis	K74.3	KMN769	primary biliary cirrhosis	K74.3	True
+Eosinophilic granulomatosis with polyangiitis	M30.1	KMN805	eosinophilic granulomatosis with polyangiitis	M30.1	True
+Lipodystrophy	E88.1	KMN549	lipodystrophy	E88.1	True
+Castleman disease	D36.0	KMN155	castleman disease	D47.4	False
+Myelodysplastic syndrome	D46	KMN162	myelodysplastic syndrome	D46	True
+Acromegaly	E22.0	KMN340	acromegaly	E22.0	True
+Multiple sclerosis	G35	KMN615	multiple sclerosis	G35	True
+Systemic sclerosis	M34	KMN808	systemic sclerosis	M34	True
+Lupus nephritis	M32.1;N08.5	KMN827	lupus nephritis	N08.5	False
+Sjogren syndrome	M35.0	KMN799	sjogren syndrome	M35.0	True
+Inclusion body myositis	G72.4	KMN811	inclusion body myositis	G72.4	True
+Hepatic encephalopathy	K72	KMN768	hepatic encephalopathy	K72.9	False
+Retinoblastoma	C69.2	KMN73	retinoblastoma	C69.2	True
+Zollinger-Ellison syndrome	E16.4	KMN307	zollinger-ellison syndrome	E16.4	True
+Wiskott-Aldrich syndrome	D82.0	KMN262	wiskott-aldrich syndrome	D82.0	True
+DiGeorge syndrome	D82.1	KMN266	digeorge syndrome	D82.1	True
+Down syndrome	Q90	KMN895	down syndrome	Q90	True
+Wernicke encephalopathy	E51.2	KMN355	wernicke encephalopathy	E51.2	True
+Beriberi	E51.1	KMN365	beriberi	E51.1	True
+IgA nephropathy	N02.8	KMN822	iga nephropathy	N02	False
+Pellagra	E52	KMN364	pellagra	E52	True
+Hydroxykynureninuria	E70.8	KMN452	hydroxykynureninuria	E70.8	True
+Disseminated intravascular coagulation	D65	KMN231	disseminated intravascular coagulation	D65	True
+Osteoporosis	M80;M81;M82	KMN816	osteoporosis	M80;M81;M82	True
+Myasthenia gravis	G70.0	KMN672	myasthenia gravis	G70.0	True
+Lambert-Eaton myasthenic syndrome	G73.1	KMN650	lambert-eaton myasthenic syndrome	G73.1	True
+Restless legs syndrome	G25.8	KMN597	restless legs syndrome	G25.81	False
+Addison disease	E27.1	KMN312	addison disease	E27.1	True
+Primary aldosteronism	E26.0	KMN332	primary aldosteronism	E26.0	True
+Myelofibrosis	D47.4	KMN163	myelofibrosis	D75.81	False
+Essential thrombocytosis	D47.3	KMN244	essential thrombocytosis	D47.3	True
+Follicular lymphoma	C82	KMN132	follicular lymphoma	C82	True
+Multiple system atrophy	G23	KMN612	multiple system atrophy	G23.2	False
+Primary pulmonary hypertension	I27.0	KMN728	primary pulmonary hypertension	I27.0	True
+Angina pectoris	I20	KMN725	angina pectoris	I20	True
+Fibromyalgia	M79.7	KMN814	fibromyalgia	M79.7	True
+Endometriosis	N80	KMN845	endometriosis	N80	True
+Schizophrenia	F20	KMN574	schizophrenia	F20	True
+Bipolar disorder	F31	KMN576	bipolar disorder	F31	True
+Psoriasis	L40	KMN783	psoriasis	L40	True
+Microscopic polyangiitis	M31.7	KMN804	microscopic polyangiitis	M31.7	True
+Medulloblastoma	C71.6	KMN66	medulloblastoma	C71.6	True
+Ankylosing spondylitis	M45	KMN812	ankylosing spondylitis	M45	True
+Acute pancreatitis	K85	KMN773	acute pancreatitis	K85	True
+Giant cell arteritis	M31.6	KMN801	giant cell arteritis	M31.5;M31.6	False
+Membranoproliferative glomerulonephritis	N00.5	KMN834	membranoproliferative glomerulonephritis	N00.6	False
+Myocardial infarction	I21	KMN726	myocardial infarction	I21;I22	False
+Epidermolysis bullosa	Q81	KMN893	epidermolysis bullosa	Q81	True
+Relapsing polychondritis	M94.1	KMN821	relapsing polychondritis	M94.1	True
+Hyperostosis corticalis generalisata	M85.2	KMN869	hyperostosis corticalis generalisata	M85.2	True
+Carney complex	Q89.7	KMN136	carney complex	D44.8	False
+Peripheral T cell lymphoma	C84.4;C84.6;C84.7;C86.5	KMN126	peripheral t cell lymphoma	C84.4	False
+Fanconi-Bickel syndrome	E74.0	KMN458	fanconi-bickel syndrome	E74.0	True
+Fukuyama congenital muscular dystrophy	G71.2	KMN694	fukuyama congenital muscular dystrophy	G71.0	False
+Duchenne muscular dystrophy	G71.0	KMN657	duchenne muscular dystrophy	G71.0	True
+Becker muscular dystrophy	G71.0	KMN661	becker muscular dystrophy	G71.0	True
+Miyoshi myopathy	G71.0	KMN671	miyoshi myopathy	G71.0	True
+Cartilage-hair hypoplasia	Q78.8	KMN872	cartilage-hair hypoplasia	Q78.8	True
+Hyper-IgE syndrome	D82.4	KMN275	hyper-ige syndrome	D82.4	True
+X-linked lymphoproliferative syndrome	D82.3	KMN255	x-linked lymphoproliferative syndrome	D82.3	True
+Limb-girdle muscular dystrophy 2B	G71.0	KMN679	limb-girdle muscular dystrophy 2b	G71.0	True
+Welander distal myopathy	G71.0	KMN651	welander distal myopathy	G71.0	True
+Tibial muscular dystrophy	G71.0	KMN695	tibial muscular dystrophy	G71.0	True
+Unverricht-Lundborg disease	G40.3	KMN618	unverricht-lundborg disease	G40.3	True
+Galactokinase deficiency	E74.2	KMN413	galactokinase deficiency	E74.2	True
+Tay-Sachs disease	E75.0	KMN442	tay-sachs disease	E75.02	False
+Sandhoff disease	E75.0	KMN424	sandhoff disease	E75.0	True
+Familial male-limited precocious puberty	E29.0	KMN329	familial male-limited precocious puberty	E30.1	False
+Aromatase deficiency	E25.8	KMN313	aromatase deficiency	E25.8	True
+Chediak-Higashi syndrome	E70.3	KMN437	chediak-higashi syndrome	E70.330	False
+Griscelli syndrome	E70.3	KMN264	griscelli syndrome	E70.3	True
+Familial hypocalciuric hypercalcemia	E83.5	KMN515	familial hypocalciuric hypercalcemia	E83.5	True
+Laron syndrome	E34.3	KMN326	laron syndrome	E34.3	True
+May-Hegglin anomaly	D72.0	KMN235	may-hegglin anomaly	D72.0	True
+Sebastian syndrome	D72.0	KMN206	sebastian syndrome	D69.4	False
+Fechtner syndrome	D69.4	KMN208	fechtner syndrome	D69.4	True
+Crigler-Najjar syndrome	E80.5	KMN415	crigler-najjar syndrome	E80.5	True
+Gilbert syndrome	E80.4	KMN434	gilbert syndrome	E80.4	True
+Dubin-Johnson syndrome	E80.6	KMN443	dubin-johnson syndrome	E80.6	True
+Rotor syndrome	E80.6	KMN503	rotor syndrome	E80.6	True
+von Willebrand disease	D68.0	KMN209	von willebrand disease	D68.0	True
+Autism	F84.0	KMN579	autism	F84	False
+Autosomal dominant hypophosphatemic rickets	E83.3	KMN550	autosomal dominant hypophosphatemic rickets	E83.3	True
+X-linked recessive hypophosphatemic rickets	N25.8	KMN354	x-linked recessive hypophosphatemic rickets	N25.8	True
+Cryptorchidism	Q53	KMN859	cryptorchidism	Q53	True
+Androgen insensitivity syndrome	E34.5	KMN314	androgen insensitivity syndrome	E34.5	True
+Benign recurrent intrahepatic cholestasis	K83.1	KMN772	benign recurrent intrahepatic cholestasis	K83.1	True
+Childhood absence epilepsy	G40.3	KMN620	childhood absence epilepsy	G40.3	True
+Factor VII deficiency	D68.2	KMN225	factor vii deficiency	D68.2	True
+Factor X deficiency	D68.2	KMN229	factor x deficiency	D68.2	True
+Nephroblastoma	C64	KMN59	nephroblastoma	C64	True
+Hepatoblastoma	C22.2	KMN17	hepatoblastoma	C22.2	True
+Adenosine deaminase deficiency	D81.3	KMN258	adenosine deaminase deficiency	D81.3	True
+Molybdenum cofactor deficiency	E72.1	KMN498	molybdenum cofactor deficiency	E72.1	True
+Glutathione synthetase deficiency	D55.1	KMN418	glutathione synthetase deficiency	D55.1	True
+Hepatic lipase deficiency	E78.4	KMN519	hepatic lipase deficiency	E78.4	True
+Dejerine-Sottas disease	G60.0	KMN630	dejerine-sottas disease	G60.0	True
+Non-Hodgkin lymphoma	C82;C83;C84;C91	KMN125	non-hodgkin lymphoma	C85	False
+Head and neck cancer	C76.0	KMN82	head and neck cancer	C47.0;C49.0;C76.0;C77.0	False
+Atherosclerosis	I70	KMN740	atherosclerosis	I70	True

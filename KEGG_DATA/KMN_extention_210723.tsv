@@ -1,0 +1,902 @@
+index	Keymolnet_disease	ICD10	KEGG_ENTRY	KEGG_Name
+KMN712	11beta-hydroxylase deficiency	E25.0	H02315	Disordered steroidogenesis due to cytochrome P450 oxidoreductase
+KMN711	11beta-hydroxysteroid dehydrogenase deficiency	E25.8;E26.1	H01111;H01702	Cortisone reductase deficiency;Glucocorticoid resistance syndrome
+KMN308	17 alpha-Hydroxylase Deficiency	E25.0	H02315	Disordered steroidogenesis due to cytochrome P450 oxidoreductase
+KMN309	21-Hydroxylase Deficiency	E25.0	H02315	Disordered steroidogenesis due to cytochrome P450 oxidoreductase
+KMN375	3-Hydroxy-3-methylglutaric Aciduria	E71.1	H00174;H00179;H00181;H00375;H00654;H00754;H01279;H01349;H02109;H02136;H02221;H02222;H02285	Methylmalonic aciduria;3-Hydroxy-3-methylglutaryl-CoA lyase deficiency;3-Methylcrotonylglycinuria;SBCAD deficiency;Barth syndrome;3-Methylglutaconic aciduria;Isobutyryl-CoA dehydrogenase deficiency;Methacrylic aciduria;Combined malonic and methylmalonic aciduria;Branched-chain ketoacid dehydrogenase kinase deficiency;Methylmalonic aciduria and homocystinuria;Methylmalonic acidemia and hyperhomocysteinemia, cblX type;Methylmalonate semialdehyde dehydrogenase deficiency
+KMN376	3-Methylcrotonyl Glycinuria	E71.1	H00174;H00179;H00181;H00375;H00654;H00754;H01279;H01349;H02109;H02136;H02221;H02222;H02285	Methylmalonic aciduria;3-Hydroxy-3-methylglutaryl-CoA lyase deficiency;3-Methylcrotonylglycinuria;SBCAD deficiency;Barth syndrome;3-Methylglutaconic aciduria;Isobutyryl-CoA dehydrogenase deficiency;Methacrylic aciduria;Combined malonic and methylmalonic aciduria;Branched-chain ketoacid dehydrogenase kinase deficiency;Methylmalonic aciduria and homocystinuria;Methylmalonic acidemia and hyperhomocysteinemia, cblX type;Methylmalonate semialdehyde dehydrogenase deficiency
+KMN377	3-Methylglutaconic Aciduria Type I	E71.1	H00174;H00179;H00181;H00375;H00654;H00754;H01279;H01349;H02109;H02136;H02221;H02222;H02285	Methylmalonic aciduria;3-Hydroxy-3-methylglutaryl-CoA lyase deficiency;3-Methylcrotonylglycinuria;SBCAD deficiency;Barth syndrome;3-Methylglutaconic aciduria;Isobutyryl-CoA dehydrogenase deficiency;Methacrylic aciduria;Combined malonic and methylmalonic aciduria;Branched-chain ketoacid dehydrogenase kinase deficiency;Methylmalonic aciduria and homocystinuria;Methylmalonic acidemia and hyperhomocysteinemia, cblX type;Methylmalonate semialdehyde dehydrogenase deficiency
+KMN374	3-Oxothiolase Deficiency	E71.1	H00174;H00179;H00181;H00375;H00654;H00754;H01279;H01349;H02109;H02136;H02221;H02222;H02285	Methylmalonic aciduria;3-Hydroxy-3-methylglutaryl-CoA lyase deficiency;3-Methylcrotonylglycinuria;SBCAD deficiency;Barth syndrome;3-Methylglutaconic aciduria;Isobutyryl-CoA dehydrogenase deficiency;Methacrylic aciduria;Combined malonic and methylmalonic aciduria;Branched-chain ketoacid dehydrogenase kinase deficiency;Methylmalonic aciduria and homocystinuria;Methylmalonic acidemia and hyperhomocysteinemia, cblX type;Methylmalonate semialdehyde dehydrogenase deficiency
+KMN310	3 beta-Hydroxysteroid Dehydrogenase Type II Deficiency	E25.0	H02315	Disordered steroidogenesis due to cytochrome P450 oxidoreductase
+KMN378	4-Hydroxybutyric Aciduria	E72.8	H00200;H00834;H00835;H00849;H00923;H01079;H01257;H01283;H02116;H02117;H02196;H02304;H02313	Beta-ureidopropionase deficiency;Guanidinoacetate methyltransferase deficiency;Succinic semialdehyde dehydrogenase deficiency;Cerebral creatine deficiency syndrome;Congenital systemic glutamine deficiency;3-Phosphoglycerate dehydrogenase (3-PGDH) deficiency;GABA-transaminase deficiency;Malonyl-CoA decarboxylase deficiency;Phosphoserine phosphatase deficiency;Neu-Laxova syndrome;X-linked creatine deficiency syndrome;Combined D-2- and L-2-hydroxyglutaric aciduria;5-Oxoprolinase deficiency
+KMN311	ACTH Deficiency	E23.6	H01011	Adrenocorticotropic hormone deficiency
+KMN444	ALA-Dehydratase-Deficient Porphyria	E80.2	H00202	Hepatic porphyria
+KMN573	Abetalipoproteinemia	E78.6	H00160	Abetalipoproteinemia
+KMN874	Achondrodysplasia	Q77.4	H00505;H01749;H02068;H02069	FGFR3-related short limb skeletal dysplasia;Achondroplasia;Hypochondroplasia;SADDAN
+KMN561	Acrodermatitis Enteropathica	E83.2	H00212	Acrodermatitis enteropathica
+KMN340	Acromegaly	E22.0	H01483	Acromegaly
+KMN518	Activation-Induced Cytidine Deaminase Deficiency	D80.5	NO_DATA	NO_DATA
+KMN580	Acute Bacterial Meningitis	G00.9	NO_DATA	NO_DATA
+KMN640	Acute Inflammatory Demyelinating Polyneuropathy	G61.8	H01527	Chronic inflammatory demyelinating polyradiculoneuropathy
+KMN529	Acute Intermittent Porphyria	E80.2	H00202	Hepatic porphyria
+KMN104	Acute Lymphoid Leukemia	C91.0	H00001;H00002	B-cell acute lymphoblastic leukemia;T-cell acute lymphoblastic leukemia
+KMN639	Acute Motor Axonal Neuropathy	G61.0	H01689;H01842	Fisher syndrome;Bickerstaff brainstem encephalitis
+KMN105	Acute Myeloid Leukemia	C94.2	H00003	Acute myeloid leukemia
+KMN773	Acute Pancreatitis	K85	H01681	Acute pancreatitis
+KMN737	Acute Pericarditis	I30	NO_DATA	NO_DATA
+KMN638	Acute Pharyngeal Cervicobrachial Neuropathy	G61.0	H01689;H01842	Fisher syndrome;Bickerstaff brainstem encephalitis
+KMN754	Acute Respiratory Distress Syndrome	J80	NO_DATA	NO_DATA
+KMN7	Acute Viral Meningitis	A87.9	NO_DATA	NO_DATA
+KMN722	Acute coronary syndrome	I24.9	NO_DATA	NO_DATA
+KMN312	Addison's Disease	E27.1	H01598	Addison disease
+KMN389	Adenine Phosphoribosyltransferase Deficiency	E79.8	H00195	Adenine phosphoribosyltransferase deficiency
+KMN168	Adenoid-cystic carcinoma	C08.9	H01508	Salivary gland cancer
+KMN258	Adenosine Deaminase Deficiency	D81.3	H02309	Adenosine deaminase deficiency
+KMN388	Adenylosuccinate Lyase Deficiency	E79.8	H00197	Adenylosuccinate lyase deficiency
+KMN77	Adrenal Carcinoma	C74.0	H00033	Adrenal carcinoma
+KMN350	Adrenogenital Syndrome	E25	NO_DATA	NO_DATA
+KMN338	Adult GH Deficiency	E23.0	H00255;H01699;H01700;H01860;H02027;H02035;H02036;H02038;H02039	Hypogonadotropic hypogonadism;Isolated TSH deficiency;Hypopituitarism;Abnormal pituitary gonadotropin secretion;Male hypogonadism;Isolated growth hormone deficiency;Combined pituitary hormone deficiency;X-linked panhypopituitarism;Kowarski syndrome
+KMN789	Adult Still's disease	M06.1	H01516	Adult onset Still disease
+KMN118	Adult T Cell Lymphoma/Leukemia	C91.5	H00009	Adult T-cell leukemia
+KMN779	Afferent Loop Syndrome	K91.8	H01469	Short bowel syndrome
+KMN232	Afibrinogenemia	D65	H00222	Afibrinogenemia
+KMN702	Age-Related Macular Degeneration	H35.2	H00821	Age-related macular degeneration
+KMN854	Alagille Syndrome	Q44.7	H00551	Alagille syndrome
+KMN568	Albinism (oculocutaneous)	E70.3	H00168;H00169;H00170;H00759	Oculocutaneous albinism;Ocular albinism;Piebaldism;Waardenburg syndrome
+KMN765	Alcoholic Cirrhosis	K70.3	NO_DATA	NO_DATA
+KMN391	Alkaptonuria	E70.2	H00163	Alkaptonuria
+KMN11	Allergic Bronchopulmonary Aspergillosis	B44.81	NO_DATA	NO_DATA
+KMN747	Allergic Rhinitis	J30	H01360	Allergic rhinitis
+KMN699	Allergic conjunctivitis	H10.1	NO_DATA	NO_DATA
+KMN781	Allergic contact dermatitis	L23	H01357	Allergic contact dermatitis
+KMN202	Alpha2 Plasmin Inhibitor Deficiency	D68.8	H00983;H01078;H01106;H01697	Alpha-2-plasmin inhibitor (a2-PI) deficiency;Fletcher factor deficiency;Plasminogen activator inhibitor type 1 deficiency;Antiphospholipid syndrome
+KMN876	Alport's Syndrome	Q87.8	H00581	Alport syndrome
+KMN45	Alveolar Soft Part Sarcoma	C49.9	H00051	Alveolar soft part sarcoma
+KMN603	Alzheimer's Disease	G30	H00056	Alzheimer disease
+KMN590	Amyotrophic Lateral Sclerosis	G12.21	NO_DATA	NO_DATA
+KMN900	Anaphylaxis	T78.2	H01359	Anaphylaxis
+KMN128	Anaplastic Large T-cell Lymphoma	C83.3	H02434	Diffuse large B-cell lymphoma, not otherwise specified
+KMN200	Anaplastic anemia	D61.0;D61.1;D61.2;D61.3;D61.9;D61.9	H00237;H00439;H00788;H01132	Diamond-Blackfan anemia;Shwachman-Diamond syndrome;Hoyeraal-Hreidarsson syndrome;Aplastic anemia
+KMN68	Anaplastic astrocytoma	C71.9	NO_DATA	NO_DATA
+KMN397	Andersen's Syndrome	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN314	Androgen Insensitivity Syndrome	E34.5	H02177	Androgen insensitivity syndrome
+KMN742	Aneurysm	I71;I72	NO_DATA	NO_DATA
+KMN725	Angina pectoris	I20	H01632	Angina pectoris
+KMN812	Ankylosing Spondylitis	M45	H01674	Ankylosing spondylitis
+KMN577	Anorexia Nervosa	F50.0	NO_DATA	NO_DATA
+KMN806	Anti-Glomerular Basement Membrane Disease	M31.0	H01721	Anti-glomerular basement membrane (GBM) disease
+KMN606	Anti-Hu Paraneoplastic Neuropathy	G13.0	NO_DATA	NO_DATA
+KMN274	Antigen Peptide Transporter Deficiency	NO_DATA	NO_DATA	NO_DATA
+KMN203	Antithrombin Deficiency	D68.5	H01381	Antithrombin III deficiency
+KMN390	ApoA-I Deficiency	E78.6	H00158;H00927;H00930	Lecithin:cholesterol acyltransferase deficiency;Chylomicron retention disease;Hypoalphalipoproteinemia
+KMN713	Apparent Mineralocorticoid Excess Syndrome	E26.1	H00259	Apparent mineralocorticoid excess syndrome
+KMN392	Arginase Deficiency	E72.2	H00164;H00185;H00186;H01028;H01076;H01398;H01400	Carbamoyl phosphate synthetase I deficiency;Citrullinemia;Hyperargininemia;Argininosuccinic aciduria;Alpha-methylacetoacetic aciduria;Primary hyperammonemic disorders (Urea cycle disorders);Secondary hyperammonemia
+KMN393	Argininosuccinic Acidemia	E72.2	H00164;H00185;H00186;H01028;H01076;H01398;H01400	Carbamoyl phosphate synthetase I deficiency;Citrullinemia;Hyperargininemia;Argininosuccinic aciduria;Alpha-methylacetoacetic aciduria;Primary hyperammonemic disorders (Urea cycle disorders);Secondary hyperammonemia
+KMN313	Aromatase Deficiency	E25.8	H02020	Aromatase deficiency
+KMN387	Aspartylglucosaminuria	E77.1	H00145	Aspartylglucosaminuria
+KMN751	Asthma	J45	H00079	Asthma
+KMN67	Astrocytoma	C71.9	NO_DATA	NO_DATA
+KMN593	Ataxia Telangiectasia	G11.3	H00064	Ataxia telangiectasia
+KMN740	Atherosclerosis	I70	H02505	Atherosclerosis
+KMN780	Atopic Dermatitis	L20	H01358	Atopic dermatitis
+KMN579	Autism	F84	H02111	Autism
+KMN697	Autoimmune Autonomic Neuropathy	G99.0	NO_DATA	NO_DATA
+KMN290	Autoimmune Hypothyroidism	E06.3	H00081	Hashimoto thyroiditis
+KMN335	Autoimmune Polyendocrinopathy-Candidiasis-Ectodermal Dystrophy	E31.0	H01971;H01972	IPEX syndrome;Autoimmune polyendocrinopathy syndrome type 1
+KMN698	Autonomic Neuropathy	G99.0	NO_DATA	NO_DATA
+KMN550	Autosomal Dominant Hypophosphatemic Rickets	E83.3	H02141	Autosomal dominant hypophosphatemic rickets
+KMN862	Autosomal Dominant Polycystic Kidney Disease	Q61.2	H00542	Polycystic kidney disease
+KMN709	Autosomal Dominant Progressive Deafness	H91.9	H00604;H00605;H01209;H02336	Deafness, autosomal dominant;Deafness, autosomal recessive;Deafness, X-linked;Deafness, Y-linked
+KMN707	Autosomal Dominant Progressive External Ophthalmoplegia	H49.4	H01118;H01395;H02450	Progressive external ophthalmoplegia;Autosomal recessive progressive external ophthalmoplegia;Horizontal gaze palsy with progressive scoliosis
+KMN278	Autosomal Recessive Agammaglobulinemia	D80.0	NO_DATA	NO_DATA
+KMN551	Autosomal Recessive Hypercholesterolemia	E78.0	H01383;H01918	Hyperlipoproteinemia type IIa;Familial autosomal recessive hypercholesterolemia
+KMN587	Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay	G11.1	H01170	Autosomal recessive spastic ataxia of Charlevoix-Saguenay
+KMN607	Axonal Sensorimotor Neuropathy	G60.0	H00264;H00816;H01155;H01296;H02344;H02345;H02357;H02390	Charcot-Marie-Tooth disease;Agenesis of the corpus callosum with peripheral neuropathy;Roussy-Levy syndrome;Hereditary neuropathy with liability to pressure palsies;Cowchock syndrome;Autosomal recessive peripheral neuropathy (PNRIID);Congenital hypomyelinating neuropathy;Autosomal recessive neuromyotonia and axonal neuropathy
+KMN87	B-cell Chronic Lymphocytic Leukaemia	C91.1	H00005	Chronic lymphocytic leukemia
+KMN86	B-cell Lymphoma	C85.1	NO_DATA	NO_DATA
+KMN246	BLNK Deficiency	D80.0	NO_DATA	NO_DATA
+KMN878	Bardet-Biedl Syndrome	Q87.8	H00418	Bardet-Biedl syndrome
+KMN323	Bartter Syndrome	E26.8	H00239	Bartter syndrome
+KMN34	Basal Cell Carcinoma	C44.0	H00039	Basal cell carcinoma
+KMN661	Becker Muscular Dystrophy	G71.0	H01964	Becker muscular dystrophy
+KMN662	Becker's Disease	G71.0	H00562;H00565;H00566;H00585;H00590;H00592;H00593;H00594;H00697;H01778;H01977;H02182;H02513	Dystrophinopathies;Sarcoglycanopathies;Distal myopathy with anterior tibial onset;Epidermolysis bullosa, hemidesmosomal;Congenital muscular dystrophies (CMD/MDC);Calpainopathy;Limb-girdle muscular dystrophy;Distal myopathy;X-linked myopathy with postural muscle atrophy;Ullrich disease;Laing distal myopathy;Distal myopathy, Tateyama type;Oculopharyngodistal myopathy
+KMN800	Behcet's Syndrome	M35.2	H01476	Behcet disease
+KMN626	Benign Neonatal Familial Convulsion	G40.3	H00606;H00783;H00806;H00808;H00810;H01775;H01822;H01994;H02150;H02212;H02213;H02216;H02217;H02353;H02362	Early infantile epileptic encephalopathy;Febrile seizures;Benign familial neonatal seizure;Idiopathic generalized epilepsies;Progressive myoclonic epilepsy;PCDH19-related epilepsy syndrome;Epilepsy with myoclonic absence;Lafora disease;Infantile or early childhood epileptic encephalopathy;Familial infantile myoclonic epilepsy;Familial adult myoclonic epilepsy;Juvenile absence epilepsy;Juvenile myoclonic epilepsy;Hyperekplexia and epilepsy;Benign familial infantile seizure
+KMN772	Benign Recurrent Intrahepatic Cholestasis	K83.1	H02192	Benign recurrent intrahepatic cholestasis
+KMN365	Beriberi	E51.1	H01566	Beriberi
+KMN215	Bernard-Soulier Syndrome	D69.1	H00224	Bernard-Soulier syndrome
+KMN379	Beta-mercaptolactate-cysteine disulfiduria	E72.1	H01237;H01285	Sulfite oxidase deficiency;Methylcobalamin deficiency type G
+KMN576	Bipolar Disorder	F31	H01653	Bipolar disorder
+KMN61	Bladder Cancer	C67	H00022	Bladder cancer
+KMN880	Bloom Syndrome	Q82.8	H01346	Bloom syndrome
+KMN173	Brain Tumor	D32;D33;D42;D43;D48.9	NO_DATA	NO_DATA
+KMN583	Brainstem Encephalitis	G04.8	H01812;H01863	Rasmussen encephalitis;Atopic myelitis
+KMN47	Breast Cancer	C50	H00031	Breast cancer
+KMN748	Bronchiectasis	J47	H00892	Bronchiectasis with or without elevated sweat chloride
+KMN735	Brugada Syndrome	I49.8	H00728	Brugada syndrome
+KMN897	Bulimia Nervosa	F50.2	NO_DATA	NO_DATA
+KMN97	Burkitt's Lymphoma	C83.7	H00008	Burkitt lymphoma
+KMN614	CADASIL	I67.8	NO_DATA	NO_DATA
+KMN247	CD40 Deficiency	D80.5	NO_DATA	NO_DATA
+KMN248	CD8 Deficiency	D84.8	H00089;H02308	IFN-gamma/IL-12 axis;Immunodeficiency-centromeric instability-facial anomalies syndrome
+KMN422	CETP Deficiency	E78.4	H01199;H01637	Hyperalphalipoproteinemia;Hypertriglyceridemia
+KMN791	CPPD Deposition Disease	M11	NO_DATA	NO_DATA
+KMN408	CPT II Deficiency	E71.3	H00162;H00176;H00177;H00178;H00392;H00407;H00488;H00489;H00525;H00925;H01121;H01123;H01352;H01364;H01589;H01929;H01980;H01983;H02085;H02096;H02098	Sjogren-Larsson syndrome;Adrenoleukodystrophy;Neonatal adrenoleukodystrophy;Glutaric acidemia;VLCAD deficiency;Peroxisomal beta-oxidation enzyme deficiency;MCAD deficiency;LCHAD deficiency;Disorders of mitochondrial fatty-acid oxidation;2-Methyl-3-hydroxybutyryl-CoA dehydrogenase (MHBD) deficiency;Succinyl CoA:3-oxoacid CoA transferase (SCOT) deficiency;HMG-CoA synthase deficiency;Mitochondrial trifunctional protein deficiency;3-Hydroxyacyl-CoA dehydrogenase deficiency;Systemic primary carnitine deficiency;2,4-Dienoyl-CoA reductase deficiency;SCAD deficiency;Carnitine-acylcarnitine translocase deficiency;Acyl-CoA dehydrogenase 9 deficiency;Peroxisomal acyl-CoA oxidase deficiency;D-bifunctional protein deficiency
+KMN813	Calcific Tendinitis	M65.2	NO_DATA	NO_DATA
+KMN866	Campomelic Dysplasia	Q87.1	H00442	Campomelic dysplasia
+KMN411	Carbamylphosphate Synthase Deficiency	E72.29	NO_DATA	NO_DATA
+KMN412	Carbinolamine Dehydratase Deficiency	E70.1	NO_DATA	NO_DATA
+KMN315	Carcinoid Syndrome	E34.0	NO_DATA	NO_DATA
+KMN78	Carcinoid Tumor	E34.0	NO_DATA	NO_DATA
+KMN52	Carcinoma of the Fallopian Tube	C57	NO_DATA	NO_DATA
+KMN136	Carney Complex	D44.8	H01820	Carney complex
+KMN409	Carnitine Deficiency	E71.3	H00162;H00176;H00177;H00178;H00392;H00407;H00488;H00489;H00525;H00925;H01121;H01123;H01352;H01364;H01589;H01929;H01980;H01983;H02085;H02096;H02098	Sjogren-Larsson syndrome;Adrenoleukodystrophy;Neonatal adrenoleukodystrophy;Glutaric acidemia;VLCAD deficiency;Peroxisomal beta-oxidation enzyme deficiency;MCAD deficiency;LCHAD deficiency;Disorders of mitochondrial fatty-acid oxidation;2-Methyl-3-hydroxybutyryl-CoA dehydrogenase (MHBD) deficiency;Succinyl CoA:3-oxoacid CoA transferase (SCOT) deficiency;HMG-CoA synthase deficiency;Mitochondrial trifunctional protein deficiency;3-Hydroxyacyl-CoA dehydrogenase deficiency;Systemic primary carnitine deficiency;2,4-Dienoyl-CoA reductase deficiency;SCAD deficiency;Carnitine-acylcarnitine translocase deficiency;Acyl-CoA dehydrogenase 9 deficiency;Peroxisomal acyl-CoA oxidase deficiency;D-bifunctional protein deficiency
+KMN410	Carnosinase deficiency	E70.8	H00548;H01233;H01262;H02087	Brunner syndrome;Urocanase deficiency;Formiminotransferase deficiency;Vertebral, cardiac, renal, and limb defects syndrome
+KMN641	Carpal Tunnel Syndrome	G56.0	H00798	Familial carpal tunnel syndrome
+KMN872	Cartilage-Hair Hypoplasia	Q78.8	H01966	Cartilage-hair hypoplasia
+KMN155	Castleman's Disease	D47.4	H01479	Castleman disease
+KMN701	Cataract	H26	H01202	Cataract
+KMN733	Catecholamine VT	I47.2	H01019;H02269	Catecholaminergic polymorphic ventricular tachycardia;Familial ventricular tachycardia
+KMN775	Celiac Sprue	K90.0	H02123	Celiac disease
+KMN656	Central Core Disease	G71.2	H00699	Central core disease
+KMN692	Centronuclear Myopathy	G71.22	H00700	Centronuclear myopathy
+KMN567	Cerebrotendinous xanthomatosis	E75.5	H00151	Cerebrotendinous xanthomatosis
+KMN51	Cervix Cancer	C53	H00030	Cervical cancer
+KMN628	Charcot-Marie-Tooth Disease Type 1	G60.0	H00264;H00816;H01155;H01296;H02344;H02345;H02357;H02390	Charcot-Marie-Tooth disease;Agenesis of the corpus callosum with peripheral neuropathy;Roussy-Levy syndrome;Hereditary neuropathy with liability to pressure palsies;Cowchock syndrome;Autosomal recessive peripheral neuropathy (PNRIID);Congenital hypomyelinating neuropathy;Autosomal recessive neuromyotonia and axonal neuropathy
+KMN629	Charcot-Marie-Tooth Disease Type 2	G60.0	H00264;H00816;H01155;H01296;H02344;H02345;H02357;H02390	Charcot-Marie-Tooth disease;Agenesis of the corpus callosum with peripheral neuropathy;Roussy-Levy syndrome;Hereditary neuropathy with liability to pressure palsies;Cowchock syndrome;Autosomal recessive peripheral neuropathy (PNRIID);Congenital hypomyelinating neuropathy;Autosomal recessive neuromyotonia and axonal neuropathy
+KMN437	Chediak-Higashi Syndrome	E70.330	H02021	Chediak-Higashi syndrome
+KMN620	Childhood absence epilepsy	G40.3	H02215	Childhood absence epilepsy
+KMN21	Cholangiocarcinoma	C22.1	H00046	Cholangiocarcinoma
+KMN421	Cholesteryl Ester Storage Disease	E75.5	H00148;H00736;H00883;H01297;H01661;H02284	Lysosomal acid lipase deficiency;Dorfman-Chanarin syndrome;Lipoid proteinosis;Neutral lipid storage disease with myopathy;Xanthoma;Leukotriene C4 synthase deficiency
+KMN873	Chondrodysplasia	Q77.3	H00207;H00476;H01194;H02100	Rhizomelic chondrodysplasia punctata;Multiple epiphyseal dysplasia;X-linked chondrodysplasia punctata;Peroxisomal fatty acyl-CoA reductase 1 disorder
+KMN33	Chondrosarcoma	C41.9	NO_DATA	NO_DATA
+KMN602	Chorea	G25.5	H00860;H02367	Benign hereditary chorea;Chorea, childhood-onset, with psychomotor retardation
+KMN54	Choriocarcinoma	C58	H00028	Choriocarcinoma
+KMN245	Chronic Granulomatous Disease	D71	H00098	Chronic granulomatous disease
+KMN176	Chronic Idiopathic Myelofibrosis	D47.4	NO_DATA	NO_DATA
+KMN645	Chronic Inflammatory Demyelinating Polyneuropathy	G61.8	H01527	Chronic inflammatory demyelinating polyradiculoneuropathy
+KMN127	Chronic Myelogenous Leukemia	C92.1	H00004	Chronic myeloid leukemia
+KMN750	Chronic Obstructive Pulmonary Disease	J44	H01714	Chronic obstructive pulmonary disease (COPD)
+KMN647	Chronic Sensory Ataxic Neuropathy	G61.8	H01527	Chronic inflammatory demyelinating polyradiculoneuropathy
+KMN646	Chronic Sensory Motor Neuropathy	G60.0	H00264;H00816;H01155;H01296;H02344;H02345;H02357;H02390	Charcot-Marie-Tooth disease;Agenesis of the corpus callosum with peripheral neuropathy;Roussy-Levy syndrome;Hereditary neuropathy with liability to pressure palsies;Cowchock syndrome;Autosomal recessive peripheral neuropathy (PNRIID);Congenital hypomyelinating neuropathy;Autosomal recessive neuromyotonia and axonal neuropathy
+KMN430	Citrullinemia Type I	E72.2	H00164;H00185;H00186;H01028;H01076;H01398;H01400	Carbamoyl phosphate synthetase I deficiency;Citrullinemia;Hyperargininemia;Argininosuccinic aciduria;Alpha-methylacetoacetic aciduria;Primary hyperammonemic disorders (Urea cycle disorders);Secondary hyperammonemia
+KMN429	Citrullinemia Type II	E72.2	H00164;H00185;H00186;H01028;H01076;H01398;H01400	Carbamoyl phosphate synthetase I deficiency;Citrullinemia;Hyperargininemia;Argininosuccinic aciduria;Alpha-methylacetoacetic aciduria;Primary hyperammonemic disorders (Urea cycle disorders);Secondary hyperammonemia
+KMN535	Classic Cystinuria	E72.0	H00692;H00843;H00899;H00901;H01198;H01386;H02419	Lowe syndrome;Hartnup disorder;Lysinuric protein intolerance;Cystinuria;Fanconi renotubular syndrome;Asparagine synthetase deficiency;Glycine encephalopathy with normal serum glycine
+KMN117	Classical Hodgkin's Lymphoma	C81.2	NO_DATA	NO_DATA
+KMN885	Cleidocranial dysplasia	Q74.0	H00521	Cleidocranial dysplasia
+KMN220	Coagulant factor VII hyperactivity	D68.2	H00223;H00941	Inherited thrombophilia;Factor XII deficiency
+KMN20	Colorectal Cancer	C18	H00020	Colorectal cancer
+KMN342	Congenital Adrenal Hyperplasia	E25.0	H00216	Congenital adrenal hyperplasia
+KMN554	Congenital Chloridorrhea	P78.3	H01174	Congenital diarrhea
+KMN336	Congenital Disorders Associated with Gonadotropin Deficiency	E23.0	H00255;H01699;H01700;H01860;H02027;H02035;H02036;H02038;H02039	Hypogonadotropic hypogonadism;Isolated TSH deficiency;Hypopituitarism;Abnormal pituitary gonadotropin secretion;Male hypogonadism;Isolated growth hormone deficiency;Combined pituitary hormone deficiency;X-linked panhypopituitarism;Kowarski syndrome
+KMN556	Congenital Erythropoietic Porphyria	E80.0	H00201	Erythropoietic porphyria
+KMN853	Congenital Heart Disease	Q24.9	NO_DATA	NO_DATA
+KMN555	Congenital Homocystinuria Syndrome	E72.1	H01237;H01285	Sulfite oxidase deficiency;Methylcobalamin deficiency type G
+KMN643	Congenital Hypomyelination	G37.8	H02377	Leukodystrophy and acquired microcephaly with or without dystonia
+KMN291	Congenital Hypothyroidism	E03.1	H00250;H00913;H01040;H02034	Congenital nongoitrous hypothyroidism (CHNG);Brain-lung-thyroid syndrome;Bamforth-Lazarus syndrome;Central hypothyroidism and testicular enlargement
+KMN341	Congenital Lipoid Adrenal Hyperplasia	E25.0	H02315	Disordered steroidogenesis due to cytochrome P450 oxidoreductase
+KMN239	Congenital Methemoglobinemia	D74.0	H00235	Methemoglobinemia
+KMN691	Congenital Myasthenic Syndrome	G70.2	H00770	Congenital myasthenic syndrome
+KMN224	Congenital amegakaryocytic thrombocytopenia	D61.0	H00227	Congenital amegakaryocytic thrombocytopenia
+KMN221	Congenital coagulant factor XII deficiency	D68.2	H00223;H00941	Inherited thrombophilia;Factor XII deficiency
+KMN193	Congenital hemolytic anemia	D55, D57	NO_DATA	NO_DATA
+KMN223	Congenital heparin cofactor II deficiency	D68.5	H01381	Antithrombin III deficiency
+KMN222	Congenital hypoplasminogenemia	L90.5	H01206	Plasminogen deficiency
+KMN240	Congenital neutropenia	D70	H00100;H00939;H01218;H01725	Neutropenic disorders;Darsun syndrome;P14 deficiency;Primary immunodeficiency disease
+KMN721	Coronary vasospasm	I20.1	NO_DATA	NO_DATA
+KMN153	Cowden's syndrome	Q85.8	H01222	Cowden syndrome
+KMN171	Craniopharyngioma	D44.4	NO_DATA	NO_DATA
+KMN831	Crescentic Glomerulonephritis	N01.9	H01688	Rapidly progressive glomerulonephritis
+KMN5	Creutzfeldt-Jakob Disease	A81.0	H00061	Prion disease
+KMN415	Crigler-Najjar Syndrome	E80.5	H02054	Crigler-Najjar syndrome
+KMN762	Crohn's Disease	K50	H00286	Crohn disease
+KMN95	Crow-Fukase Syndrome	D47.7	H01461	Crow-Fukase syndrome
+KMN824	Cryoglobulinemia Glomerulopathy	D89.1	NO_DATA	NO_DATA
+KMN859	Cryptorchidism	Q53	H02176	Cryptorchidism
+KMN319	Cushing's Disease	E24.0	NO_DATA	NO_DATA
+KMN318	Cushing's Syndrome	E24	H01431	Cushing syndrome
+KMN36	Cutaneous Squamous Cell Carcinoma	C44	H00040	Squamous cell carcinoma
+KMN124	Cutaneous T cell Lymphoma	C84.8	NO_DATA	NO_DATA
+KMN426	Cystathioninuria	E72.1	H00182	Cystathioninuria
+KMN566	Cystic Fibrosis	E84	H00218	Cystic fibrosis
+KMN427	Cystinosis	E72.04	H00275	Cystinosis
+KMN249	DNA Ligase IV Deficiency	D81.1	H02015	LIG4 syndrome
+KMN594	DOPA-responsive Dystonia	G24.8	H01161	Aromatic L-amino acid decarboxylase deficiency
+KMN743	Deep Venous Thrombosis	I82.4	NO_DATA	NO_DATA
+KMN180	Deficiency of Transcobalamin II	D51.2	H01190	Transcobalamin II deficiency
+KMN630	Dejerine-Sottas Disease	G60.0	H02359	Dejerine-Sottas disease
+KMN604	Dementia with Lewy Bodies	G31.83	NO_DATA	NO_DATA
+KMN591	Dentatorubropallidoluysian Atrophy	G11.2	H00060	Dentatorubropallidoluysian atrophy (DRPLA)
+KMN860	Denys-Drash Syndrome	N04.1	NO_DATA	NO_DATA
+KMN575	Depression	F32	H01646	Major depressive disorder
+KMN37	Dermatofibrosarcoma Protuberans	C44;C49	H00040;H00049;H00052	Squamous cell carcinoma;Myxoid liposarcoma;Clear cell sarcoma of soft tissue
+KMN810	Dermatomyositis	M33.0;M33.1	NO_DATA	NO_DATA
+KMN167	Desmoplastic Small Round-cell Tumor	C48.2	NO_DATA	NO_DATA
+KMN266	DiGeorge Syndrome	D82.1	H01524	DiGeorge syndrome
+KMN348	Diabetes Insipidus	E23.2	H00253	Neurohypophyseal diabetes insipidus (NPDI)
+KMN303	Diabetic Ketoacidosis	E14.1	NO_DATA	NO_DATA
+KMN829	Diabetic Nephropathy	N08.3	H01456	Diabetic nephropathy
+KMN704	Diabetic Proliferative Retinopathy	H35.2	H01798	Autosomal dominant neovascular inflammatory vitreoretinopathy
+KMN304	Diabetic neuropathy	E10.4	H01459	Diabetic neuropathy
+KMN564	Dibasic Aminoaciduria	E72.0	H00692;H00843;H00899;H00901;H01198;H01386;H02419	Lowe syndrome;Hartnup disorder;Lysinuric protein intolerance;Cystinuria;Fanconi renotubular syndrome;Asparagine synthetase deficiency;Glycine encephalopathy with normal serum glycine
+KMN431	Dicarboxylic Aminoaciduria	E72.0	H00911	Dicarboxylic aminoaciduria
+KMN91	Diffuse Large-Cell Lymphoma	C83.3	H02434	Diffuse large B-cell lymphoma, not otherwise specified
+KMN92	Diffuse Large B-cell Lymphoma	C83.3	H02434	Diffuse large B-cell lymphoma, not otherwise specified
+KMN432	Dihydropyrimidinase Deficiency	E79.8	H00199	Dihydropyrimidinase deficiency
+KMN433	Dihydropyrimidine Dehydrogenase Deficiency	E79.8	H00193	Dihydropyrimidine dehydrogenase deficiency
+KMN736	Dilated Cardiomyopathy	I42.0	H00294	Dilated cardiomyopathy
+KMN231	Disseminated Intravascular Coagulation	D65	H01587	Disseminated intravascular coagulation
+KMN667	Distal Myopathy with Rimmed Vacuoles	G71.8	H00594;H00595;H00596;H01129;H01229;H01291;H01338;H01340;H01341;H01781;H02031;H02179;H02247;H02268;H02320;H02321	Distal myopathy;Myofibrillar myopathies;Nonaka distal myopathy (NM);Brody myopathy;Inclusion body myopathy 3;Spheroid body myopathy;Myosclerosis;Bethlem myopathy;Collagen VI myopathy;Autophagic vacuolar myopathy;Inclusion body myopathy with Paget disease of bone and frontotemporal dementia;Rippling muscle disease;Ehlers-Danlos syndrome myopathic type;Wieacker-Wolff syndrome;Vacuolar myopathy with CASQ1 aggregates;Early-onset myopathy, areflexia, respiratory distress, and dysphagia
+KMN895	Down's Syndrome	Q90	H01552	Down syndrome
+KMN443	Dubin-Johnson Syndrome	E80.6	H02056	Dubin-Johnson syndrome
+KMN657	Duchenne Muscular Dystrophy	G71.0	H01963	Duchenne muscular dystrophy
+KMN133	Ductal Carcinoma in Situ	D05.1	NO_DATA	NO_DATA
+KMN776	Dumping Syndrome	K91.1	NO_DATA	NO_DATA
+KMN207	Dysfibrinogenemia	D68.2	H00223;H00941	Inherited thrombophilia;Factor XII deficiency
+KMN890	Dyskeratosis Congenita	Q82.8	H00507	Dyskeratosis congenita
+KMN145	Dysplastic gangliocytoma of cerebellum	Q04.8	H00270;H00271;H01034;H01251;H01870;H01881;H02494	Periventricular nodular heterotopia;Polymicrogyria;L1 syndrome;Focal cortical dysplasia of Taylor;Microhydranencephaly;Complex cortical dysplasia with other brain malformations;Alkuraya-Kucinskas syndrome
+KMN600	Early-onset torsion dystonia	G24.1	H00831	Primary dystonia
+KMN328	Ectopic hormone producing tumor	E24.3	NO_DATA	NO_DATA
+KMN863	Ehlers-Danlos Syndrome	Q79.6	H00802	Ehlers-Danlos syndrome
+KMN79	Embryonal Carcinoma	C22.7	NO_DATA	NO_DATA
+KMN652	Emery-Dreifuss Muscular Dystrophy	G71.0	H00563	Emery-Dreifuss muscular dystrophy
+KMN749	Emphysema	J43	H01714	Chronic obstructive pulmonary disease (COPD)
+KMN584	Encephalomyelitis	G05.1	NO_DATA	NO_DATA
+KMN718	Endocrine hypertension	I15.2	H00258;H00602	Aldosterone synthase deficiency;Glucocorticoid-remediable aldosteronism (GRA)
+KMN83	Endodermal Sinus Tumor	C56	NO_DATA	NO_DATA
+KMN50	Endometrial Cancer	C54.1	H00026	Endometrial cancer
+KMN845	Endometriosis	N80	H01639	Endometriosis
+KMN236	Eosinophilia	D72.1	NO_DATA	NO_DATA
+KMN805	Eosinophilic Granulomatosis with Polyangiitis	M30.1	H01468	Eosinophilic granulomatosis with polyangiitis
+KMN64	Ependymoma	C71.9	NO_DATA	NO_DATA
+KMN893	Epidermolysis Bullosa	Q81	H01737	Epidermolysis bullosa
+KMN617	Epilepsy Syndrome	G49.5	NO_DATA	NO_DATA
+KMN613	Episodic Ataxia	G11.8	H00749;H01204;H01478;H01898;H02101;H02140;H02144	Episodic ataxias;Cerebellar ataxia, mental retardation (MR), and dysequilibrium syndrome (CAMRQ);Machado-Joseph disease;PNPLA6-related disorders;Autosomal dominant sensory ataxia;Boucher-Neuhauser syndrome;Gordon Holmes syndrome
+KMN177	Epithelioid Hemangioendothelioma	D18.0	NO_DATA	NO_DATA
+KMN204	Epstein syndrome	D69.4	H00578	Epstein syndrome
+KMN112	Erythroleukemia	C94.0	NO_DATA	NO_DATA
+KMN553	Erythropoietic Protoporphyria	E80.0	H00201	Erythropoietic porphyria
+KMN19	Esophageal Cancer	C15	H00017	Esophageal cancer
+KMN571	Essential Fructosuria	E74.11	NO_DATA	NO_DATA
+KMN719	Essential Hypertension	I10	H01633	High blood pressure
+KMN244	Essential Thrombocytosis	D47.3	H01612	Essential thrombocytosis
+KMN572	Essential pentosuria	E74.8	H00117;H01065;H01126;H01189;H02013;H02380;H02439	Primary hyperoxaluria;Pentosuria;Familial renal glucosuria;Transaldolase deficiency;Glycerol kinase deficiency;D-glyceric aciduria;Short stature, developmental delay, congenital heart defect
+KMN288	Euthyroid Hyperthyroxinemia	E07.8	H00249	Thyroid hormone resistance syndrome
+KMN31	Ewing's Sarcoma	C49.9	H00035	Ewing sarcoma
+KMN457	Fabry Disease	E75.2	H00125	Fabry disease
+KMN669	Facioscapulohumeral Muscular Dystrophy	G71.02	H00591	Facioscapulohumeral muscular dystrophy
+KMN225	Factor VII Deficiency	D68.2	H02256	Factor VII deficiency
+KMN226	Factor V Deficiency	D68.2	H00220	Factor V deficiency
+KMN227	Factor XIII Deficiency	D68.2	H00945	Factor XIII deficiency
+KMN228	Factor XI Deficiency	D68.1	H00938	Factor XI deficiency
+KMN229	Factor X Deficiency	D68.2	H02257	Factor X deficiency
+KMN139	Familial Adenomatous Polyposis	D12.6	H01025	Familial adenomatous polyposis
+KMN635	Familial Amyloid Polyneuropathy	E85.1;G63.3	H02322	Amyloidosis, Finnish type
+KMN509	Familial Apolipoprotein C-II Deficiency	E78.3	H00154;H00157;H01784	Hyperlipoproteinemia, type I;Hyperlipoproteinemia, type V;Primary hyperchylomicronemia
+KMN517	Familial Combined Hyperlipidemia	E78.4	H00153	Familial combined hyperlipidemia
+KMN511	Familial Defective ApoB-100	E78.0	H01383;H01918	Hyperlipoproteinemia type IIa;Familial autosomal recessive hypercholesterolemia
+KMN285	Familial Dysalbuminemic Hyperthyroxinemia	E05.8	H01269	Congenital hyperthyroidism
+KMN510	Familial Dysbetalipoproteinemia	E78.2	H00156;H01637	Hyperlipoproteinemia, type III;Hypertriglyceridemia
+KMN619	Familial Hemiplegic Migraine	G43.1	H00775	Hemiplegic migraine
+KMN512	Familial Hyperalphalipoproteinemia	E78.4	H01199;H01637	Hyperalphalipoproteinemia;Hypertriglyceridemia
+KMN513	Familial Hypercholesterolemia	E78.01	H00155	Familial hypercholesterolemia
+KMN514	Familial Hypertriglyceridemia	E78.2	H00156;H01637	Hyperlipoproteinemia, type III;Hypertriglyceridemia
+KMN516	Familial Hypobetalipoproteinemia	E78.6	H01270	Familial hypobetalipoproteinemia
+KMN515	Familial Hypocalciuric Hypercalcemia	E83.5	H02026	Familial hypocalciuric hypercalcemia
+KMN329	Familial Male-Limited Precocious Puberty	E30.1	H02019	Familial male-limited precocious puberty
+KMN158	Familial Paraganglioma Syndrome	D35.0;D35.6	NO_DATA	NO_DATA
+KMN696	Familial Spastic Paraplegia	G82.1	NO_DATA	NO_DATA
+KMN458	Fanconi-Bickel Syndrome	E74.0	H01947	Fanconi-Bickel syndrome
+KMN459	Fanconi Syndrome	E72.0	H00692;H00843;H00899;H00901;H01198;H01386;H02419	Lowe syndrome;Hartnup disorder;Lysinuric protein intolerance;Cystinuria;Fanconi renotubular syndrome;Asparagine synthetase deficiency;Glycine encephalopathy with normal serum glycine
+KMN198	Fanconi's Anemia	D61.0	H00238	Fanconi anemia
+KMN456	Farber Disease	E75.2	H00074;H00136;H00137;H00138;H00423;H00424;H00438;H00679;H00869;H00871;H00874;H00875;H00878;H01230;H01239;H02200;H02356;H02433	Canavan disease;Niemann-Pick disease type C;Niemann-Pick disease type A/B;Farber lipogranulomatosis;Sphingolipidosis;Defects in the degradation of sphingomyelin;Nasu-Hakola disease;Hypomyelinating leukodystrophy;Leukoencephalopathy with vanishing white matter;Leukoencephalopathy with brain stem and spinal cord involvement and lactate elevation;Leukoencephalopathy with dystonia and motor neuropathy;Megaloencephalic leukoencephalopathy with subcortical cysts;Cystic leukoencephalopathy without megalencephaly;Adult-onset autosomal dominant leukodystrophy;Combined SAP deficiency;Leukoencephalopathy, progressive, with ovarian failure;PCWH syndrome;Hypomyelination with brainstem and spinal cord involvement and leg spasticity
+KMN8	Fatal Familial Insomnia	A81.83	NO_DATA	NO_DATA
+KMN208	Fechtner syndrome	D69.4	H02053	Fechtner syndrome
+KMN814	Fibromyalgia	M79.7	H01636	Fibromyalgia
+KMN828	Focal and Segmental Glomerulosclerosis	N05.1	H00626	Focal segmental glomerulosclerosis
+KMN366	Folate Deficiency	E53.8	H00180;H01182	Holocarboxylase synthetase deficiency;Biotinidase deficiency
+KMN132	Follicular Lymphoma	C82	H01613	Follicular lymphoma
+KMN478	Formiminoglutamic Aciduria	E70.8	H00548;H01233;H01262;H02087	Brunner syndrome;Urocanase deficiency;Formiminotransferase deficiency;Vertebral, cardiac, renal, and limb defects syndrome
+KMN589	Friedreich's Ataxia	G11.1	H00067	Friedreich ataxia
+KMN324	Frohlich Syndrome	E23.6	H01011	Adrenocorticotropic hormone deficiency
+KMN611	Frontotemporal Lobar Degeneration	G31.0	H00078	Frontotemporal lobar degeneration
+KMN465	Fructose 1,6-bisphosphate Aldolase A Deficiency	E74.19	NO_DATA	NO_DATA
+KMN464	Fructose 1,6-diphosphatase Deficiency	E74.1	H00114	Fructose-1,6-bisphosphatase deficiency
+KMN463	Fucosidosis	E77.1	H00141	Fucosidosis
+KMN694	Fukuyama Congenital Muscular Dystrophy	G71.0	H01957	Fukuyama congenital muscular dystrophy
+KMN185	G6PD Deficiency	D55.0	H00668;H01375	Anemia due to disorders of glutathione metabolism;Glucose 6-phosphate dehydrogenase deficiency
+KMN164	GIST	D37.9	NO_DATA	NO_DATA
+KMN381	GM2-ganglioside activator deficiency	E75.1	H00144;H00276;H00281;H00426	Mucolipidosis IV;Galactosialidosis;GM1 gangliosidosis;Gangliosidosis
+KMN306	GRFomas	E16.8	NO_DATA	NO_DATA
+KMN382	GTP Cyclohydrolase I Deficiency	E70.1	NO_DATA	NO_DATA
+KMN413	Galactokinase Deficiency	E74.2	H02009	Galactokinase deficiency
+KMN402	Galactosemia with Uridyl Transferase Deficiency	E74.2	H00070;H02008;H02010	Galactosemia;Galactose-1P uridylyltransferase deficiency;Galactose epimerase deficiency
+KMN774	Gallstone	K80.5	NO_DATA	NO_DATA
+KMN15	Gastric Cancer	C16.9	H00018	Gastric cancer
+KMN154	Gastrinoma	D37.7	NO_DATA	NO_DATA
+KMN760	Gastroesophageal regurgitation	K21.9	NO_DATA	NO_DATA
+KMN380	Gaucher Disease	E75.22	H00126	Gaucher disease
+KMN624	Generalized Epilepsy with Febrile Convulsions Plus	G40.3	H00606;H00783;H00806;H00808;H00810;H01775;H01822;H01994;H02150;H02212;H02213;H02216;H02217;H02353;H02362	Early infantile epileptic encephalopathy;Febrile seizures;Benign familial neonatal seizure;Idiopathic generalized epilepsies;Progressive myoclonic epilepsy;PCDH19-related epilepsy syndrome;Epilepsy with myoclonic absence;Lafora disease;Infantile or early childhood epileptic encephalopathy;Familial infantile myoclonic epilepsy;Familial adult myoclonic epilepsy;Juvenile absence epilepsy;Juvenile myoclonic epilepsy;Hyperekplexia and epilepsy;Benign familial infantile seizure
+KMN85	Germ Cell Tumor	C80.9	NO_DATA	NO_DATA
+KMN84	Germinoma	C38.3;C48.8;C72.9	NO_DATA	NO_DATA
+KMN6	Gerstmann-Straussler-Scheinker Disease	A81.8	NO_DATA	NO_DATA
+KMN801	Giant Cell Arteritis	M31.5;M31.6	H01698	Giant cell arteritis
+KMN434	Gilbert's Syndrome	E80.4	H02055	Gilbert syndrome
+KMN317	Gitelman Syndrome	N15.8	H00240	Gitelman syndrome
+KMN205	Glanzmann's Disease	D69.1	H00226;H02093;H02097	Glanzmann thrombasthenia;Platelet-type von Willebrand disease;Gray platelet syndrome
+KMN706	Glaucoma	H40	NO_DATA	NO_DATA
+KMN74	Glioblastoma	C71.9	NO_DATA	NO_DATA
+KMN65	Glioma	C71.9	H00042	Glioma
+KMN137	Glucagonoma	D13.7	NO_DATA	NO_DATA
+KMN320	Glucocorticoid-Remediable Aldosteronism	E26.02	NO_DATA	NO_DATA
+KMN416	Glucose-Galactose Malabsorption	E74.3	H00115;H01261;H02090	Congenital sucrase-isomaltase deficiency;Congenital glucose-galactose malabsorption;Trehalase deficiency
+KMN417	Glucose-Transport Defect	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN420	Glutaric Acidemia Type I	E72.3	H00178;H01242	Glutaric acidemia;Saccharopinuria
+KMN419	Glutaric Acidemia Type II	E71.3	H00162;H00176;H00177;H00178;H00392;H00407;H00488;H00489;H00525;H00925;H01121;H01123;H01352;H01364;H01589;H01929;H01980;H01983;H02085;H02096;H02098	Sjogren-Larsson syndrome;Adrenoleukodystrophy;Neonatal adrenoleukodystrophy;Glutaric acidemia;VLCAD deficiency;Peroxisomal beta-oxidation enzyme deficiency;MCAD deficiency;LCHAD deficiency;Disorders of mitochondrial fatty-acid oxidation;2-Methyl-3-hydroxybutyryl-CoA dehydrogenase (MHBD) deficiency;Succinyl CoA:3-oxoacid CoA transferase (SCOT) deficiency;HMG-CoA synthase deficiency;Mitochondrial trifunctional protein deficiency;3-Hydroxyacyl-CoA dehydrogenase deficiency;Systemic primary carnitine deficiency;2,4-Dienoyl-CoA reductase deficiency;SCAD deficiency;Carnitine-acylcarnitine translocase deficiency;Acyl-CoA dehydrogenase 9 deficiency;Peroxisomal acyl-CoA oxidase deficiency;D-bifunctional protein deficiency
+KMN418	Glutathione synthetase deficiency	D55.1	H02312	Glutathione synthetase deficiency
+KMN521	Glycogen Storage Disease 0	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN525	Glycogen Storage Disease I	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN530	Glycogen Storage Disease II	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN522	Glycogen Storage Disease III	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN523	Glycogen Storage Disease IV	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN524	Glycogen Storage Disease IX	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN532	Glycogen Storage Disease V	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN526	Glycogen Storage Disease VI	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN531	Glycogen Storage Disease VII	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN527	Glycogen Storage Disease XI	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN161	Goiter	E04.9	NO_DATA	NO_DATA
+KMN858	Gonadal Dysgenesis	Q96.9;Q99.1	H00598;H00599;H00607	46,XX testicular disorder of sex development;Ovarian dysgenesis;46,XY gonadal dysgenesis
+KMN322	Gonadotropin-Independent Precocious Puberty	E22.8	H00937	Precocious puberty
+KMN148	Gonadotropin-Producing Pituitary Adenoma	D35.2	NO_DATA	NO_DATA
+KMN337	Gonadotropin-releasing Hormone Resistance	E23.0	H00255;H01699;H01700;H01860;H02027;H02035;H02036;H02038;H02039	Hypogonadotropic hypogonadism;Isolated TSH deficiency;Hypopituitarism;Abnormal pituitary gonadotropin secretion;Male hypogonadism;Isolated growth hormone deficiency;Combined pituitary hormone deficiency;X-linked panhypopituitarism;Kowarski syndrome
+KMN321	Gonadotropin Deficiency	E23.0	H00255;H01699;H01700;H01860;H02027;H02035;H02036;H02038;H02039	Hypogonadotropic hypogonadism;Isolated TSH deficiency;Hypopituitarism;Abnormal pituitary gonadotropin secretion;Male hypogonadism;Isolated growth hormone deficiency;Combined pituitary hormone deficiency;X-linked panhypopituitarism;Kowarski syndrome
+KMN798	Goodpasture's Syndrome	M31.0	H01721	Anti-glomerular basement membrane (GBM) disease
+KMN877	Gorlin Syndrome	Q87.0	H00446;H00454;H00622;H00687;H00756;H00811;H00908;H00922;H00986;H01286;H01292;H01752;H01753;H01755;H01756;H01838;H01840;H01886;H01888;H01908;H01930;H01932;H01934;H01990;H01991;H02023;H02046;H02072;H02081;H02151;H02161;H02234;H02253;H02254;H02255;H02271;H02274;H02326;H02365;H02382	Craniofacial-deafness-hand syndrome;Oral-facial-digital syndrome;Hypoparathyroidism-retardation-dysmorphism syndrome;Fraser syndrome;Pitt-Hopkins syndrome;Distal arthrogryposis;Mowat-Wilson syndrome;Schinzel-Giedion midface retraction syndrome;Multiple pterygium syndrome;Microtia hearing impairment and cleft palate (MHICP);Nance-Horan syndrome;ATR-X syndrome;Antley-Bixler syndrome;Apert syndrome;Pfeiffer syndrome;Mandibulofacial dysostosis with microcephaly;Moebius syndrome;Van den Ende-Gupta syndrome;Carpenter syndrome;Carey-Fineman-Ziter syndrome;Au-Kline syndrome;Ablepharon-macrostomia syndrome;Barber-Say syndrome;Muenke syndrome;Saethre-Chotzen syndrome;Baraitser-Winter syndrome;OFC syndrome;Stickler syndrome;Marshall syndrome;Hereditary congenital facial paresis;Greig cephalopolysyndactyly syndrome;Hamamy syndrome;Beaulieu-Boycott-Innes syndrome;Craniosynostosis and dental anomalies;FDLAB syndrome;Cerebellofaciodental syndrome;Cerebellar atrophy, visual impairment, and psychomotor retardation;Keipert syndrome;Helsmoortel-van der Aa syndrome;Bainbridge-Ropers syndrome
+KMN179	Granulosa Cell Tumor	D39.1	NO_DATA	NO_DATA
+KMN283	Graves' Disease	E05.0	H00082;H02402	Graves disease;Thyroid eye disease
+KMN264	Griscelli Syndrome	E70.3	H02022	Griscelli syndrome
+KMN339	Growth Hormone Deficiency	E23.0	H00254	Growth hormone deficiency
+KMN627	Guillain-Barre Syndrome	G61.0	H01436	Guillain-Barre syndrome
+KMN705	Gyrate Atrophy of the Choroid and Retina	E72.4	H00189;H01268	Ornithinaemia;Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome
+KMN453	HPRT Deficiency	E79.8	H00196;H00964;H00966	Phosphoribosylpyrophosphate synthetase superactivity;Thiopurine S-methyltransferase deficiency (TPMT deficiency);AICA-ribosiduria
+KMN131	Hairy Cell Leukemia	C91.4	H00006	Hairy cell leukemia
+KMN448	Hartnup Disease	E72.0	H00692;H00843;H00899;H00901;H01198;H01386;H02419	Lowe syndrome;Hartnup disorder;Lysinuric protein intolerance;Cystinuria;Fanconi renotubular syndrome;Asparagine synthetase deficiency;Glycine encephalopathy with normal serum glycine
+KMN286	Hashimoto's disease	E06.3	H00081	Hashimoto thyroiditis
+KMN471	Hawkinsinuria	E70.2	H00165	Tyrosinemia
+KMN82	Head and Neck Cancer	C47.0;C49.0;C76.0;C77.0	H02420	Head and neck cancer
+KMN14	Helicobacter Pylori Infection	B98.0	NO_DATA	NO_DATA
+KMN160	Hemangioblastoma	D33.4;D33.7  	NO_DATA	NO_DATA
+KMN41	Hemangiopericytoma	C49;D21.9	H00049;H00052;H00804	Myxoid liposarcoma;Clear cell sarcoma of soft tissue;Multiple cutaneous and uterine leiomyomata
+KMN796	Hemarthrosis	M25.0	NO_DATA	NO_DATA
+KMN468	Hemochromatosis	E83.11	H00211	Hemochromatosis
+KMN217	Hemophilia A	D66	H00219	Hemophilia
+KMN218	Hemophilia B	D68	H01254	Congenital prothrombin deficiency
+KMN214	Henoch-Schonlein Purpura	D69.0	H01584	IgA vasculitis
+KMN767	Hepatic Coma	K72	H01712	Fulminant hepatic failure
+KMN768	Hepatic Encephalopathy	K72.9	H01506	Hepatic encephalopathy
+KMN519	Hepatic Lipase Deficiency	E78.4	H02329	Hepatic lipase deficiency
+KMN815	Hepatic osteodystrophy	N25.0	NO_DATA	NO_DATA
+KMN766	Hepatitis	K75.9	NO_DATA	NO_DATA
+KMN17	Hepatoblastoma	C22.2	H02302	Hepatoblastoma
+KMN18	Hepatocellular Carcinoma	C22.0	H00048	Hepatocellular carcinoma
+KMN520	Hepatoerythropoietic porphyria	E80.2	H00202	Hepatic porphyria
+KMN508	Hereditary Aceruloplasminemia	G23.0	H00832;H00833;H02206;H02207;H02208;H02209	Core neuroacanthocytosis syndromes;Neurodegeneration with brain iron accumulation;Aceruloplasminemia;Kufor-Rakeb syndrome;Pantothenate kinase-associated neurodegeneration;HARP syndrome
+KMN506	Hereditary Coproporphyria	E80.2	H00202	Hepatic porphyria
+KMN189	Hereditary Elliptocytosis	D58.1	H00231	Hereditary elliptocytosis
+KMN777	Hereditary Fructose Intolerance	E74.12	H00071	Hereditary fructose intolerance
+KMN708	Hereditary Hearing Impairment	H91.9	H00604;H00605;H01209;H02336	Deafness, autosomal dominant;Deafness, autosomal recessive;Deafness, X-linked;Deafness, Y-linked
+KMN741	Hereditary Hemorrhagic Telangiectasia	I78.0	H00533	Hereditary hemorrhagic telangiectasia
+KMN666	Hereditary Inclusion Body Myopathy	G71.8	H00594;H00595;H00596;H01129;H01229;H01291;H01338;H01340;H01341;H01781;H02031;H02179;H02247;H02268;H02320;H02321	Distal myopathy;Myofibrillar myopathies;Nonaka distal myopathy (NM);Brody myopathy;Inclusion body myopathy 3;Spheroid body myopathy;Myosclerosis;Bethlem myopathy;Collagen VI myopathy;Autophagic vacuolar myopathy;Inclusion body myopathy with Paget disease of bone and frontotemporal dementia;Rippling muscle disease;Ehlers-Danlos syndrome myopathic type;Wieacker-Wolff syndrome;Vacuolar myopathy with CASQ1 aggregates;Early-onset myopathy, areflexia, respiratory distress, and dysphagia
+KMN633	Hereditary Neuropathy with Pressure Palsies	G60.0	H00264;H00816;H01155;H01296;H02344;H02345;H02357;H02390	Charcot-Marie-Tooth disease;Agenesis of the corpus callosum with peripheral neuropathy;Roussy-Levy syndrome;Hereditary neuropathy with liability to pressure palsies;Cowchock syndrome;Autosomal recessive peripheral neuropathy (PNRIID);Congenital hypomyelinating neuropathy;Autosomal recessive neuromyotonia and axonal neuropathy
+KMN16	Hereditary Nonpolyposis Colon Cancer	D48.9	NO_DATA	NO_DATA
+KMN190	Hereditary Pyropoikilocytosis	D58.1	H01125	Hereditary pyropoikilocytosis
+KMN634	Hereditary Sensory and Autonomic Neuropathy	G60.8	H00265	Hereditary sensory and autonomic neuropathy
+KMN187	Hereditary Spherocytosis	D58.0	H00230	Hereditary spherocytosis
+KMN188	Hereditary Stomatocytosis	D58.8	H00232	Hereditary stomatocytosis
+KMN507	Hereditary Vitamin D-resistant Rickets	E83.3	H00214;H01113;H02138;H02139;H02143	Hypophosphatemic rickets;Acid phosphatase deficiency;Hereditary hypophophatemic rickets with hypercalciuria;Autosomal recessive hypophosphatemic rickets;X-linked dominant hypophosphatemic rickets
+KMN505	Hereditary Xanthinuria	E79.8	H00196;H00964;H00966	Phosphoribosylpyrophosphate synthetase superactivity;Thiopurine S-methyltransferase deficiency (TPMT deficiency);AICA-ribosiduria
+KMN605	Hereditary cortical cerebellar atrophy	G32.8	H02366;H02430	Cerebellar ataxia, neuropathy, and vestibular areflexia syndrome;Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus
+KMN596	Hereditary progressive dystonia	G24.8	H01161	Aromatic L-amino acid decarboxylase deficiency
+KMN199	Hereditary sideroblastic anemia	D64.0	H00982	Sideroblastic anemia
+KMN449	Hermansky-Pudlak Syndrome	E70.331	H00166	Hermansky-Pudlak syndrome
+KMN192	High oxygen affinity hemoglobin erythremia	NO_DATA	NO_DATA	NO_DATA
+KMN450	Histidinemia	E70.41	H00171	Histidinemia
+KMN451	Histidinuria	E70.8	H00548;H01233;H01262;H02087	Brunner syndrome;Urocanase deficiency;Formiminotransferase deficiency;Vertebral, cardiac, renal, and limb defects syndrome
+KMN99	Hodgkin's Lymphoma	C81	H00007	Hodgkin lymphoma
+KMN882	Holt-Oram Syndrome	Q87.2	H00433	Holt-Oram syndrome
+KMN475	Homocarnosinosis	E70.8	H00548;H01233;H01262;H02087	Brunner syndrome;Urocanase deficiency;Formiminotransferase deficiency;Vertebral, cardiac, renal, and limb defects syndrome
+KMN476	Homocystinuria	E72.11	H00183	Homocystinuria
+KMN477	Homocystinuria and Methylmalonic Acidemia	E71.1	H00174;H00179;H00181;H00375;H00654;H00754;H01279;H01349;H02109;H02136;H02221;H02222;H02285	Methylmalonic aciduria;3-Hydroxy-3-methylglutaryl-CoA lyase deficiency;3-Methylcrotonylglycinuria;SBCAD deficiency;Barth syndrome;3-Methylglutaconic aciduria;Isobutyryl-CoA dehydrogenase deficiency;Methacrylic aciduria;Combined malonic and methylmalonic aciduria;Branched-chain ketoacid dehydrogenase kinase deficiency;Methylmalonic aciduria and homocystinuria;Methylmalonic acidemia and hyperhomocysteinemia, cblX type;Methylmalonate semialdehyde dehydrogenase deficiency
+KMN10	Human Immunodeficiency Virus Infection	B24	NO_DATA	NO_DATA
+KMN588	Huntington's Disease	G10	H00059	Huntington disease
+KMN846	Hydatidiform Mole	O01	H00289	Recurrent hydatidiform moles
+KMN452	Hydroxykynureninuria	E70.8	H01583	Hydroxykynureninuria
+KMN275	Hyper-IgE Syndrome	D82.4	H01968	Hyper-IgE syndrome
+KMN536	Hyper Lp(a) lipoproteinemia	E78.4	H01199;H01637	Hyperalphalipoproteinemia;Hypertriglyceridemia
+KMN538	Hypercystinuria	NO_DATA	NO_DATA	NO_DATA
+KMN219	Hyperfibrinogenemia	D68.2	H00223;H00941	Inherited thrombophilia;Factor XII deficiency
+KMN334	Hypergonadotropic Hypogonadal Ovarian Failure	E28.36	NO_DATA	NO_DATA
+KMN109	Hypergranular Promyelocytic Leukemia	C92.4	NO_DATA	NO_DATA
+KMN542	Hyperhydroxyprolinemia	E72.5	H00190;H00191;H01003	Hyperprolinemia;Nonketotic hyperglycinemia;Dimethylglycine dehydrogenase deficiency
+KMN670	Hyperkalemic Periodic Paralysis	G72.3	H00215;H00745;H00746;H00747;H00748	Periodic paralysis;Hyperkalemic periodic paralysis (HyperPP);Hypokalemic periodic paralysis (HypoPP);Thyrotoxic hypokalemic periodic paralysis;Andersen-Tawil syndrome
+KMN547	Hyperleucine-Isoleucinemia	E71.1	H00174;H00179;H00181;H00375;H00654;H00754;H01279;H01349;H02109;H02136;H02221;H02222;H02285	Methylmalonic aciduria;3-Hydroxy-3-methylglutaryl-CoA lyase deficiency;3-Methylcrotonylglycinuria;SBCAD deficiency;Barth syndrome;3-Methylglutaconic aciduria;Isobutyryl-CoA dehydrogenase deficiency;Methacrylic aciduria;Combined malonic and methylmalonic aciduria;Branched-chain ketoacid dehydrogenase kinase deficiency;Methylmalonic aciduria and homocystinuria;Methylmalonic acidemia and hyperhomocysteinemia, cblX type;Methylmalonate semialdehyde dehydrogenase deficiency
+KMN546	Hyperlysinemia	E72.3	H00188	Hyperlysinemia
+KMN545	Hypermethioninemia	E72.1	H00184	Hypermethioninemia
+KMN537	Hyperornithinemia-Hyperammonemia-Homocitrullinuria	E72.4	H00189;H01268	Ornithinaemia;Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome
+KMN869	Hyperostosis Corticalis Generalisata	M85.2	H01774	Hyperostosis corticalis generalisata
+KMN540	Hyperoxaluria Type I	E74.8	H00117;H01065;H01126;H01189;H02013;H02380;H02439	Primary hyperoxaluria;Pentosuria;Familial renal glucosuria;Transaldolase deficiency;Glycerol kinase deficiency;D-glyceric aciduria;Short stature, developmental delay, congenital heart defect
+KMN539	Hyperoxaluria Type II	E74.8	H00117;H01065;H01126;H01189;H02013;H02380;H02439	Primary hyperoxaluria;Pentosuria;Familial renal glucosuria;Transaldolase deficiency;Glycerol kinase deficiency;D-glyceric aciduria;Short stature, developmental delay, congenital heart defect
+KMN544	Hyperprolinemia Type I	E72.5	H00190;H00191;H01003	Hyperprolinemia;Nonketotic hyperglycinemia;Dimethylglycine dehydrogenase deficiency
+KMN543	Hyperprolinemia Type II	E72.5	H00190;H00191;H01003	Hyperprolinemia;Nonketotic hyperglycinemia;Dimethylglycine dehydrogenase deficiency
+KMN752	Hypersensitivity Pneumonitis	J67	H00346	Extrinsic allergic alveolitis
+KMN714	Hypertension under acute psychological stress	NO_DATA	NO_DATA	NO_DATA
+KMN739	Hypertrophic Cardiomyopathy	I42	H00292	Hypertrophic cardiomyopathy
+KMN820	Hypertrophic Osteoarthropathy	M89.4	H00457	Primary hypertrophic osteoarthropathy
+KMN548	Hyperuricemia	E79.0	H00541;H02011	Autosomal dominant tubulointerstitial kidney disease;Familial juvenile hyperuricemic nephropathy
+KMN541	Hypervalinemia	E71.1	H00174;H00179;H00181;H00375;H00654;H00754;H01279;H01349;H02109;H02136;H02221;H02222;H02285	Methylmalonic aciduria;3-Hydroxy-3-methylglutaryl-CoA lyase deficiency;3-Methylcrotonylglycinuria;SBCAD deficiency;Barth syndrome;3-Methylglutaconic aciduria;Isobutyryl-CoA dehydrogenase deficiency;Methacrylic aciduria;Combined malonic and methylmalonic aciduria;Branched-chain ketoacid dehydrogenase kinase deficiency;Methylmalonic aciduria and homocystinuria;Methylmalonic acidemia and hyperhomocysteinemia, cblX type;Methylmalonate semialdehyde dehydrogenase deficiency
+KMN693	Hypokalemic Periodic Paralysis	G72.3	H00215;H00745;H00746;H00747;H00748	Periodic paralysis;Hyperkalemic periodic paralysis (HyperPP);Hypokalemic periodic paralysis (HypoPP);Thyrotoxic hypokalemic periodic paralysis;Andersen-Tawil syndrome
+KMN562	Hypophosphatasia	E83.3	H00213	Hypophosphatasia
+KMN581	Hypothalamic Encephalitis	G05	NO_DATA	NO_DATA
+KMN144	Hypothalamic Gangliocytoma	D36.1	NO_DATA	NO_DATA
+KMN886	Hypothalamic Hamartoma	G40.5	H01808;H01829	Hemiconvulsion-hemiplegia-epilepsy syndrome;Acute encephalitis with refractory repetitive partial seizures
+KMN563	Hypouricemia	E79.8	H00196;H00964;H00966	Phosphoribosylpyrophosphate synthetase superactivity;Thiopurine S-methyltransferase deficiency (TPMT deficiency);AICA-ribosiduria
+KMN250	ICF Syndrome	D84.8	H00089;H02308	IFN-gamma/IL-12 axis;Immunodeficiency-centromeric instability-facial anomalies syndrome
+KMN755	Idiopathic Pulmonary Fibrosis	J84.112	H01299	Idiopathic pulmonary fibrosis
+KMN830	Idiopathic Renal-Limited Crescentic Glomerulonephritis	N01.9	H01688	Rapidly progressive glomerulonephritis
+KMN230	Idiopathic Thrombocytopenic Purpura	D69.3	H01240	Immune thrombocytopenia
+KMN601	Idiopathic Torsion Dystonia	G24.1	H00831	Primary dystonia
+KMN347	Idiopathic hypoparathyroidism	E20.0	NO_DATA	NO_DATA
+KMN201	Idiopathic sideroblastic anemia	D64.3	H00982	Sideroblastic anemia
+KMN251	IgA Deficiency	D80.2	NO_DATA	NO_DATA
+KMN822	IgA Nephropathy	N02	H01581	IgA nephropathy
+KMN252	IgG Subclass Deficiency	D80.3	NO_DATA	NO_DATA
+KMN399	Iminoglycinuria	E72.0	H00905	Iminoglycinuria
+KMN195	Immune Hemolysis	D59.0;D59.1	H01585	Autoimmune hemolytic anemia
+KMN129	Immunoblastic lymphoma	C83.3	H02434	Diffuse large B-cell lymphoma, not otherwise specified
+KMN281	Immunoglobulin-Associated beta Deficiency	D80.8	NO_DATA	NO_DATA
+KMN280	Immunoglobulin Heavy Chain Deficiency	D80.8	NO_DATA	NO_DATA
+KMN130	Immunoproliferative Small Intestinal Disease	C88.3	NO_DATA	NO_DATA
+KMN811	Inclusion Body Myositis	G72.4	H01505	Inclusion body myositis
+KMN1	Inflammatory Bowel Disease	K50	NO_DATA	NO_DATA
+KMN745	Influenza Infection	J10.1	NO_DATA	NO_DATA
+KMN135	Insulinoma	D13.7	NO_DATA	NO_DATA
+KMN259	Interferon gamma Receptor Deficiency	D84.8	H00089;H02308	IFN-gamma/IL-12 axis;Immunodeficiency-centromeric instability-facial anomalies syndrome
+KMN260	Interleukin 12 Deficiency	D84.8	H00089;H02308	IFN-gamma/IL-12 axis;Immunodeficiency-centromeric instability-facial anomalies syndrome
+KMN261	Interleukin 12 Receptor Deficiency	D84.8	H00089;H02308	IFN-gamma/IL-12 axis;Immunodeficiency-centromeric instability-facial anomalies syndrome
+KMN753	Interstitial Lung Disease	J84	H01716	Idiopathic interstitial pneumonias
+KMN183	Iron Deficiency Anemia	D50	NO_DATA	NO_DATA
+KMN723	Ischemic Heart Disease	I24;I25	NO_DATA	NO_DATA
+KMN724	Ischemic arrhythmia	I24;I25	NO_DATA	NO_DATA
+KMN352	Isolated Follicle-stimulating Hormone Deficiency	E23.6	H01253	Isolated follicle-stimulating hormone deficiency
+KMN398	Isovaleric Acidemia	E71.110	H00173	Isovaleric acidemia
+KMN325	Jansen's Disease	Q78.5	H00456;H00479;H02227	Fronto-otopalatodigital syndromes;Metaphyseal dysplasias;Frontometaphyseal dysplasia
+KMN734	Jorvell and Lange-Nielsen Syndrome	I45.8	H02091;H02125	Jervell and Lange-Nielsen syndrome;Cardiac conduction disease with dilated cardiomyopathy
+KMN715	Juvenile hypertension	NO_DATA	NO_DATA	NO_DATA
+KMN175	Juxtaglomerular Cell Tumor	D41.0	NO_DATA	NO_DATA
+KMN316	Kallmann Syndrome	E23.0	H00255;H01699;H01700;H01860;H02027;H02035;H02036;H02038;H02039	Hypogonadotropic hypogonadism;Isolated TSH deficiency;Hypopituitarism;Abnormal pituitary gonadotropin secretion;Male hypogonadism;Isolated growth hormone deficiency;Combined pituitary hormone deficiency;X-linked panhypopituitarism;Kowarski syndrome
+KMN38	Kaposi's Sarcoma	C46	H00041	Kaposi sarcoma
+KMN653	Kearns-Sayre Syndrome	H49.81	H01355	Kearns-Sayre syndrome
+KMN894	Klinefelter Syndrome	Q98	NO_DATA	NO_DATA
+KMN414	Krabbe's Disease	E75.2	H00135	Krabbe disease
+KMN4	Kuru	A81.81	NO_DATA	NO_DATA
+KMN502	LCAT Deficiency	E78.6	H00158;H00927;H00930	Lecithin:cholesterol acyltransferase deficiency;Chylomicron retention disease;Hypoalphalipoproteinemia
+KMN565	Lactate Dehydrogenase Deficiency	E74.4	H00072;H00073;H01996;H01997;H01998;H01999;H02003;H02197	Pyruvate dehydrogenase complex deficiency;Pyruvate carboxylase deficiency;Pyruvate dehydrogenase phosphatase deficiency;Pyruvate dehydrogenase E1-alpha deficiency;Pyruvate dehydrogenase E1-beta deficiency;Pyruvate dehydrogenase E2 deficiency;Pyruvate dehydrogenase E3-binding protein deficiency;Mitochondrial pyruvate carrier deficiency
+KMN650	Lambert-Eaton Myasthenic Syndrome	G73.1	H01596	Lambert-Eaton myasthenic syndrome
+KMN326	Laron Syndrome	E34.3	H02037	Laron syndrome
+KMN152	Leiomyoma	D25	H01640	Uterine leiomyoma
+KMN305	Leprechaunism	E34.8	H00719	Leprechaunism
+KMN370	Leptin gene mutation	E66.8	H02059;H02060;H02105;H02106;H02235;H02384	Leptin deficiency;Leptin receptor deficiency;Prohormone convertase 1/3 deficiency;Genetic obesity;Morbid obesity and spermatogenic failure;Abdominal obesity-metabolic syndrome
+KMN371	Leptin receptor gene mutation	E66.8	H02059;H02060;H02105;H02106;H02235;H02384	Leptin deficiency;Leptin receptor deficiency;Prohormone convertase 1/3 deficiency;Genetic obesity;Morbid obesity and spermatogenic failure;Abdominal obesity-metabolic syndrome
+KMN241	Leukocyte Adhesion Deficiency Type 1	D84.8	H00089;H02308	IFN-gamma/IL-12 axis;Immunodeficiency-centromeric instability-facial anomalies syndrome
+KMN242	Leukocyte Adhesion Deficiency Type 2	D84.8	H00089;H02308	IFN-gamma/IL-12 axis;Immunodeficiency-centromeric instability-facial anomalies syndrome
+KMN243	Leukocyte Adhesion Deficiency Type 3	D84.8	H00089;H02308	IFN-gamma/IL-12 axis;Immunodeficiency-centromeric instability-facial anomalies syndrome
+KMN857	Leydig Cell Hypoplasia	Q56.1	H00608;H01973;H02314	46,XY disorder of sex development due to testosterone secretion defect;Fertile eunuch syndrome;Adrenal insufficiency, congenital, with 46XY sex reversal, partial or complete
+KMN49	Leydig Cell Tumor	C56, C62	NO_DATA	NO_DATA
+KMN156	Li-Fraumeni Syndrome	C97	H00881	Li-Fraumeni syndrome
+KMN786	Lichen Myxedematosus	L98.5	NO_DATA	NO_DATA
+KMN826	Liddle Syndrome	I15.1	H00242	Liddle syndrome
+KMN823	Light Chain Deposition Disease	D89.8	H01117;H01741;H01743;H01744;H01748;H02467	Chronic recurrent multifocal osteomyelitis;Autoinflammation lipodystrophy and dermatosis syndrome;Autoinflammation and PLCG2-associated antibody deficiency and immune dysregulation;Autoinflammatory syndrome with pyogenic bacterial infection and amylopectinosis;Autoinflammation with infantile enterocolitis;Neonatal inflammatory skin and bowel disease
+KMN673	Limb-Girdle Muscular Dystrophy 1A	G71.0	H00562;H00565;H00566;H00585;H00590;H00592;H00593;H00594;H00697;H01778;H01977;H02182;H02513	Dystrophinopathies;Sarcoglycanopathies;Distal myopathy with anterior tibial onset;Epidermolysis bullosa, hemidesmosomal;Congenital muscular dystrophies (CMD/MDC);Calpainopathy;Limb-girdle muscular dystrophy;Distal myopathy;X-linked myopathy with postural muscle atrophy;Ullrich disease;Laing distal myopathy;Distal myopathy, Tateyama type;Oculopharyngodistal myopathy
+KMN674	Limb-Girdle Muscular Dystrophy 1B	NO_DATA	NO_DATA	NO_DATA
+KMN675	Limb-Girdle Muscular Dystrophy 1C	G71.0	H00567	Limb-girdle muscular dystrophy 1C
+KMN676	Limb-Girdle Muscular Dystrophy 1D	G71.0	H00562;H00565;H00566;H00585;H00590;H00592;H00593;H00594;H00697;H01778;H01977;H02182;H02513	Dystrophinopathies;Sarcoglycanopathies;Distal myopathy with anterior tibial onset;Epidermolysis bullosa, hemidesmosomal;Congenital muscular dystrophies (CMD/MDC);Calpainopathy;Limb-girdle muscular dystrophy;Distal myopathy;X-linked myopathy with postural muscle atrophy;Ullrich disease;Laing distal myopathy;Distal myopathy, Tateyama type;Oculopharyngodistal myopathy
+KMN677	Limb-Girdle Muscular Dystrophy 1E	NO_DATA	NO_DATA	NO_DATA
+KMN678	Limb-Girdle Muscular Dystrophy 2A	G71.0	H00562;H00565;H00566;H00585;H00590;H00592;H00593;H00594;H00697;H01778;H01977;H02182;H02513	Dystrophinopathies;Sarcoglycanopathies;Distal myopathy with anterior tibial onset;Epidermolysis bullosa, hemidesmosomal;Congenital muscular dystrophies (CMD/MDC);Calpainopathy;Limb-girdle muscular dystrophy;Distal myopathy;X-linked myopathy with postural muscle atrophy;Ullrich disease;Laing distal myopathy;Distal myopathy, Tateyama type;Oculopharyngodistal myopathy
+KMN679	Limb-Girdle Muscular Dystrophy 2B	G71.0	H01974	Limb-girdle muscular dystrophy 2B
+KMN680	Limb-Girdle Muscular Dystrophy 2C	G71.0	H00562;H00565;H00566;H00585;H00590;H00592;H00593;H00594;H00697;H01778;H01977;H02182;H02513	Dystrophinopathies;Sarcoglycanopathies;Distal myopathy with anterior tibial onset;Epidermolysis bullosa, hemidesmosomal;Congenital muscular dystrophies (CMD/MDC);Calpainopathy;Limb-girdle muscular dystrophy;Distal myopathy;X-linked myopathy with postural muscle atrophy;Ullrich disease;Laing distal myopathy;Distal myopathy, Tateyama type;Oculopharyngodistal myopathy
+KMN681	Limb-Girdle Muscular Dystrophy 2D	G71.0	H00562;H00565;H00566;H00585;H00590;H00592;H00593;H00594;H00697;H01778;H01977;H02182;H02513	Dystrophinopathies;Sarcoglycanopathies;Distal myopathy with anterior tibial onset;Epidermolysis bullosa, hemidesmosomal;Congenital muscular dystrophies (CMD/MDC);Calpainopathy;Limb-girdle muscular dystrophy;Distal myopathy;X-linked myopathy with postural muscle atrophy;Ullrich disease;Laing distal myopathy;Distal myopathy, Tateyama type;Oculopharyngodistal myopathy
+KMN682	Limb-Girdle Muscular Dystrophy 2E	G71.0	H00562;H00565;H00566;H00585;H00590;H00592;H00593;H00594;H00697;H01778;H01977;H02182;H02513	Dystrophinopathies;Sarcoglycanopathies;Distal myopathy with anterior tibial onset;Epidermolysis bullosa, hemidesmosomal;Congenital muscular dystrophies (CMD/MDC);Calpainopathy;Limb-girdle muscular dystrophy;Distal myopathy;X-linked myopathy with postural muscle atrophy;Ullrich disease;Laing distal myopathy;Distal myopathy, Tateyama type;Oculopharyngodistal myopathy
+KMN683	Limb-Girdle Muscular Dystrophy 2F	G71.0	H00562;H00565;H00566;H00585;H00590;H00592;H00593;H00594;H00697;H01778;H01977;H02182;H02513	Dystrophinopathies;Sarcoglycanopathies;Distal myopathy with anterior tibial onset;Epidermolysis bullosa, hemidesmosomal;Congenital muscular dystrophies (CMD/MDC);Calpainopathy;Limb-girdle muscular dystrophy;Distal myopathy;X-linked myopathy with postural muscle atrophy;Ullrich disease;Laing distal myopathy;Distal myopathy, Tateyama type;Oculopharyngodistal myopathy
+KMN684	Limb-Girdle Muscular Dystrophy 2G	G71.0	H00562;H00565;H00566;H00585;H00590;H00592;H00593;H00594;H00697;H01778;H01977;H02182;H02513	Dystrophinopathies;Sarcoglycanopathies;Distal myopathy with anterior tibial onset;Epidermolysis bullosa, hemidesmosomal;Congenital muscular dystrophies (CMD/MDC);Calpainopathy;Limb-girdle muscular dystrophy;Distal myopathy;X-linked myopathy with postural muscle atrophy;Ullrich disease;Laing distal myopathy;Distal myopathy, Tateyama type;Oculopharyngodistal myopathy
+KMN685	Limb-Girdle Muscular Dystrophy 2H	G71.0	H00562;H00565;H00566;H00585;H00590;H00592;H00593;H00594;H00697;H01778;H01977;H02182;H02513	Dystrophinopathies;Sarcoglycanopathies;Distal myopathy with anterior tibial onset;Epidermolysis bullosa, hemidesmosomal;Congenital muscular dystrophies (CMD/MDC);Calpainopathy;Limb-girdle muscular dystrophy;Distal myopathy;X-linked myopathy with postural muscle atrophy;Ullrich disease;Laing distal myopathy;Distal myopathy, Tateyama type;Oculopharyngodistal myopathy
+KMN686	Limb-Girdle Muscular Dystrophy 2I	G71.0	H00562;H00565;H00566;H00585;H00590;H00592;H00593;H00594;H00697;H01778;H01977;H02182;H02513	Dystrophinopathies;Sarcoglycanopathies;Distal myopathy with anterior tibial onset;Epidermolysis bullosa, hemidesmosomal;Congenital muscular dystrophies (CMD/MDC);Calpainopathy;Limb-girdle muscular dystrophy;Distal myopathy;X-linked myopathy with postural muscle atrophy;Ullrich disease;Laing distal myopathy;Distal myopathy, Tateyama type;Oculopharyngodistal myopathy
+KMN687	Limb-Girdle Muscular Dystrophy 2J	G71.0	H00562;H00565;H00566;H00585;H00590;H00592;H00593;H00594;H00697;H01778;H01977;H02182;H02513	Dystrophinopathies;Sarcoglycanopathies;Distal myopathy with anterior tibial onset;Epidermolysis bullosa, hemidesmosomal;Congenital muscular dystrophies (CMD/MDC);Calpainopathy;Limb-girdle muscular dystrophy;Distal myopathy;X-linked myopathy with postural muscle atrophy;Ullrich disease;Laing distal myopathy;Distal myopathy, Tateyama type;Oculopharyngodistal myopathy
+KMN585	Limbic Encephalitis	G04.81	NO_DATA	NO_DATA
+KMN500	Lipoamide dehydrogenasee deficieny	E71.0	H02000	Dihydrolipoamide dehydrogenase deficiency
+KMN549	Lipodystrophy	E88.1	H01475	Lipodystrophy
+KMN143	Lipoma	D17	NO_DATA	NO_DATA
+KMN501	Lipoprotein Lipase Deficiency	E78.3	H00154;H00157;H01784	Hyperlipoproteinemia, type I;Hyperlipoproteinemia, type V;Primary hyperchylomicronemia
+KMN42	Liposarcoma	C49.9	H01985	Desmoplastic small round cell tumor
+KMN731	Long QT Syndrome	I45.81	H00720	Long QT syndrome
+KMN27	Lung Adenocarcinoma	C34	NO_DATA	NO_DATA
+KMN26	Lung Cancer	C34	NO_DATA	NO_DATA
+KMN29	Lung Cancer in Never Smokers	C34	NO_DATA	NO_DATA
+KMN827	Lupus Nephritis	N08.5	H01500	Lupus nephritis
+KMN327	Lymphocytic Hypophysitis	E23.6	H01011	Adrenocorticotropic hormone deficiency
+KMN782	Lymphomatoid Papulosis	C86.6	NO_DATA	NO_DATA
+KMN102	Lymphoplasmacytic Lymphoma	C83.0	H00011	Lymphoplasmacytic lymphoma
+KMN499	Lysinuria	E72.0	H00692;H00843;H00899;H00901;H01198;H01386;H02419	Lowe syndrome;Hartnup disorder;Lysinuric protein intolerance;Cystinuria;Fanconi renotubular syndrome;Asparagine synthetase deficiency;Glycine encephalopathy with normal serum glycine
+KMN88	MALT Lymphoma	C88.4	NO_DATA	NO_DATA
+KMN664	MELAS Syndrome	E88.41	H01347	MELAS Syndrome
+KMN622	MERRF Syndrome	G71.3	H00898;H01200;H01348;H01356;H01368;H01369;H01384;H01390;H02201;H02237;H02447	Myopathy with lactic acidosis and sideroblastic anaemia;Fatal infantile cardioencephalomyopathy;Mitochondrial phosphate carrier deficiency;Myoclonic Epilepsy and Ragged-Red Fiber Disease;Cytochrome c oxidase (COX) deficiency;ATP synthase deficiency;Mitochondrial recessive ataxia syndrome;Mitochondrial neurogastrointestinal encephalomyopathy;Mitochondrial myopathy with lactic acidosis;AMP deaminase deficiency;Myopathy with extrapyramidal signs
+KMN253	MHC Class II Deficiency	D81.7	NO_DATA	NO_DATA
+KMN294	MIDD	E13.8	H00854	Wolfram syndrome
+KMN297	MODY 1	E13	H00410;H00766	Maturity onset diabetes of the young (MODY);Wolcott-Rallison syndrome
+KMN298	MODY 2	E13	H00410;H00766	Maturity onset diabetes of the young (MODY);Wolcott-Rallison syndrome
+KMN299	MODY 3	E13	H00410;H00766	Maturity onset diabetes of the young (MODY);Wolcott-Rallison syndrome
+KMN300	MODY 4	E13	H00410;H00766	Maturity onset diabetes of the young (MODY);Wolcott-Rallison syndrome
+KMN301	MODY 5	E13	H00410;H00766	Maturity onset diabetes of the young (MODY);Wolcott-Rallison syndrome
+KMN302	MODY 6	E13	H00410;H00766	Maturity onset diabetes of the young (MODY);Wolcott-Rallison syndrome
+KMN778	Malabsorption Syndrome	K90.9	NO_DATA	NO_DATA
+KMN12	Malaria Infection	B52	NO_DATA	NO_DATA
+KMN272	Mannose Binding Lectin Deficiency	D84.8	H00089;H02308	IFN-gamma/IL-12 axis;Immunodeficiency-centromeric instability-facial anomalies syndrome
+KMN100	Mantle-cell Lymphoma	C83.1	NO_DATA	NO_DATA
+KMN494	Maple Syrup Urine Disease	E71.0	H00172	Maple syrup urine disease
+KMN883	Marfan Syndrome	Q87.4	H00653	Marfan syndrome
+KMN235	May-Hegglin Anomaly	D72.0	H02051	May-Hegglin anomaly
+KMN856	Mayer-Rokitansky-Kuster-Hauser Syndrome	Q51.8	H00600	Mullerian agenesis
+KMN865	McCune-Albright Syndrome	D78.1	NO_DATA	NO_DATA
+KMN66	Medulloblastoma	C71.6	H01667	Medulloblastoma
+KMN113	Megakaryoblastic leukemia	C94.2	NO_DATA	NO_DATA
+KMN182	Megaloblastic Anemia	D53	NO_DATA	NO_DATA
+KMN369	Melanocortin-4 receptor gene mutation	E66.8	H02059;H02060;H02105;H02106;H02235;H02384	Leptin deficiency;Leptin receptor deficiency;Prohormone convertase 1/3 deficiency;Genetic obesity;Morbid obesity and spermatogenic failure;Abdominal obesity-metabolic syndrome
+KMN35	Melanoma	C43	H00038	Melanoma
+KMN834	Membranoproliferative Glomerulonephritis	N00.6	H01726	Membranoproliferative glomerulonephritis
+KMN833	Membranous Glomerulopathy	N04.2	NO_DATA	NO_DATA
+KMN759	Menetrier's Disease	K29.6	NO_DATA	NO_DATA
+KMN166	Meningiomas	D32.9	H01556	Meningioma
+KMN825	Mesangioproliferative Glomerulonephritis	N00.5	NO_DATA	NO_DATA
+KMN764	Mesenteric Venous Thrombosis	NO_DATA	NO_DATA	NO_DATA
+KMN43	Mesothelioma	C45	H00015	Malignant pleural mesothelioma
+KMN818	Metabolic Bone Disease	M83.4	NO_DATA	NO_DATA
+KMN495	Metabolic Syndrome	E88.81	NO_DATA	NO_DATA
+KMN504	Metachromatic Leukodystrophy	E75.25	H00127	Metachromatic leukodystrophy
+KMN81	Metastatic Tumor of Bone	C79.5	NO_DATA	NO_DATA
+KMN80	Metastatic Tumor of the Liver	C78.7	NO_DATA	NO_DATA
+KMN496	Methionine Malabsorption	E72.1	H01237;H01285	Sulfite oxidase deficiency;Methylcobalamin deficiency type G
+KMN497	Methylmalonic Acidemia	E71.120	NO_DATA	NO_DATA
+KMN850	Microcephaly	Q02	H00269;H00616;H00990;H01211;H02282	Primary microcephaly;Bowen-Conradi syndrome;Microcephaly, Amish type;MECP2-related severe neonatal encephalopathy;Spastic tetraplegia, thin corpus callosum, and progressive microcephaly
+KMN804	Microscopic polyangiitis	M31.7	H01658	Microscopic polyangiitis
+KMN625	Migraine	G43	NO_DATA	NO_DATA
+KMN616	Miller-Dieker's syndrome	Q04.3	H00120;H00268;H00530;H00792;H00897;H01001;H01722;H01811;H01921;H01937;H02431;H02501	Muscular dystrophy-dystroglycanopathy type A;Lissencephaly;Joubert syndrome;Warburg micro syndrome;Pontocerebellar hypoplasia;COACH syndrome;Galloway-Mowat syndrome;Arima syndrome;MICPCH syndrome;Multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia, and hydranencephaly;Cerebellar hypoplasia, epilepsy, and global developmental delay;Occipital cortical malformation
+KMN631	Miller Fisher Syndrome	G61.0	H01689;H01842	Fisher syndrome;Bickerstaff brainstem encephalitis
+KMN832	Minimal Change Disease	NO_DATA	NO_DATA	NO_DATA
+KMN106	Minimally Differentiated Leukemia	C92.0	NO_DATA	NO_DATA
+KMN663	Mitochondrial DNA Depletion Myopathy	G71.3	H00898;H01200;H01348;H01356;H01368;H01369;H01384;H01390;H02201;H02237;H02447	Myopathy with lactic acidosis and sideroblastic anaemia;Fatal infantile cardioencephalomyopathy;Mitochondrial phosphate carrier deficiency;Myoclonic Epilepsy and Ragged-Red Fiber Disease;Cytochrome c oxidase (COX) deficiency;ATP synthase deficiency;Mitochondrial recessive ataxia syndrome;Mitochondrial neurogastrointestinal encephalomyopathy;Mitochondrial myopathy with lactic acidosis;AMP deaminase deficiency;Myopathy with extrapyramidal signs
+KMN671	Miyoshi Myopathy	G71.0	H01965	Miyoshi myopathy
+KMN498	Molybdenum cofactor deficiency	E72.1	H02311	Molybdenum cofactor deficiency
+KMN123	Monocytic Leukemia	C93	NO_DATA	NO_DATA
+KMN790	Monosodium Urate Gout	M10	H01532	Gout
+KMN481	Mucolipidoses-II	E77.0	H00143;H02130	Mucolipidosis II;Mucolipidosis III
+KMN480	Mucolipidoses-III	E77.0	H00143;H02130	Mucolipidosis II;Mucolipidosis III
+KMN483	Mucopolysaccharidosis IH	E76.0	H00128;H00421	Mucopolysaccharidosis type I;Mucopolysaccharidosis
+KMN482	Mucopolysaccharidosis IH/S	E76.0	H00128;H00421	Mucopolysaccharidosis type I;Mucopolysaccharidosis
+KMN488	Mucopolysaccharidosis II	E76.1	H00129;H00421	Mucopolysaccharidosis type II;Mucopolysaccharidosis
+KMN484	Mucopolysaccharidosis IIIA	E76.2	H00123;H00130;H00131;H00132;H00421;H02205	Mucopolysaccharidosis type IV;Mucopolysaccharidosis type III;Mucopolysaccharidosis type VI;Mucopolysaccharidosis type VII;Mucopolysaccharidosis;Mucopolysaccharidosis-plus syndrome
+KMN485	Mucopolysaccharidosis IIIB	E76.2	H00123;H00130;H00131;H00132;H00421;H02205	Mucopolysaccharidosis type IV;Mucopolysaccharidosis type III;Mucopolysaccharidosis type VI;Mucopolysaccharidosis type VII;Mucopolysaccharidosis;Mucopolysaccharidosis-plus syndrome
+KMN486	Mucopolysaccharidosis IIIC	E76.2	H00123;H00130;H00131;H00132;H00421;H02205	Mucopolysaccharidosis type IV;Mucopolysaccharidosis type III;Mucopolysaccharidosis type VI;Mucopolysaccharidosis type VII;Mucopolysaccharidosis;Mucopolysaccharidosis-plus syndrome
+KMN487	Mucopolysaccharidosis IIID	E76.2	H00123;H00130;H00131;H00132;H00421;H02205	Mucopolysaccharidosis type IV;Mucopolysaccharidosis type III;Mucopolysaccharidosis type VI;Mucopolysaccharidosis type VII;Mucopolysaccharidosis;Mucopolysaccharidosis-plus syndrome
+KMN489	Mucopolysaccharidosis IS	E76.0	H00128;H00421	Mucopolysaccharidosis type I;Mucopolysaccharidosis
+KMN490	Mucopolysaccharidosis IVA	E76.2	H00123;H00130;H00131;H00132;H00421;H02205	Mucopolysaccharidosis type IV;Mucopolysaccharidosis type III;Mucopolysaccharidosis type VI;Mucopolysaccharidosis type VII;Mucopolysaccharidosis;Mucopolysaccharidosis-plus syndrome
+KMN491	Mucopolysaccharidosis IVB	E76.2	H00123;H00130;H00131;H00132;H00421;H02205	Mucopolysaccharidosis type IV;Mucopolysaccharidosis type III;Mucopolysaccharidosis type VI;Mucopolysaccharidosis type VII;Mucopolysaccharidosis;Mucopolysaccharidosis-plus syndrome
+KMN493	Mucopolysaccharidosis VI	E76.2	H00123;H00130;H00131;H00132;H00421;H02205	Mucopolysaccharidosis type IV;Mucopolysaccharidosis type III;Mucopolysaccharidosis type VI;Mucopolysaccharidosis type VII;Mucopolysaccharidosis;Mucopolysaccharidosis-plus syndrome
+KMN492	Mucopolysaccharidosis VII	E76.2	H00123;H00130;H00131;H00132;H00421;H02205	Mucopolysaccharidosis type IV;Mucopolysaccharidosis type III;Mucopolysaccharidosis type VI;Mucopolysaccharidosis type VII;Mucopolysaccharidosis;Mucopolysaccharidosis-plus syndrome
+KMN271	Mulibrey Nanism	Q87.1	H01289	Mulibrey nanism
+KMN644	Multifocal Motor Neuropathy	G61.82	NO_DATA	NO_DATA
+KMN559	Multiple Carboxylase/Biotinidase Deficiency	E53.8	H00180;H01182	Holocarboxylase synthetase deficiency;Biotinidase deficiency
+KMN169	Multiple Endocrine Neoplasia Type 1	D44.8	H00247;H01102	Multiple endocrine neoplasia syndrome;Pituitary adenomas
+KMN170	Multiple Endocrine Neoplasia Type 2	D44.8	H00247;H01102	Multiple endocrine neoplasia syndrome;Pituitary adenomas
+KMN870	Multiple Exostosis	Q78.6	H00122;H00493	Multiple exostoses;Heparan sulfate proteoglycan gene defects
+KMN122	Multiple Myeloma	C90.0	H00010	Multiple myeloma
+KMN615	Multiple Sclerosis	G35	H01490	Multiple sclerosis
+KMN558	Multiple Sulfatase Deficiency	E75.2	H00272	Multiple sulfatase deficiency
+KMN612	Multiple System Atrophy	G23.2	H01614	Multiple system atrophy
+KMN672	Myasthenia Gravis	G70.0	H01594	Myasthenia gravis
+KMN234	Mycobacteria Susceptibility	D84.8	H00089;H02308	IFN-gamma/IL-12 axis;Immunodeficiency-centromeric instability-facial anomalies syndrome
+KMN114	Mycosis Fungoides	C84.0	H01463	Mycosis fungoides
+KMN108	Myeloblastic Leukemia with Maturation	C92	NO_DATA	NO_DATA
+KMN107	Myeloblastic Leukemia without Maturation	C92	NO_DATA	NO_DATA
+KMN162	Myelodysplastic Syndrome	D46	H01481	Myelodysplastic syndrome
+KMN163	Myelofibrosis	D75.81	H01605	Myelofibrosis
+KMN110	Myelomonocytic Leukemia	C92	NO_DATA	NO_DATA
+KMN111	Myelomonocytic Leukemia Variant: Increase in Abnormal Marrow Eosinophils	C92	NO_DATA	NO_DATA
+KMN479	Myoadenylate Deaminase Deficiency	E79.2	NO_DATA	NO_DATA
+KMN726	Myocardial Infarction	I21;I22	H01730	Myocardial infarction
+KMN690	Myotonia Congenita	G71.12	H00705	Myotonia congenita
+KMN648	Myotonic Dystrophy Type 1	G71.1	H00493;H00568;H00744;H01777;H01780;H01804	Heparan sulfate proteoglycan gene defects;Myotonic dystrophy;Potassium-aggravated myotonia;Schwartz-Jampel syndrome;Non-dystrophic myotonia;Isaacs syndrome
+KMN649	Myotonic Dystrophy Type 2	G71.1	H00493;H00568;H00744;H01777;H01780;H01804	Heparan sulfate proteoglycan gene defects;Myotonic dystrophy;Potassium-aggravated myotonia;Schwartz-Jampel syndrome;Non-dystrophic myotonia;Isaacs syndrome
+KMN150	Myxoma	D16.4;D16.5	NO_DATA	NO_DATA
+KMN383	N-Acetylglutamate Synthase Deficiency	E72.2	H01032	N-acetylglutamate synthase deficiency
+KMN659	Na channel myotonia	G71.1	H00493;H00568;H00744;H01777;H01780;H01804	Heparan sulfate proteoglycan gene defects;Myotonic dystrophy;Potassium-aggravated myotonia;Schwartz-Jampel syndrome;Non-dystrophic myotonia;Isaacs syndrome
+KMN892	Nail-Patella Syndrome	Q87.2	H00464	Nail-patella syndrome
+KMN660	Nemaline Myopathy	G71.21	H00698	Nemaline myopathy
+KMN59	Nephroblastoma	C64	H02301	Nephroblastoma
+KMN837	Nephrolithiasis	N20.0	NO_DATA	NO_DATA
+KMN861	Nephronophthisis	Q61.5	H00537	Nephronophthisis
+KMN24	Nesidioblastosis of Pancreas	C25.4	NO_DATA	NO_DATA
+KMN269	Netherton Syndrome	Q80.8	H00671	Netherton syndrome
+KMN76	Neuroblastoma	C74.9	H00043	Neuroblastoma
+KMN147	Neuroendocrine Tumor	NO_DATA	NO_DATA	NO_DATA
+KMN888	Neurofibromatosis Type 1	Q85.0	H01437	Neurofibromatosis type 1
+KMN889	Neurofibromatosis Type 2	Q85.0	H01438	Neurofibromatosis type 2
+KMN688	Neuromyotonia	G71.1	H00493;H00568;H00744;H01777;H01780;H01804	Heparan sulfate proteoglycan gene defects;Myotonic dystrophy;Potassium-aggravated myotonia;Schwartz-Jampel syndrome;Non-dystrophic myotonia;Isaacs syndrome
+KMN552	Neuronal ceroid-lipofuscinosis	E75.4	H00149;H02275;H02276;H02277;H02278;H02279	Neuronal ceroid lipofuscinosis;Batten disease;Kufs disease;Santavuori-Haltia disease;Jansky-Bielschowsky disease;Cathepsin D deficiency
+KMN237	Neutropenia	D70	H00100;H00939;H01218;H01725	Neutropenic disorders;Darsun syndrome;P14 deficiency;Primary immunodeficiency disease
+KMN447	Niemann-Pick Disease	E75.24	NO_DATA	NO_DATA
+KMN267	Nijmegen Breakage Syndrome	Q87.8	H00205;H00417;H00449;H00493;H00496;H00500;H00510;H00539;H00555;H00556;H00571;H00573;H00574;H00583;H00597;H00617;H00634;H00639;H00642;H00643;H00659;H00669;H00682;H00685;H00686;H00709;H00727;H00752;H00785;H00789;H00797;H00868;H00886;H00889;H00894;H00907;H00926;H00934;H00936;H00940;H00943;H00946;H00972;H00987;H01008;H01035;H01156;H01220;H01255;H01265;H01271;H01281;H01342;H01486;H01487;H01568;H01569;H01573;H01745;H01776;H01793;H01794;H01795;H01796;H01797;H01800;H01814;H01816;H01824;H01839;H01843;H01845;H01850;H01857;H01872;H01876;H01878;H01880;H01887;H01898;H01914;H01915;H01916;H01917;H01919;H01922;H01923;H01984;H01988;H01989;H02047;H02082;H02095;H02102;H02127;H02137;H02169;H02180;H02195;H02198;H02218;H02219;H02224;H02232;H02248;H02249;H02260;H02267;H02283;H02287;H02292;H02303;H02317;H02327;H02328;H02334;H02343;H02364;H02368;H02376;H02383;H02391;H02422;H02453;H02454;H02455;H02465;H02474;H02478;H02482;H02483;H02488;H02492;H02493;H02496;H02500;H02503;H02506;H02508	Peroxisome biogenesis disorder;Alstrom syndrome;Oculodentodigital dysplasia;Heparan sulfate proteoglycan gene defects;Congenital hemidysplasia with ichthyosiform nevus and limb defects (CHILD);Keutel syndrome;Feingold syndrome;PTEN hamartoma tumor syndrome;Char syndrome;CHARGE syndrome;Johanson-Blizzard syndrome;Townes-Brocks syndrome;Coffin-Lowry syndrome;Opitz-GBBB syndrome;Snyder-Robinson syndrome;Desmosterolosis;Duane-radial ray syndrome;Ectodermal dysplasia, ectrodactyly, and macular dystrophy;Lacrimo-auriculo-dento-digital syndrome;Tooth and nail syndrome;Shprintzen-Goldberg syndrome;Naxos disease;Woodhouse-Sakati syndrome;Bifid nose with or without anorectal and renal anomalies;Manitoba oculotrichoanal syndrome;Birk Barel mental retardation syndrome (BBMRS);Athabascan brainstem dysgenesis syndrome;Ankyloblepharon-ctodermal defects-cleft lip/palate (AEC) syndrome and Rapp-Hodgkin syndrome;Congenital hypotrichosis with juvenile macular dystrophy;Keratoconus;Martsolf syndrome;Stapes ankylosis with broad thumb and toes;Donnai-Barrow syndrome;Lujan-Fryns syndrome;FG syndrome;Kleefstra syndrome;Growth retardation, developmental delay, coarse facies, and early death;Caudal duplication anomaly;Goldberg-Shprintzen megacolon syndrome;Cohen syndrome;TARP syndrome;Arts syndrome;Endocrine-cerebro-osteodysplasia syndrome;Fetal akinesia deformation sequence;C syndrome;Corpus callosum, agenesis of, with mental retardation, ocular coloboma and micrognathia;STAR syndrome;Congenital cataracts, facial dysmorphism, and neuropathy;Juvenile-onset dystonia;Hydrolethalus syndrome;Hypoparathyroidism with sensorineural deafness and renal dysplasia;Lathosterolosis;Zellweger syndrome;Multiple congenital anomalies-hypotonia-seizures syndrome;CHIME syndrome;3C syndrome;CHOPS syndrome;Zimmermann-Laband syndrome;Cardiofaciocutaneous syndrome;Aicardi syndrome;Young-Simpson syndrome;Genitopatellar syndrome;Blepharophimosis-mental retardation syndrome;Uncombable hair syndrome;Webb-Dattani syndrome;Verheij syndrome;Stromme syndrome;Frank-ter Haar syndrome;CODAS syndrome;Burn-McKeown syndrome;Cerebrocostomandibular syndrome;Catel-Manzke syndrome;Hartsfield syndrome;Filippi syndrome;Microcephaly-capillary malformation syndrome;Microcephaly with or without chorioretinopathy, lymphedema, or mental retardation;Al-Raqad syndrome;Autosomal recessive microcephaly and chorioretinopathy;3MC syndrome;PNPLA6-related disorders;Christianson syndrome;Borjeson-Forssman-Lehmann syndrome;Stocco dos Santos X-linked mental retardation syndrome;CK syndrome;Proud syndrome;Infantile hypotonia with psychomotor retardation and characteristic facies;Microcephaly, short stature, and impaired glucose metabolism;Leopard syndrome;Jackson-Weiss syndrome;Beare-Stevenson syndrome;Bohring-Opitz syndrome;Floating-Harbor syndrome;Perrault syndrome;Myhre syndrome;Yunis-Varon syndrome;Laurence-Moon syndrome;Hennekam lymphangiectasia-lymphedema syndrome;McKusick-Kaufman syndrome;MEHMO syndrome;Pancreatic agenesis and congenital heart disease;DOORS syndrome;DDOD syndrome;Grange syndrome;CAGSSS syndrome;MEND syndrome;Primrose syndrome;Chondrodysplasia Chassaing-Lacombe type;Wilson-Turner syndrome;IVIC syndrome;Deafness, dystonia, and cerebral hypomyelination;Retinal dystrophy, juvenile cataracts, and short stature syndrome;Alopecia-mental retardation syndrome;SERKAL syndrome;KBG syndrome;Sifrim-Hitz-Weiss syndrome;Pierpont syndrome;EVEN-plus syndrome;Heart and brain malformation syndrome;Developmental delay with short stature, dysmorphic facial features, and sparse hair;Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies;Midface hypoplasia, hearing impairment, elliptocytosis, and nephrocalcinosis;Infantile-onset multisystem neurologic, endocrine, and pancreatic disease;Retinitis pigmentosa with skeletal anomalies;Congenital heart defects and ectodermal dysplasia;Congenital heart defects, dysmorphic facial features, and intellectual developmental disorder;Congenital heart defects, hamartomas of tongue, and polysyndactyly;Weiss-Kruszka syndrome;Blepharocheilodontic syndrome;CATIFA syndrome;ROSAH syndrome;Basel-Vanagait-Smirin-Yosef syndrome;Cardiac-urogenital syndrome;Microcephaly, growth restriction, and increased sister chromatid exchange;Al Kaissi syndrome;Cerebellar, ocular, craniofacial, and genital syndrome;Congenital interstitial lung disease with nephrotic syndrome and epidermolysis bullosa;Richieri-Costa-Pereira syndrome;Cardioacrofacial dysplasia;Agenesis of corpus callosum, cardiac, ocular, and genital syndrome
+KMN115	Nodular Lymphocyte-Predominant Hodgkin's Lymphoma	C81.0	NO_DATA	NO_DATA
+KMN125	Non-Hodgkin's Lymphoma	C85	H02418	Non-Hodgkin lymphoma
+KMN727	Non-ST-Elevation Myocardial Infarction	I21.4	NO_DATA	NO_DATA
+KMN30	Non-Small Cell Lung Cancer	C34.9	H00014	Non-small cell lung cancer
+KMN771	Nonalcoholic Fatty Liver Disease	K76.0	H01333	Non-alcoholic fatty liver disease
+KMN570	Nonketotic hyperglycinemia-type I	E72.5	H00190;H00191;H01003	Hyperprolinemia;Nonketotic hyperglycinemia;Dimethylglycine dehydrogenase deficiency
+KMN57	Nonseminoma	C62	H00023	Testicular cancer
+KMN268	Nude Syndrome	D82.8	H00094;H00095;H00931;H00962;H01344	Immunodeficiency associated with DNA repair defects;Ectodermal dysplasia associated immunodeficiency;Growth hormone insensitivity with immunodeficiency;RIDDLE syndrome;Nijmegen syndrome
+KMN373	Obesity	E66	NO_DATA	NO_DATA
+KMN372	Obesity in endocrine disease	E66	NO_DATA	NO_DATA
+KMN668	Oculopharyngeal Muscular Dystrophy	G71.0	H00704	Oculopharyngeal muscular dystrophy
+KMN69	Oligo-astrocytoma	C71.9	NO_DATA	NO_DATA
+KMN63	Oligoastrocytoma	C71.9	NO_DATA	NO_DATA
+KMN70	Oligodendroglioma	C71.9	NO_DATA	NO_DATA
+KMN263	Omenn Syndrome	D81.8	NO_DATA	NO_DATA
+KMN817	Oncogenic Osteomalacia	M83.8	NO_DATA	NO_DATA
+KMN598	Opsoclonus-Myoclonus	G25.3	NO_DATA	NO_DATA
+KMN406	Ornithine Transcarbamylase Deficiency	E72.4	H00187	Ornithine transcarbamylase deficiency
+KMN407	Orotic Aciduria	D53.0;E79.8	H00198	Orotic aciduria
+KMN795	Osteoarthritis	M15.9	NO_DATA	NO_DATA
+KMN142	Osteochondroma	D16.9	NO_DATA	NO_DATA
+KMN867	Osteogenesis Imperfecta	Q78.0	H00506	Osteogenesis imperfecta
+KMN871	Osteopetrosis	Q78.2	H00436	Osteopetrosis
+KMN816	Osteoporosis	M80;M81;M82	H01593	Osteoporosis
+KMN32	Osteosarcoma	C41.9	H00036	Osteosarcoma
+KMN53	Ovarian Cancer	C56	H00027	Ovarian cancer
+KMN351	Ovarian Failure	E28.3	H00627	Premature ovarian failure
+KMN89	POEMS Syndrome	D47.7	NO_DATA	NO_DATA
+KMN385	PRPP synthetase deficiency	NO_DATA	NO_DATA	NO_DATA
+KMN384	PRPP synthetase super-activity	E79.8	H00196;H00964;H00966	Phosphoribosylpyrophosphate synthetase superactivity;Thiopurine S-methyltransferase deficiency (TPMT deficiency);AICA-ribosiduria
+KMN819	Paget Disease of Bone	M88	H00437	Paget disease of bone
+KMN22	Pancreatic Cancer	C25	H00019	Pancreatic cancer
+KMN23	Pancreatic Endocrine Tumor	C25.4	NO_DATA	NO_DATA
+KMN178	Pancreatic Neuroendocrine Tumor	E16.8	H00045	Pancreatic neuroendocrine tumor
+KMN349	Panhypopituitarism	E23.0	H00255;H01699;H01700;H01860;H02027;H02035;H02036;H02038;H02039	Hypogonadotropic hypogonadism;Isolated TSH deficiency;Hypopituitarism;Abnormal pituitary gonadotropin secretion;Male hypogonadism;Isolated growth hormone deficiency;Combined pituitary hormone deficiency;X-linked panhypopituitarism;Kowarski syndrome
+KMN785	Papular Mucinosis	L98.5	NO_DATA	NO_DATA
+KMN689	Paramyotonia Congenita	G71.1	H00743	Paramyotonia congenita
+KMN608	Paraneoplastic Cerebellar Ataxia	G32.81	NO_DATA	NO_DATA
+KMN609	Paraneoplastic Cerebellar Degeneration	G32.81	NO_DATA	NO_DATA
+KMN582	Paraneoplastic Encephalomyelitis	G04	NO_DATA	NO_DATA
+KMN703	Paraneoplastic Retinopathy	H36	NO_DATA	NO_DATA
+KMN642	Paraneoplastic Sensory Neuronopathy	G13	NO_DATA	NO_DATA
+KMN595	Parkinson's Disease	G20	H00057	Parkinson disease
+KMN194	Paroxysmal Nocturnal Hemoglobinuria	D59.5	H01053	Paroxysmal nocturnal hemoglobinuria
+KMN844	Pathologic Gynecomastia	N62	NO_DATA	NO_DATA
+KMN364	Pellagra	E52	H01582	Pellagra
+KMN761	Peptic Ulcer Disease	K27.9	NO_DATA	NO_DATA
+KMN13	Periodic Fever Syndrome	E85.0	H00282;H00288;H02484	Cryopyrin associated periodic syndrome;Familial Mediterranean fever;X-linked reticulate pigmentary disorder with systemic manifestations
+KMN46	Peripheral Nerve Sheath Tumors	C47	NO_DATA	NO_DATA
+KMN126	Peripheral T Cell Lymphoma	C84.4	H01892	Peripheral T cell lymphoma
+KMN181	Pernicious Anemia	D51.0	H01277	Vitamin B12 deficiency anaemia
+KMN855	Persistent Mullerian Duct syndrome	Q55.8	H00609	Persistent Mullerian duct syndrome
+KMN848	Persistent hyperinsulinemic hypoglycemia of infancy	E16.1	H01267	Familial hyperinsulinemic hypoglycemia
+KMN462	Phenylketonuria Type I	E70.0;E70.1	H00167	Phenylketonuria
+KMN461	Phenylketonuria Type II	E70.1	NO_DATA	NO_DATA
+KMN460	Phenylketonuria Type III	NO_DATA	NO_DATA	NO_DATA
+KMN140	Pheochromocytoma	D35.0	NO_DATA	NO_DATA
+KMN473	Phosphoglycerate Dehydrogenase Deficiency	E72.8	H00200;H00834;H00835;H00849;H00923;H01079;H01257;H01283;H02116;H02117;H02196;H02304;H02313	Beta-ureidopropionase deficiency;Guanidinoacetate methyltransferase deficiency;Succinic semialdehyde dehydrogenase deficiency;Cerebral creatine deficiency syndrome;Congenital systemic glutamine deficiency;3-Phosphoglycerate dehydrogenase (3-PGDH) deficiency;GABA-transaminase deficiency;Malonyl-CoA decarboxylase deficiency;Phosphoserine phosphatase deficiency;Neu-Laxova syndrome;X-linked creatine deficiency syndrome;Combined D-2- and L-2-hydroxyglutaric aciduria;5-Oxoprolinase deficiency
+KMN472	Phosphoglycerate Kinase Deficiency	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN474	Phosphoglycerate Mutase Deficiency	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN72	Pilocytic astrocytoma	C71.9	NO_DATA	NO_DATA
+KMN157	Pituitary Tumor	D44.3	NO_DATA	NO_DATA
+KMN98	Plasma-cell Leukaemia	C90.1	NO_DATA	NO_DATA
+KMN210	Plasminogen Activator Inhibitor 1 Deficiency	D68.8	H00983;H01078;H01106;H01697	Alpha-2-plasmin inhibitor (a2-PI) deficiency;Fletcher factor deficiency;Plasminogen activator inhibitor type 1 deficiency;Antiphospholipid syndrome
+KMN746	Pneumonia	J10;J11;J12;J13;J14;J15;J16;J17;J18	NO_DATA	NO_DATA
+KMN802	Polyarteritis Nodosa	M30.0	H01382	Polyarteritis nodosa
+KMN346	Polycystic Ovarian Syndrome	E28.2	H01739	Polycystic ovary syndrome
+KMN238	Polycythemia	D75.1	NO_DATA	NO_DATA
+KMN165	Polycythemia Vera	D45	H00012	Polycythemia vera
+KMN557	Polygenic Hypercholesterolemia	E78.0	H01383;H01918	Hyperlipoproteinemia type IIa;Familial autosomal recessive hypercholesterolemia
+KMN344	Polyglandular Autoimmune Syndrome Type I	E31.0	H01971;H01972	IPEX syndrome;Autoimmune polyendocrinopathy syndrome type 1
+KMN345	Polyglandular Autoimmune Syndrome Type II	E31.0	H01971;H01972	IPEX syndrome;Autoimmune polyendocrinopathy syndrome type 1
+KMN809	Polymyositis	M33.2	NO_DATA	NO_DATA
+KMN149	Polyposis Coli	D12.6	H01023	Juvenile polyposis syndrome
+KMN569	Porphyria Cutanea Tarda	E80.1	H00202	Hepatic porphyria
+KMN896	Postural Orthostatic Tachycardia Syndrome	I49.8	NO_DATA	NO_DATA
+KMN881	Prader-Willi Syndrome	Q87.11	H00478	Prader-Willi syndrome
+KMN120	Precursor B Cell Acute Lymphoid Leukemia	C83.5;C91.0	H00001;H00002	B-cell acute lymphoblastic leukemia;T-cell acute lymphoblastic leukemia
+KMN121	Precursor T cell Lymphoblastic Lymphoma	C91.0	H00001;H00002	B-cell acute lymphoblastic leukemia;T-cell acute lymphoblastic leukemia
+KMN637	Predominant Sensory Demyelinating Neuropathy	G60.0	H00264;H00816;H01155;H01296;H02344;H02345;H02357;H02390	Charcot-Marie-Tooth disease;Agenesis of the corpus callosum with peripheral neuropathy;Roussy-Levy syndrome;Hereditary neuropathy with liability to pressure palsies;Cowchock syndrome;Autosomal recessive peripheral neuropathy (PNRIID);Congenital hypomyelinating neuropathy;Autosomal recessive neuromyotonia and axonal neuropathy
+KMN847	Preeclampsia	O14	NO_DATA	NO_DATA
+KMN332	Primary Aldosteronism	E26.0	H01603	Primary aldosteronism
+KMN769	Primary Biliary Cirrhosis	K74.3	H01467	Primary biliary cirrhosis
+KMN116	Primary Effusion Lymphoma	C83.8	NO_DATA	NO_DATA
+KMN534	Primary Hypoalphalipoproteinemia	E78.6	H00158;H00927;H00930	Lecithin:cholesterol acyltransferase deficiency;Chylomicron retention disease;Hypoalphalipoproteinemia
+KMN533	Primary Lactase Deficiency	E73.0	H00116	Congenital lactase deficiency
+KMN728	Primary Pulmonary Hypertension	I27.0	H01619	Primary pulmonary hypertension
+KMN119	Primary Testicular Lymphoma	NO_DATA	NO_DATA	NO_DATA
+KMN665	Primary merosin deficiency	G71.0	H00562;H00565;H00566;H00585;H00590;H00592;H00593;H00594;H00697;H01778;H01977;H02182;H02513	Dystrophinopathies;Sarcoglycanopathies;Distal myopathy with anterior tibial onset;Epidermolysis bullosa, hemidesmosomal;Congenital muscular dystrophies (CMD/MDC);Calpainopathy;Limb-girdle muscular dystrophy;Distal myopathy;X-linked myopathy with postural muscle atrophy;Ullrich disease;Laing distal myopathy;Distal myopathy, Tateyama type;Oculopharyngodistal myopathy
+KMN71	Primitive Neuroectodermal Tumor	C71.9	NO_DATA	NO_DATA
+KMN343	Progeria	E34.8	H00601;H01733;H01883;H02323;H02480	Hutchinson-Gilford progeria syndrome;Werner syndrome;Nestor-Guillermo progeria syndrome;Ruijs-Aalfs syndrome;Fontaine progeroid syndrome
+KMN868	Progressive Diaphyseal Dysplasia	Q78.3	H00434	Camurati-Engelmann disease
+KMN770	Progressive Familial Intrahepatic Cholestasis	K76.8	H00624	Progressive familial intrahepatic cholestasis
+KMN599	Progressive Supranuclear Palsy	G23.1	H00077	Progressive supranuclear palsy
+KMN368	Prohormone convertase 1 gene mutation	E66.8	H02059;H02060;H02105;H02106;H02235;H02384	Leptin deficiency;Leptin receptor deficiency;Prohormone convertase 1/3 deficiency;Genetic obesity;Morbid obesity and spermatogenic failure;Abdominal obesity-metabolic syndrome
+KMN467	Prolidase Deficiency	E72.8	H01119	Prolidase deficiency
+KMN466	Propionic Acidemia	E71.121	H00175	Propionic acidemia
+KMN56	Prostate Cancer	C61	H00024	Prostate cancer
+KMN843	Prostatic hypertrophy	N40;N41.1	NO_DATA	NO_DATA
+KMN211	Protein C Deficiency	D68.5	H01381	Antithrombin III deficiency
+KMN212	Protein S Deficiency	D68.5	H01381	Antithrombin III deficiency
+KMN213	Prothrombin Deficiency	D68.4	H00995;H01759	Combined deficiency of vitamin K-dependent clotting factors;Autoimmune hemorrhaphilia XIII/13
+KMN528	Pseudohypoaldosteronism	N25.8	H00241;H00243;H00428;H00429;H00694;H02147;H02148;H02149;H02310	Combined proximal and distal renal tubular acidosis;Hyperkalemic distal renal tubular acidosis (RTA type 4);Distal renal tubular acidosis (RTA type 1);Proximal renal tubular acidosis (RTA type 2);Dent disease;X-linked recessive nephrolithiasis with renal failure;Low molecular weight proteinuria with hypercalciuria and nephrocalcinosis;X-linked hypercalciuric nephrolithiasis;Renal tubular acidosis
+KMN331	Pseudohypoparathyroidism	E20.1	H00244	Pseudohypoparathyroidism
+KMN330	Pseudopseudohypoparathyroidism	E20.1	NO_DATA	NO_DATA
+KMN783	Psoriasis	L40	H01656	Psoriasis
+KMN787	Psoriatic Arthritis	L40.5	NO_DATA	NO_DATA
+KMN757	Pulmonary Alveolar Proteinosis	J84.0	H00217	Pulmonary alveolar proteinosis
+KMN756	Pulmonary Edema	J81	NO_DATA	NO_DATA
+KMN730	Pulmonary Embolism	I26	NO_DATA	NO_DATA
+KMN151	Pulmonary Lymphangioleiomyomatosis	D48.7	NO_DATA	NO_DATA
+KMN729	Pulmonary Thromboembolism	I27.2	H01622	Chronic thromboembolic pulmonary hypertension
+KMN270	Purine Nucleoside Phosphorylase Deficiency	D81.5	NO_DATA	NO_DATA
+KMN875	Pyknodysostosis	Q78.8	H00444;H00447;H00452;H00462;H00468;H00479;H00483;H00484;H00486;H00491;H00494;H00508;H00518;H00675;H01018;H01571;H01828;H01844;H02064;H02154;H02280;H02349;H02415	Osteopathia striata with cranial sclerosis;HEM skeletal dysplasia;Buschke-Ollendorff syndrome;Stuve-Wiedemann syndrome;Acromesomelic dysplasia, Demirhan type;Metaphyseal dysplasias;Angel shaped phalangoepiphyseal dysplasia;Multiple synostosis syndrome;Sclerosteosis;Craniometaphyseal dysplasia;Desbuquois syndrome;Blomstrand syndrome;Metaphyseal dysplasia without hypotrichosis;Acrocapitofemoral dysplasia;Metachondromatosis;Singleton-Merten syndrome;Opsismodysplasia;Diaphanospondylodysostosis;Atelosteogenesis type I and III;Omodysplasia;Complex lethal osteochondrodysplasia;Odontochondrodysplasia;Craniofacial dysmorphism, skeletal anomalies, and mental retardation syndrome
+KMN454	Pyrimidine 5'-Nucleotidase Deficiency	D55.3	H00674	Anemia due to disorders of nucleotide metabolism
+KMN455	Pyruvate Kinase Deficiency	E74.4	H01096	Pyruvate kinase deficiency
+KMN296	Rabson-Mendenhall syndrome	E13	H00942	Rabson-Mendenhall syndrome
+KMN793	Reactive Arthritis	M02.3	NO_DATA	NO_DATA
+KMN174	Refractory anemia	D46	NO_DATA	NO_DATA
+KMN632	Refsum Disease	G60.1	H00075	Refsum disease
+KMN821	Relapsing Polychondritis	M94.1	H01758	Relapsing polychondritis
+KMN60	Renal Cell Carcinoma	C64	H00021	Renal cell carcinoma
+KMN717	Renal Parenchymal Hypertension	NO_DATA	NO_DATA	NO_DATA
+KMN842	Renal osteodystrophy	N25.0	NO_DATA	NO_DATA
+KMN716	Renovascular Hypertension	I15.0	NO_DATA	NO_DATA
+KMN216	Resistance to Activated Protein C	D68.5	H01381	Antithrombin III deficiency
+KMN287	Resistance to Thyroid Hormone	E07	NO_DATA	NO_DATA
+KMN597	Restless Legs Syndrome	G25.81	H01597	Restless legs syndrome
+KMN738	Restrictive Cardiomyopathy	I42.5	H01219	Restrictive cardiomyopathy
+KMN73	Retinoblastoma	C69.2	H01513	Retinoblastoma
+KMN578	Rett Syndrome	F84.2	H00440	Rett syndrome
+KMN39	Rhabdomyosarcoma	C49.9	H00037	Rhabdomyosarcoma
+KMN710	Rheumatic fever	I00;I01;I02	H01924	Sydenham chorea
+KMN788	Rheumatoid Arthritis	M06	H00630	Rheumatoid arthritis
+KMN353	Rogers' Syndrome	Q21.0	H01926	Ventricular septal defect
+KMN503	Rotor's syndrome	E80.6	H02057	Rotor syndrome
+KMN794	SAPHO Syndrome	M86.3	NO_DATA	NO_DATA
+KMN720	ST-Segment Elevation Myocardial Infarction	I21.3	NO_DATA	NO_DATA
+KMN424	Sandhoff's Disease	E75.0	H02017	Sandhoff disease
+KMN265	Sarcoidosis	D86	H01309	Sarcoidosis, early-onset
+KMN423	Sarcosinemia	E72.5	H00190;H00191;H01003	Hyperprolinemia;Nonketotic hyperglycinemia;Dimethylglycine dehydrogenase deficiency
+KMN864	Schimke Immuno-Osseous Dysplasia	Q77.7	H00445;H00474;H00519;H00580;H00758;H00760;H00761;H00765;H00767;H00777;H00863;H01494;H01575;H01967;H02070;H02071;H02079;H02080;H02155;H02186;H02187;H02462	Osteoarthritis with mild chondrodysplasia;Schneckenbecken dysplasia;Spondyloepiphyseal dysplasia congenita;Schimke immunoosseous dysplasia;Progressive pseudorheumatoid dysplasia;Spondyloepiphyseal dysplasia tarda;SEMD, Pakistani type;Spondyloepiphyseal dysplasia, Kimberley type;SEMD, Matrilin type;SEMD, short limb-hand type;Spondylo-megaepiphyseal-metaphyseal dysplasia;SEMD with joint laxity type;Roifman syndrome;Anauxetic dysplasia;Kniest dysplasia;Czech dysplasia;Oto-spondylo-megaepiphyseal dysplasia;Fibrochondrogenesis;Dyssegmental dysplasia;Spondyloepiphyseal dysplasia, Maroteaux type;Spondyloepimetaphyseal dysplasia;Spondyloepiphyseal dysplasia
+KMN574	Schizophrenia	F20	H01649	Schizophrenia
+KMN146	Schwannoma	Q85.0	H01986;H02188	Legius syndrome;Watson syndrome
+KMN654	Schwartz-Jampel syndrome (chondrodystrophic myotonia)	G71.1	H00493;H00568;H00744;H01777;H01780;H01804	Heparan sulfate proteoglycan gene defects;Myotonic dystrophy;Potassium-aggravated myotonia;Schwartz-Jampel syndrome;Non-dystrophic myotonia;Isaacs syndrome
+KMN206	Sebastian syndrome	D69.4	H02052	Sebastian syndrome
+KMN55	Seminoma	C62.9	NO_DATA	NO_DATA
+KMN636	Sensory Neuronopathy	G60.0	H00264;H00816;H01155;H01296;H02344;H02345;H02357;H02390	Charcot-Marie-Tooth disease;Agenesis of the corpus callosum with peripheral neuropathy;Roussy-Levy syndrome;Hereditary neuropathy with liability to pressure palsies;Cowchock syndrome;Autosomal recessive peripheral neuropathy (PNRIID);Congenital hypomyelinating neuropathy;Autosomal recessive neuromyotonia and axonal neuropathy
+KMN3	Sepsis	A41	NO_DATA	NO_DATA
+KMN851	Septo-Optic Dysplasia	Q04.4	H00544	Septo-optic dysplasia
+KMN48	Sertoli Cell Tumor	C56, C62	NO_DATA	NO_DATA
+KMN901	Severe Acute Respiratory Syndrome	U04	NO_DATA	NO_DATA
+KMN277	Severe Combined Immunodeficiency	D81	H00091;H00092;H00093;H01244;H01725	T-B+Severe combined immunodeficiency;T-B-Severe combined immunodeficiency;Combined immunodeficiency;T+B+Severe combined immunodeficiencies (SCIDs);Primary immunodeficiency disease
+KMN623	Severe myoclonic epilepsy of infancy	G40.4	H00577;H00783;H01258;H01460;H01813;H01818;H01819;H01823;H01827;H02360;H02361;H02472	Symptomatic generalized epilepsies;Febrile seizures;Generalized epilepsy and paroxysmal dyskinesia;West syndrome;Lennox-Gastaut syndrome;Dravet syndrome;Early myoclonic encephalopathy;Myoclonic-astatic epilepsy;Rolandic epilepsy, mental retardation, and speech dyspraxia;Epileptic encephalopathy, childhood-onset;Myoclonic-atonic epilepsy;Early-onset progressive encephalopathy
+KMN96	Sezary Syndrome	C84.1	NO_DATA	NO_DATA
+KMN425	Sialidosis	E77.1	H00142	Sialidosis
+KMN284	Sick Euthyroid Syndrome	E07.8	H00249	Thyroid hormone resistance syndrome
+KMN191	Sickle Cell Syndrome	D57	H00229	Sickle cell anemia
+KMN428	Sitosterolemia	E78.0	H00152	Sitosterolemia
+KMN799	Sjogren's Syndrome	M35.0	H01502	Sjogren syndrome
+KMN621	Sleep Apnea	G47.3	H00916	Congenital central hypoventilation syndrome
+KMN25	Small Cell Lung Cancer	C34.9	H00013	Small cell lung cancer
+KMN44	Soft Tissue Sarcoma	C49	H00049;H00052	Myxoid liposarcoma;Clear cell sarcoma of soft tissue
+KMN172	Soft Tissue Tumor	D20;D21;D23.5;D24;D48 	NO_DATA	NO_DATA
+KMN138	Somatostatinoma Syndrome	C25.4	NO_DATA	NO_DATA
+KMN592	Spinal Muscular Atrophy	G12	H00455	Spinal muscular atrophy
+KMN610	Spinocerebellar Ataxia	G11.1	H00981;H00999;H01036;H01284;H02464	Ataxia with isolated vitamin E deficiency (AVED);Coenzyme Q10 deficiency;Posterior column ataxia with retinitis pigmentosa;Marinesco-Sjogren syndrome;Poretti-Boltshauser syndrome
+KMN196	Spur Cell Anemia	NO_DATA	NO_DATA	NO_DATA
+KMN28	Squamous Tumor of Lung Cancer	C34.9	NO_DATA	NO_DATA
+KMN655	Stiff-Person Syndrome	G25.8	H00769;H01287	Hyperekplexia;Congenital mirror movements
+KMN852	Subcortical ectopic gray matter	Q04.8	H00270;H00271;H01034;H01251;H01870;H01881;H02494	Periventricular nodular heterotopia;Polymicrogyria;L1 syndrome;Focal cortical dysplasia of Taylor;Microhydranencephaly;Complex cortical dysplasia with other brain malformations;Alkuraya-Kucinskas syndrome
+KMN899	Sudden Infant Death Syndrome	E95	NO_DATA	NO_DATA
+KMN435	Sulfocysteinuria	E72.1	H01237;H01285	Sulfite oxidase deficiency;Methylcobalamin deficiency type G
+KMN279	Surrogate Light Chain Deficiency	NO_DATA	NO_DATA	NO_DATA
+KMN333	Syndrome of Inappropriate Antidiuretic Hormone Secretion	E22.2	H01294;H01682	Nephrogenic syndrome of inappropriate antidiuresis;Syndrome of inappropriate secretion of antidiuretic hormone
+KMN40	Synovial Sarcoma	C49.9	H00050	Synovial sarcoma
+KMN807	Systemic Lupus Erythematosus	M32	H00080	Systemic lupus erythematosus
+KMN891	Systemic Mastocytosis	D47.02	NO_DATA	NO_DATA
+KMN808	Systemic Sclerosis	M34	H01492	Systemic sclerosis
+KMN90	T-cell Acute Lymphoid Leukemia	C91.0	H00001;H00002	B-cell acute lymphoblastic leukemia;T-cell acute lymphoblastic leukemia
+KMN233	TNF-alpha Receptor-associated Periodic Syndrome	E85.0	H00282;H00288;H02484	Cryopyrin associated periodic syndrome;Familial Mediterranean fever;X-linked reticulate pigmentary disorder with systemic manifestations
+KMN141	TSH-Secreting Adenomas	D35.2	NO_DATA	NO_DATA
+KMN254	T Cell Receptor Deficiency	D83.1	NO_DATA	NO_DATA
+KMN436	Tangier Disease	E78.6	H00159	Tangier disease
+KMN442	Tay-Sachs Disease	E75.02	H02016	Tay-Sachs disease
+KMN159	Teratoma	D13.4;D27;D29.2	NO_DATA	NO_DATA
+KMN357	Thiamine Deficiency	E51	NO_DATA	NO_DATA
+KMN835	Thin Basement Membrane Nephropathy	N05.8	NO_DATA	NO_DATA
+KMN658	Thomsen's Disease	G71.1	H00493;H00568;H00744;H01777;H01780;H01804	Heparan sulfate proteoglycan gene defects;Myotonic dystrophy;Potassium-aggravated myotonia;Schwartz-Jampel syndrome;Non-dystrophic myotonia;Isaacs syndrome
+KMN803	Thrombotic Thrombocytopenic Purpura	M31.1	H00225	Thrombotic thrombocytopenic purpura
+KMN438	Thymidine Phosphorylase Deficiency	G71.3	H00898;H01200;H01348;H01356;H01368;H01369;H01384;H01390;H02201;H02237;H02447	Myopathy with lactic acidosis and sideroblastic anaemia;Fatal infantile cardioencephalomyopathy;Mitochondrial phosphate carrier deficiency;Myoclonic Epilepsy and Ragged-Red Fiber Disease;Cytochrome c oxidase (COX) deficiency;ATP synthase deficiency;Mitochondrial recessive ataxia syndrome;Mitochondrial neurogastrointestinal encephalomyopathy;Mitochondrial myopathy with lactic acidosis;AMP deaminase deficiency;Myopathy with extrapyramidal signs
+KMN289	Thyroid Disease	E05	H01645	Hyperthyroidism
+KMN75	Thyroid Neoplasia	C73	H00032;H01592	Thyroid cancer;Medullary thyroid cancer
+KMN695	Tibial Muscular Dystrophy	G71.0	H01976	Tibial muscular dystrophy
+KMN273	Transient Hypogammaglobulinemia of Infancy	D80.7	NO_DATA	NO_DATA
+KMN367	Trichothiodystrophy	L67.8	H00866	Trichothiodystrophy
+KMN445	Tryptophan Malabsorption	E72.0	H00692;H00843;H00899;H00901;H01198;H01386;H02419	Lowe syndrome;Hartnup disorder;Lysinuric protein intolerance;Cystinuria;Fanconi renotubular syndrome;Asparagine synthetase deficiency;Glycine encephalopathy with normal serum glycine
+KMN446	Tryptophanuria	E70.8	H00548;H01233;H01262;H02087	Brunner syndrome;Urocanase deficiency;Formiminotransferase deficiency;Vertebral, cardiac, renal, and limb defects syndrome
+KMN2	Tuberculosis	A15;A16;A17;A18;A19	NO_DATA	NO_DATA
+KMN884	Tuberous Sclerosis	Q85.1	H00915	Tuberous sclerosis complex
+KMN62	Turcot Syndrome	D12.6	H01023	Juvenile polyposis syndrome
+KMN292	Type 1 Diabetes Mellitus	E10	H00408	Type 1 diabetes mellitus
+KMN838	Type 1 Renal Tubular Acidosis	N25.8	H00241;H00243;H00428;H00429;H00694;H02147;H02148;H02149;H02310	Combined proximal and distal renal tubular acidosis;Hyperkalemic distal renal tubular acidosis (RTA type 4);Distal renal tubular acidosis (RTA type 1);Proximal renal tubular acidosis (RTA type 2);Dent disease;X-linked recessive nephrolithiasis with renal failure;Low molecular weight proteinuria with hypercalciuria and nephrocalcinosis;X-linked hypercalciuric nephrolithiasis;Renal tubular acidosis
+KMN293	Type 2 Diabetes Mellitus	E11	H00409	Type 2 diabetes mellitus
+KMN839	Type 2 Renal Tubular Acidosis	N25.8	H00241;H00243;H00428;H00429;H00694;H02147;H02148;H02149;H02310	Combined proximal and distal renal tubular acidosis;Hyperkalemic distal renal tubular acidosis (RTA type 4);Distal renal tubular acidosis (RTA type 1);Proximal renal tubular acidosis (RTA type 2);Dent disease;X-linked recessive nephrolithiasis with renal failure;Low molecular weight proteinuria with hypercalciuria and nephrocalcinosis;X-linked hypercalciuric nephrolithiasis;Renal tubular acidosis
+KMN840	Type 3 Renal Tubular Acidosis	Q78.2	H00450;H00540;H00968	Worth type autosomal dominant osteosclerosis;Osteoporosis, lymphedema, anhydrotic ectodermal dysplasia with immunodeficiency (OLEDAID);Raine syndrome
+KMN841	Type 4 Renal Tubular Acidosis	NO_DATA	NO_DATA	NO_DATA
+KMN758	Type A Gastritis	K29.4	NO_DATA	NO_DATA
+KMN295	Type A insulin resistance	E13	H00410;H00766	Maturity onset diabetes of the young (MODY);Wolcott-Rallison syndrome
+KMN441	Tyrosinemia Type I	E70.2	H00165	Tyrosinemia
+KMN440	Tyrosinemia Type II	E70.2	H00165	Tyrosinemia
+KMN439	Tyrosinemia Type III	E70.2	H00165	Tyrosinemia
+KMN763	Ulcerative Colitis	K51	H01466	Ulcerative colitis
+KMN618	Unverricht-Lundborg disease	G40.3	H01995	Unverricht-Lundborg disease
+KMN404	Ureidopropionase Deficiency	E79.8	H00196;H00964;H00966	Phosphoribosylpyrophosphate synthetase superactivity;Thiopurine S-methyltransferase deficiency (TPMT deficiency);AICA-ribosiduria
+KMN792	Uric Acid Nephropathy	NO_DATA	NO_DATA	NO_DATA
+KMN403	Uridine Diphosphate Galactose 4-Epimerase Deficiency	E74.2	H00070;H02008;H02010	Galactosemia;Galactose-1P uridylyltransferase deficiency;Galactose epimerase deficiency
+KMN836	Urinary Tract Obstruction	N13.9	NO_DATA	NO_DATA
+KMN405	Urocanic Aciduria	E70.8	H00548;H01233;H01262;H02087	Brunner syndrome;Urocanase deficiency;Formiminotransferase deficiency;Vertebral, cardiac, renal, and limb defects syndrome
+KMN784	Urticaria	L50	NO_DATA	NO_DATA
+KMN700	Uveitis	H22.0	NO_DATA	NO_DATA
+KMN560	Variegate Porphyria	E80.2	H00202	Hepatic porphyria
+KMN744	Venous Thrombosis	I82	NO_DATA	NO_DATA
+KMN134	Vipoma	C25.4	NO_DATA	NO_DATA
+KMN9	Viral Hepatitis	B15;B16;B17;B18;B19	NO_DATA	NO_DATA
+KMN732	Viral Myocarditis	B33.22	H00295	Viral myocarditis
+KMN356	Vitamin B12 Deficiency	E53.8	H00180;H01182	Holocarboxylase synthetase deficiency;Biotinidase deficiency
+KMN898	Vitamin B1 responsive congenital lactic acidemia	NO_DATA	NO_DATA	NO_DATA
+KMN358	Vitamin B6 Deficiency	E53.1	NO_DATA	NO_DATA
+KMN360	Vitamin D-Dependent Rickets Type I	E55.0	H01143	Vitamin D-dependent rickets
+KMN359	Vitamin D-Dependent Rickets Type II	E83.3	H00214;H01113;H02138;H02139;H02143	Hypophosphatemic rickets;Acid phosphatase deficiency;Hereditary hypophophatemic rickets with hypercalciuria;Autosomal recessive hypophosphatemic rickets;X-linked dominant hypophosphatemic rickets
+KMN361	Vitamin D Deficiency	E55	NO_DATA	NO_DATA
+KMN362	Vitamin E deficiency	E56.0	H00981	Ataxia with isolated vitamin E deficiency (AVED)
+KMN363	Vitamin K Deficiency	E56.1	NO_DATA	NO_DATA
+KMN103	Waldenstrom's Macroglobulinemia	C88.0	NO_DATA	NO_DATA
+KMN797	Wegener's Granulomatosis	M31.3	H01655	Granulomatosis with polyangiitis
+KMN651	Welander Distal Myopathy	G71.0	H01975	Welander distal myopathy
+KMN355	Wernicke's Encephalopathy	E51.2	H01565	Wernicke encephalopathy
+KMN58	Wilms' tumor	C64	NO_DATA	NO_DATA
+KMN400	Wilson Disease	E83.0	H00210	Wilson disease
+KMN262	Wiskott-Aldrich Syndrome	D82.0	H01523	Wiskott-Aldrich syndrome
+KMN401	Wolman Disease	E75.5	H00148;H00736;H00883;H01297;H01661;H02284	Lysosomal acid lipase deficiency;Dorfman-Chanarin syndrome;Lipoid proteinosis;Neutral lipid storage disease with myopathy;Xanthoma;Leukotriene C4 synthase deficiency
+KMN256	X-Linked Agammaglobulinemia	D80.0	NO_DATA	NO_DATA
+KMN386	X-Linked Hypophosphatemic Rickets	E83.3	H00214;H01113;H02138;H02139;H02143	Hypophosphatemic rickets;Acid phosphatase deficiency;Hereditary hypophophatemic rickets with hypercalciuria;Autosomal recessive hypophosphatemic rickets;X-linked dominant hypophosphatemic rickets
+KMN276	X-Linked Immunodeficiency with Hyper IgM	D80.5	NO_DATA	NO_DATA
+KMN255	X-Linked Lymphoproliferative Syndrome	D82.3	H01969	X-linked lymphoproliferative syndrome
+KMN197	X-Linked Sideroblastic Anemia	D64.0	H00982	Sideroblastic anemia
+KMN586	X-Linked Spinobulbar Muscular Atrophy	G12.1	H00062;H00524;H00656;H00841;H00856;H01903	Spinal and bulbar muscular atrophy (SBMA);Scapuloperoneal spinal muscular atrophy;Scapuloperoneal myopathy;Infantile progressive bulbar palsy;Distal hereditary motor neuropathies;Brown-Vialetto-Van Laere syndrome
+KMN354	X-linked Recessive Hypophosphatemic Rickets	N25.8	H02142	X-linked recessive hypophosphatemic rickets
+KMN282	X-linked TBG Deficiency	E07.8	H00249	Thyroid hormone resistance syndrome
+KMN849	X-linked lissencephaly	Q04.3	H00120;H00268;H00530;H00792;H00897;H01001;H01722;H01811;H01921;H01937;H02431;H02501	Muscular dystrophy-dystroglycanopathy type A;Lissencephaly;Joubert syndrome;Warburg micro syndrome;Pontocerebellar hypoplasia;COACH syndrome;Galloway-Mowat syndrome;Arima syndrome;MICPCH syndrome;Multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia, and hydranencephaly;Cerebellar hypoplasia, epilepsy, and global developmental delay;Occipital cortical malformation
+KMN887	Xeroderma pigmentosum	Q82.1	H01428	Xeroderma pigmentosum
+KMN257	ZAP70 Tyrosine Kinase Deficiency	D81.1	H02015	LIG4 syndrome
+KMN307	Zollinger-Ellison Syndrome	E16.4	H01522	Zollinger-Ellison syndrome
+KMN394	alpha-Ketoadipic Acidemia	NO_DATA	NO_DATA	NO_DATA
+KMN395	alpha-Mannosidosis	E77.1	H00139	alpha-Mannosidosis
+KMN184	alpha-Thalassemia Syndrome	D56.0	H00228	Thalassemia
+KMN396	alpha1 Antitrypsin Deficiency	E88.0	NO_DATA	NO_DATA
+KMN93	alpha Heavy Chain Disease	C88.3	NO_DATA	NO_DATA
+KMN470	beta-Enolase Deficiency	E74.0	H00069;H00150;H01760;H01762;H01939;H01940;H01941;H01942;H01943;H01944;H01945;H01946;H01948;H01949;H01950;H01951;H01952;H01953;H01954;H01955;H01956	Glycogen storage disease;Danon disease;Hepatic glycogen storage disease;Muscle glycogen storage disease;Glycogen storage disease type I;Glycogen storage disease type II;Glycogen storage disease type III;Glycogen storage disease type IV;Glycogen storage disease type V;Glycogen storage disease type VI;Glycogen storage disease type VII;Glycogen storage disease type XI;Glycogen storage disease type IX;Glycogen storage disease type 0b;Glycogen storage disease type 0a;Glycogen storage disease type X;Glycogen storage disease type XII;Glycogen storage disease type XIII;Glycogen storage disease type XIV;Glycogen storage disease type XV;Glycogen storage disease of heart
+KMN469	beta-Mannosidosis	E77.1	H00140	beta-Mannosidosis
+KMN186	beta-Thalassemia Syndrome	D56.1	H00228	Thalassemia
+KMN94	gamma Heavy Chain Disease	C88.2	NO_DATA	NO_DATA
+KMN101	mu Heavy Chain Disease	C88.2	NO_DATA	NO_DATA
+KMN879	von Hippel-Lindau Syndrome	Q85.8	H00559	von Hippel-Lindau syndrome
+KMN209	von Willebrand's Disease	D68.0	H02092	von Willebrand disease

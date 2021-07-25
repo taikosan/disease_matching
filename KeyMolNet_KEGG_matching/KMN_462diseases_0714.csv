@@ -1,0 +1,463 @@
+index,Disease_english,ICD_class,ICD10
+KMN573,Abetalipoproteinemia,E70-E90,NO_DATA
+KMN874,Achondrodysplasia,Q65-Q79,NO_DATA
+KMN561,Acrodermatitis Enteropathica,E70-E90,NO_DATA
+KMN340,Acromegaly,E20-E35,NO_DATA
+KMN640,Acute Inflammatory Demyelinating Polyneuropathy,G50-G59,NO_DATA
+KMN639,Acute Motor Axonal Neuropathy,G50-G59,NO_DATA
+KMN105,Acute Myeloid Leukemia,C81-C96,NO_DATA
+KMN773,Acute Pancreatitis,K80-K87,K85
+KMN638,Acute Pharyngeal Cervicobrachial Neuropathy,G50-G59,NO_DATA
+KMN754,Acute Respiratory Distress Syndrome,J80-J84,J80
+KMN7,Acute Viral Meningitis,A80-A89,NO_DATA
+KMN722,Acute coronary syndrome,I20-I25,NO_DATA
+KMN312,Addison's Disease,E20-E35,NO_DATA
+KMN389,Adenine Phosphoribosyltransferase Deficiency,E70-E90,NO_DATA
+KMN258,Adenosine Deaminase Deficiency,D80-D89,NO_DATA
+KMN388,Adenylosuccinate Lyase Deficiency,E70-E90,NO_DATA
+KMN77,Adrenal Carcinoma,C73-C75,NO_DATA
+KMN779,Afferent Loop Syndrome,K90-K93,NO_DATA
+KMN232,Afibrinogenemia,D65-D69,NO_DATA
+KMN702,Age-Related Macular Degeneration,H30-H36,NO_DATA
+KMN854,Alagille Syndrome,Q38-Q45,NO_DATA
+KMN765,Alcoholic Cirrhosis,K70-K77,NO_DATA
+KMN391,Alkaptonuria,E70-E90,NO_DATA
+KMN11,Allergic Bronchopulmonary Aspergillosis,B35-B49,B44.81
+KMN747,Allergic Rhinitis,J30-J39,NO_DATA
+KMN699,Allergic conjunctivitis,H10-H13,NO_DATA
+KMN781,Allergic contact dermatitis,L20-L30,L23
+KMN876,Alport's Syndrome,Q80-Q89,NO_DATA
+KMN45,Alveolar Soft Part Sarcoma,C45-C49,NO_DATA
+KMN603,Alzheimer's Disease,G30-G32,G30
+KMN900,Anaphylaxis,T66-T78,NO_DATA
+KMN68,Anaplastic astrocytoma,C69-C72,NO_DATA
+KMN314,Androgen Insensitivity Syndrome,E20-E35,E34.5
+KMN725,Angina pectoris,I20-I25,I20
+KMN812,Ankylosing Spondylitis,M45-M49,M45
+KMN606,Anti-Hu Paraneoplastic Neuropathy,G30-G32,NO_DATA
+KMN274,Antigen Peptide Transporter Deficiency,D80-D89,NO_DATA
+KMN713,Apparent Mineralocorticoid Excess Syndrome,I10-I15,NO_DATA
+KMN313,Aromatase Deficiency,E20-E35,NO_DATA
+KMN387,Aspartylglucosaminuria,E70-E90,NO_DATA
+KMN751,Asthma,J40-J47,J45
+KMN67,Astrocytoma,C69-C72,NO_DATA
+KMN593,Ataxia Telangiectasia,G10-G13,NO_DATA
+KMN740,Atherosclerosis,I70-I79,I70
+KMN780,Atopic Dermatitis,L20-L30,L20
+KMN579,Autism,F80-F89,NO_DATA
+KMN697,Autoimmune Autonomic Neuropathy,G90-G99,NO_DATA
+KMN698,Autonomic Neuropathy,G90-G99,NO_DATA
+KMN550,Autosomal Dominant Hypophosphatemic Rickets,E70-E90,NO_DATA
+KMN862,Autosomal Dominant Polycystic Kidney Disease,Q60-Q64,NO_DATA
+KMN709,Autosomal Dominant Progressive Deafness,H90-H95,NO_DATA
+KMN707,Autosomal Dominant Progressive External Ophthalmoplegia,H49-H52,NO_DATA
+KMN278,Autosomal Recessive Agammaglobulinemia,D80-D89,NO_DATA
+KMN587,Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay,G10-G13,NO_DATA
+KMN607,Axonal Sensorimotor Neuropathy,G30-G32,NO_DATA
+KMN246,BLNK Deficiency,D80-D89,NO_DATA
+KMN878,Bardet-Biedl Syndrome,Q80-Q89,NO_DATA
+KMN323,Bartter Syndrome,E20-E35,NO_DATA
+KMN34,Basal Cell Carcinoma,C43-C44,NO_DATA
+KMN661,Becker Muscular Dystrophy,G70-G73,NO_DATA
+KMN772,Benign Recurrent Intrahepatic Cholestasis,K70-K77,NO_DATA
+KMN365,Beriberi,E50-E64,E51.1
+KMN215,Bernard-Soulier Syndrome,D65-D69,NO_DATA
+KMN576,Bipolar Disorder,F30-F39,F31
+KMN61,Bladder Cancer,C64-C68,NO_DATA
+KMN880,Bloom Syndrome,Q80-Q89,NO_DATA
+KMN47,Breast Cancer,C50-C50,NO_DATA
+KMN735,Brugada Syndrome,I30-I52,NO_DATA
+KMN897,Bulimia Nervosa,R50-R69,F50.2
+KMN97,Burkitt's Lymphoma,C81-C96,NO_DATA
+KMN614,CADASIL,G35-G37,NO_DATA
+KMN247,CD40 Deficiency,D80-D89,NO_DATA
+KMN248,CD8 Deficiency,D80-D89,NO_DATA
+KMN813,Calcific Tendinitis,M65-M68,M65.2
+KMN866,Campomelic Dysplasia,Q65-Q79,NO_DATA
+KMN78,Carcinoid Tumor,C76-C80,NO_DATA
+KMN136,Carney Complex,D10-D36,NO_DATA
+KMN641,Carpal Tunnel Syndrome,G50-G59,G56.0
+KMN872,Cartilage-Hair Hypoplasia,Q65-Q79,NO_DATA
+KMN155,Castleman's Disease,D37-D48,NO_DATA
+KMN701,Cataract,H25-H28,NO_DATA
+KMN775,Celiac Sprue,K90-K93,NO_DATA
+KMN656,Central Core Disease,G70-G73,NO_DATA
+KMN692,Centronuclear Myopathy,G70-G73,G71.22
+KMN567,Cerebrotendinous xanthomatosis,E70-E90,NO_DATA
+KMN628,Charcot-Marie-Tooth Disease Type 1,G50-G59,NO_DATA
+KMN629,Charcot-Marie-Tooth Disease Type 2,G50-G59,NO_DATA
+KMN437,Chediak-Higashi Syndrome,E70-E90,E70.330
+KMN620,Childhood absence epilepsy,G40-G47,NO_DATA
+KMN21,Cholangiocarcinoma,C15-C26,NO_DATA
+KMN873,Chondrodysplasia,Q65-Q79,NO_DATA
+KMN33,Chondrosarcoma,C40-C41,NO_DATA
+KMN54,Choriocarcinoma,C51-C58,NO_DATA
+KMN245,Chronic Granulomatous Disease,D70-D77,NO_DATA
+KMN645,Chronic Inflammatory Demyelinating Polyneuropathy,G50-G59,NO_DATA
+KMN647,Chronic Sensory Ataxic Neuropathy,G50-G59,NO_DATA
+KMN646,Chronic Sensory Motor Neuropathy,G50-G59,NO_DATA
+KMN885,Cleidocranial dysplasia,Q80-Q89,NO_DATA
+KMN20,Colorectal Cancer,C15-C26,NO_DATA
+KMN342,Congenital Adrenal Hyperplasia,E20-E35,NO_DATA
+KMN643,Congenital Hypomyelination,G50-G59,NO_DATA
+KMN691,Congenital Myasthenic Syndrome,G70-G73,NO_DATA
+KMN224,Congenital amegakaryocytic thrombocytopenia,D65-D69,NO_DATA
+KMN721,Coronary vasospasm,I20-I25,NO_DATA
+KMN153,Cowden's syndrome,D37-D48,NO_DATA
+KMN5,Creutzfeldt-Jakob Disease,A80-A89,A81.0
+KMN415,Crigler-Najjar Syndrome,E70-E90,E80.5
+KMN762,Crohn's Disease,K50-K52,NO_DATA
+KMN95,Crow-Fukase Syndrome,C81-C96,NO_DATA
+KMN859,Cryptorchidism,Q50-Q56,NO_DATA
+KMN318,Cushing's Syndrome,E20-E35,E24
+KMN426,Cystathioninuria,E70-E90,NO_DATA
+KMN566,Cystic Fibrosis,E70-E90,E84
+KMN427,Cystinosis,E70-E90,E72.04
+KMN249,DNA Ligase IV Deficiency,D80-D89,NO_DATA
+KMN743,Deep Venous Thrombosis,I80-I89,NO_DATA
+KMN180,Deficiency of Transcobalamin II,D50-D53,NO_DATA
+KMN630,Dejerine-Sottas Disease,G50-G59,NO_DATA
+KMN604,Dementia with Lewy Bodies,G30-G32,G31.83
+KMN860,Denys-Drash Syndrome,Q60-Q64,NO_DATA
+KMN266,DiGeorge Syndrome,D80-D89,NO_DATA
+KMN303,Diabetic Ketoacidosis,E10-E14,NO_DATA
+KMN829,Diabetic Nephropathy,N00-N08,NO_DATA
+KMN304,Diabetic neuropathy,E10-E14,NO_DATA
+KMN431,Dicarboxylic Aminoaciduria,E70-E90,NO_DATA
+KMN432,Dihydropyrimidinase Deficiency,E70-E90,NO_DATA
+KMN433,Dihydropyrimidine Dehydrogenase Deficiency,E70-E90,NO_DATA
+KMN736,Dilated Cardiomyopathy,I30-I52,I42.0
+KMN231,Disseminated Intravascular Coagulation,D65-D69,D65
+KMN895,Down's Syndrome,Q90-Q99,NO_DATA
+KMN443,Dubin-Johnson Syndrome,E70-E90,NO_DATA
+KMN657,Duchenne Muscular Dystrophy,G70-G73,NO_DATA
+KMN133,Ductal Carcinoma in Situ,D00-D09,NO_DATA
+KMN776,Dumping Syndrome,K90-K93,NO_DATA
+KMN890,Dyskeratosis Congenita,Q80-Q89,NO_DATA
+KMN863,Ehlers-Danlos Syndrome,Q65-Q79,NO_DATA
+KMN79,Embryonal Carcinoma,C76-C80,NO_DATA
+KMN652,Emery-Dreifuss Muscular Dystrophy,G70-G73,NO_DATA
+KMN83,Endodermal Sinus Tumor,C76-C80,NO_DATA
+KMN50,Endometrial Cancer,C51-C58,NO_DATA
+KMN845,Endometriosis,N80-N98,N80
+KMN805,Eosinophilic Granulomatosis with Polyangiitis,M30-M36,NO_DATA
+KMN64,Ependymoma,C69-C72,NO_DATA
+KMN893,Epidermolysis Bullosa,Q80-Q89,Q81
+KMN613,Episodic Ataxia,G30-G32,NO_DATA
+KMN204,Epstein syndrome,D65-D69,NO_DATA
+KMN19,Esophageal Cancer,C15-C26,NO_DATA
+KMN244,Essential Thrombocytosis,D70-D77,NO_DATA
+KMN31,Ewing's Sarcoma,C40-C41,NO_DATA
+KMN457,Fabry Disease,E70-E90,NO_DATA
+KMN669,Facioscapulohumeral Muscular Dystrophy,G70-G73,G71.02
+KMN225,Factor VII Deficiency,D65-D69,NO_DATA
+KMN226,Factor V Deficiency,D65-D69,NO_DATA
+KMN227,Factor XIII Deficiency,D65-D69,NO_DATA
+KMN228,Factor XI Deficiency,D65-D69,NO_DATA
+KMN229,Factor X Deficiency,D65-D69,NO_DATA
+KMN139,Familial Adenomatous Polyposis,D10-D36,NO_DATA
+KMN635,Familial Amyloid Polyneuropathy,G50-G59,NO_DATA
+KMN517,Familial Combined Hyperlipidemia,E70-E90,NO_DATA
+KMN513,Familial Hypercholesterolemia,E70-E90,E78.01
+KMN516,Familial Hypobetalipoproteinemia,E70-E90,NO_DATA
+KMN515,Familial Hypocalciuric Hypercalcemia,E70-E90,NO_DATA
+KMN329,Familial Male-Limited Precocious Puberty,E20-E35,NO_DATA
+KMN458,Fanconi-Bickel Syndrome,E70-E90,NO_DATA
+KMN198,Fanconi's Anemia,D60-D64,NO_DATA
+KMN8,Fatal Familial Insomnia,A80-A89,A81.83
+KMN208,Fechtner syndrome,D65-D69,NO_DATA
+KMN814,Fibromyalgia,M70-M79,M79.7
+KMN132,Follicular Lymphoma,C81-C96,C82
+KMN589,Friedreich's Ataxia,G10-G13,NO_DATA
+KMN611,Frontotemporal Lobar Degeneration,G30-G32,NO_DATA
+KMN463,Fucosidosis,E70-E90,NO_DATA
+KMN694,Fukuyama Congenital Muscular Dystrophy,G70-G73,NO_DATA
+KMN306,GRFomas,E15-E16,NO_DATA
+KMN413,Galactokinase Deficiency,E70-E90,NO_DATA
+KMN15,Gastric Cancer,C15-C26,NO_DATA
+KMN380,Gaucher Disease,E70-E90,E75.22
+KMN85,Germ Cell Tumor,C76-C80,NO_DATA
+KMN84,Germinoma,C76-C80,NO_DATA
+KMN6,Gerstmann-Straussler-Scheinker Disease,A80-A89,NO_DATA
+KMN801,Giant Cell Arteritis,M30-M36,NO_DATA
+KMN434,Gilbert's Syndrome,E70-E90,NO_DATA
+KMN317,Gitelman Syndrome,E20-E35,NO_DATA
+KMN74,Glioblastoma,C69-C72,NO_DATA
+KMN65,Glioma,C69-C72,NO_DATA
+KMN418,Glutathione synthetase deficiency,E70-E90,NO_DATA
+KMN877,Gorlin Syndrome,Q80-Q89,NO_DATA
+KMN264,Griscelli Syndrome,D80-D89,NO_DATA
+KMN339,Growth Hormone Deficiency,E20-E35,NO_DATA
+KMN627,Guillain-Barre Syndrome,G50-G59,G61.0
+KMN131,Hairy Cell Leukemia,C81-C96,C91.4
+KMN82,Head and Neck Cancer,C76-C80,NO_DATA
+KMN14,Helicobacter Pylori Infection,B95-B98,NO_DATA
+KMN796,Hemarthrosis,M20-M25,M25.0
+KMN468,Hemochromatosis,E70-E90,E83.11
+KMN767,Hepatic Coma,K70-K77,NO_DATA
+KMN768,Hepatic Encephalopathy,K70-K77,NO_DATA
+KMN519,Hepatic Lipase Deficiency,E70-E90,NO_DATA
+KMN815,Hepatic osteodystrophy,M80-M85,NO_DATA
+KMN766,Hepatitis,K70-K77,NO_DATA
+KMN17,Hepatoblastoma,C15-C26,C22.2
+KMN18,Hepatocellular Carcinoma,C15-C26,NO_DATA
+KMN189,Hereditary Elliptocytosis,D55-D59,D58.1
+KMN777,Hereditary Fructose Intolerance,K90-K93,E74.12
+KMN708,Hereditary Hearing Impairment,H90-H95,NO_DATA
+KMN741,Hereditary Hemorrhagic Telangiectasia,I70-I79,I78.0
+KMN633,Hereditary Neuropathy with Pressure Palsies,G50-G59,NO_DATA
+KMN190,Hereditary Pyropoikilocytosis,D55-D59,NO_DATA
+KMN634,Hereditary Sensory and Autonomic Neuropathy,G50-G59,NO_DATA
+KMN187,Hereditary Spherocytosis,D55-D59,D58.0
+KMN188,Hereditary Stomatocytosis,D55-D59,NO_DATA
+KMN605,Hereditary cortical cerebellar atrophy,G30-G32,NO_DATA
+KMN449,Hermansky-Pudlak Syndrome,E70-E90,E70.331
+KMN450,Histidinemia,E70-E90,E70.41
+KMN99,Hodgkin's Lymphoma,C81-C96,NO_DATA
+KMN882,Holt-Oram Syndrome,Q80-Q89,NO_DATA
+KMN476,Homocystinuria,E70-E90,E72.11
+KMN10,Human Immunodeficiency Virus Infection,B20-B24,NO_DATA
+KMN588,Huntington's Disease,G10-G13,G10
+KMN846,Hydatidiform Mole,O00-O08,O01
+KMN452,Hydroxykynureninuria,E70-E90,NO_DATA
+KMN275,Hyper-IgE Syndrome,D80-D89,NO_DATA
+KMN546,Hyperlysinemia,E70-E90,NO_DATA
+KMN545,Hypermethioninemia,E70-E90,NO_DATA
+KMN869,Hyperostosis Corticalis Generalisata,Q65-Q79,NO_DATA
+KMN739,Hypertrophic Cardiomyopathy,I30-I52,NO_DATA
+KMN562,Hypophosphatasia,E70-E90,NO_DATA
+KMN886,Hypothalamic Hamartoma,Q80-Q89,NO_DATA
+KMN250,ICF Syndrome,D80-D89,NO_DATA
+KMN755,Idiopathic Pulmonary Fibrosis,J80-J84,J84.112
+KMN251,IgA Deficiency,D80-D89,NO_DATA
+KMN822,IgA Nephropathy,N00-N08,NO_DATA
+KMN252,IgG Subclass Deficiency,D80-D89,NO_DATA
+KMN399,Iminoglycinuria,E70-E90,NO_DATA
+KMN281,Immunoglobulin-Associated beta Deficiency,D80-D89,NO_DATA
+KMN280,Immunoglobulin Heavy Chain Deficiency,D80-D89,NO_DATA
+KMN811,Inclusion Body Myositis,M30-M36,NO_DATA
+KMN1,Inflammatory Bowel Disease,A00-A09,NO_DATA
+KMN745,Influenza Infection,J10-J18,NO_DATA
+KMN259,Interferon gamma Receptor Deficiency,D80-D89,NO_DATA
+KMN260,Interleukin 12 Deficiency,D80-D89,NO_DATA
+KMN261,Interleukin 12 Receptor Deficiency,D80-D89,NO_DATA
+KMN753,Interstitial Lung Disease,J80-J84,NO_DATA
+KMN183,Iron Deficiency Anemia,D50-D53,D50
+KMN723,Ischemic Heart Disease,I20-I25,NO_DATA
+KMN724,Ischemic arrhythmia,I20-I25,NO_DATA
+KMN352,Isolated Follicle-stimulating Hormone Deficiency,E20-E35,NO_DATA
+KMN398,Isovaleric Acidemia,E70-E90,E71.110
+KMN38,Kaposi's Sarcoma,C45-C49,C46
+KMN653,Kearns-Sayre Syndrome,G70-G73,H49.81
+KMN894,Klinefelter Syndrome,Q90-Q99,NO_DATA
+KMN414,Krabbe's Disease,E70-E90,NO_DATA
+KMN4,Kuru,A80-A89,A81.81
+KMN650,Lambert-Eaton Myasthenic Syndrome,G70-G73,NO_DATA
+KMN326,Laron Syndrome,E20-E35,NO_DATA
+KMN305,Leprechaunism,E10-E14,NO_DATA
+KMN370,Leptin gene mutation,E65-E68,NO_DATA
+KMN371,Leptin receptor gene mutation,E65-E68,NO_DATA
+KMN156,Li-Fraumeni Syndrome,D37-D48,NO_DATA
+KMN826,Liddle Syndrome,N00-N08,NO_DATA
+KMN675,Limb-Girdle Muscular Dystrophy 1C,G70-G73,NO_DATA
+KMN679,Limb-Girdle Muscular Dystrophy 2B,G70-G73,NO_DATA
+KMN549,Lipodystrophy,E70-E90,NO_DATA
+KMN731,Long QT Syndrome,I30-I52,I45.81
+KMN27,Lung Adenocarcinoma,C30-C39,NO_DATA
+KMN26,Lung Cancer,C30-C39,NO_DATA
+KMN29,Lung Cancer in Never Smokers,C30-C39,NO_DATA
+KMN827,Lupus Nephritis,N00-N08,NO_DATA
+KMN102,Lymphoplasmacytic Lymphoma,C81-C96,NO_DATA
+KMN664,MELAS Syndrome,G70-G73,E88.41
+KMN253,MHC Class II Deficiency,D80-D89,NO_DATA
+KMN294,MIDD,E10-E14,NO_DATA
+KMN297,MODY 1,E10-E14,NO_DATA
+KMN298,MODY 2,E10-E14,NO_DATA
+KMN299,MODY 3,E10-E14,NO_DATA
+KMN300,MODY 4,E10-E14,NO_DATA
+KMN301,MODY 5,E10-E14,NO_DATA
+KMN302,MODY 6,E10-E14,NO_DATA
+KMN778,Malabsorption Syndrome,K90-K93,NO_DATA
+KMN12,Malaria Infection,B50-B64,NO_DATA
+KMN272,Mannose Binding Lectin Deficiency,D80-D89,NO_DATA
+KMN494,Maple Syrup Urine Disease,E70-E90,NO_DATA
+KMN883,Marfan Syndrome,Q80-Q89,NO_DATA
+KMN235,May-Hegglin Anomaly,D70-D77,NO_DATA
+KMN865,McCune-Albright Syndrome,Q65-Q79,NO_DATA
+KMN66,Medulloblastoma,C69-C72,NO_DATA
+KMN182,Megaloblastic Anemia,D50-D53,NO_DATA
+KMN369,Melanocortin-4 receptor gene mutation,E65-E68,NO_DATA
+KMN35,Melanoma,C43-C44,NO_DATA
+KMN834,Membranoproliferative Glomerulonephritis,N00-N08,NO_DATA
+KMN818,Metabolic Bone Disease,M80-M85,NO_DATA
+KMN504,Metachromatic Leukodystrophy,E70-E90,E75.25
+KMN81,Metastatic Tumor of Bone,C76-C80,NO_DATA
+KMN80,Metastatic Tumor of the Liver,C76-C80,NO_DATA
+KMN850,Microcephaly,Q00-Q07,Q02
+KMN804,Microscopic polyangiitis,M30-M36,M31.7
+KMN631,Miller Fisher Syndrome,G50-G59,NO_DATA
+KMN671,Miyoshi Myopathy,G70-G73,NO_DATA
+KMN498,Molybdenum cofactor deficiency,E70-E90,NO_DATA
+KMN271,Mulibrey Nanism,D80-D89,NO_DATA
+KMN644,Multifocal Motor Neuropathy,G50-G59,G61.82
+KMN870,Multiple Exostosis,Q65-Q79,NO_DATA
+KMN122,Multiple Myeloma,C81-C96,C90.0
+KMN615,Multiple Sclerosis,G35-G37,G35
+KMN558,Multiple Sulfatase Deficiency,E70-E90,NO_DATA
+KMN612,Multiple System Atrophy,G30-G32,NO_DATA
+KMN672,Myasthenia Gravis,G70-G73,G70.0
+KMN114,Mycosis Fungoides,C81-C96,C84.0
+KMN162,Myelodysplastic Syndrome,D37-D48,NO_DATA
+KMN163,Myelofibrosis,D37-D48,D75.81
+KMN726,Myocardial Infarction,I20-I25,NO_DATA
+KMN690,Myotonia Congenita,G70-G73,G71.12
+KMN383,N-Acetylglutamate Synthase Deficiency,E70-E90,NO_DATA
+KMN892,Nail-Patella Syndrome,Q80-Q89,NO_DATA
+KMN660,Nemaline Myopathy,G70-G73,G71.21
+KMN59,Nephroblastoma,C64-C68,NO_DATA
+KMN837,Nephrolithiasis,N20-N23,NO_DATA
+KMN861,Nephronophthisis,Q60-Q64,NO_DATA
+KMN269,Netherton Syndrome,D80-D89,NO_DATA
+KMN76,Neuroblastoma,C73-C75,NO_DATA
+KMN888,Neurofibromatosis Type 1,Q80-Q89,NO_DATA
+KMN889,Neurofibromatosis Type 2,Q80-Q89,NO_DATA
+KMN267,Nijmegen Breakage Syndrome,D80-D89,NO_DATA
+KMN125,Non-Hodgkin's Lymphoma,C81-C96,NO_DATA
+KMN727,Non-ST-Elevation Myocardial Infarction,I20-I25,NO_DATA
+KMN30,Non-Small Cell Lung Cancer,C30-C39,NO_DATA
+KMN771,Nonalcoholic Fatty Liver Disease,K70-K77,NO_DATA
+KMN268,Nude Syndrome,D80-D89,NO_DATA
+KMN373,Obesity,E65-E68,NO_DATA
+KMN372,Obesity in endocrine disease,E65-E68,NO_DATA
+KMN668,Oculopharyngeal Muscular Dystrophy,G70-G73,NO_DATA
+KMN69,Oligo-astrocytoma,C69-C72,NO_DATA
+KMN63,Oligoastrocytoma,C69-C72,NO_DATA
+KMN70,Oligodendroglioma,C69-C72,NO_DATA
+KMN263,Omenn Syndrome,D80-D89,NO_DATA
+KMN817,Oncogenic Osteomalacia,M80-M85,NO_DATA
+KMN406,Ornithine Transcarbamylase Deficiency,E70-E90,NO_DATA
+KMN407,Orotic Aciduria,E70-E90,NO_DATA
+KMN795,Osteoarthritis,M15-M19,NO_DATA
+KMN867,Osteogenesis Imperfecta,Q65-Q79,Q78.0
+KMN871,Osteopetrosis,Q65-Q79,Q78.2
+KMN816,Osteoporosis,M80-M85,NO_DATA
+KMN32,Osteosarcoma,C40-C41,NO_DATA
+KMN53,Ovarian Cancer,C51-C58,NO_DATA
+KMN819,Paget Disease of Bone,M86-M90,NO_DATA
+KMN22,Pancreatic Cancer,C15-C26,NO_DATA
+KMN178,Pancreatic Neuroendocrine Tumor,D37-D48,NO_DATA
+KMN689,Paramyotonia Congenita,G70-G73,NO_DATA
+KMN608,Paraneoplastic Cerebellar Ataxia,G30-G32,NO_DATA
+KMN609,Paraneoplastic Cerebellar Degeneration,G30-G32,NO_DATA
+KMN642,Paraneoplastic Sensory Neuronopathy,G50-G59,NO_DATA
+KMN595,Parkinson's Disease,G20-G26,G20
+KMN194,Paroxysmal Nocturnal Hemoglobinuria,D55-D59,NO_DATA
+KMN844,Pathologic Gynecomastia,N60-N64,NO_DATA
+KMN364,Pellagra,E50-E64,NO_DATA
+KMN13,Periodic Fever Syndrome,B50-B64,NO_DATA
+KMN126,Peripheral T Cell Lymphoma,C81-C96,NO_DATA
+KMN181,Pernicious Anemia,D50-D53,NO_DATA
+KMN855,Persistent Mullerian Duct syndrome,Q50-Q56,NO_DATA
+KMN848,Persistent hyperinsulinemic hypoglycemia of infancy,P70-P74,NO_DATA
+KMN72,Pilocytic astrocytoma,C69-C72,NO_DATA
+KMN746,Pneumonia,J10-J18,NO_DATA
+KMN802,Polyarteritis Nodosa,M30-M36,M30.0
+KMN165,Polycythemia Vera,D37-D48,D45
+KMN896,Postural Orthostatic Tachycardia Syndrome,R00-R09,NO_DATA
+KMN881,Prader-Willi Syndrome,Q80-Q89,Q87.11
+KMN637,Predominant Sensory Demyelinating Neuropathy,G50-G59,NO_DATA
+KMN847,Preeclampsia,O10-O16,NO_DATA
+KMN332,Primary Aldosteronism,E20-E35,NO_DATA
+KMN769,Primary Biliary Cirrhosis,K70-K77,K74.3
+KMN728,Primary Pulmonary Hypertension,I26-I28,I27.0
+KMN71,Primitive Neuroectodermal Tumor,C69-C72,NO_DATA
+KMN868,Progressive Diaphyseal Dysplasia,Q65-Q79,Q78.3
+KMN770,Progressive Familial Intrahepatic Cholestasis,K70-K77,NO_DATA
+KMN599,Progressive Supranuclear Palsy,G20-G26,NO_DATA
+KMN368,Prohormone convertase 1 gene mutation,E65-E68,NO_DATA
+KMN467,Prolidase Deficiency,E70-E90,NO_DATA
+KMN466,Propionic Acidemia,E70-E90,E71.121
+KMN56,Prostate Cancer,C60-C63,NO_DATA
+KMN843,Prostatic hypertrophy,N40-N51,NO_DATA
+KMN331,Pseudohypoparathyroidism,E20-E35,E20.1
+KMN783,Psoriasis,L40-L45,L40
+KMN757,Pulmonary Alveolar Proteinosis,J80-J84,NO_DATA
+KMN756,Pulmonary Edema,J80-J84,J81
+KMN270,Purine Nucleoside Phosphorylase Deficiency,D80-D89,NO_DATA
+KMN875,Pyknodysostosis,Q65-Q79,NO_DATA
+KMN455,Pyruvate Kinase Deficiency,E70-E90,NO_DATA
+KMN296,Rabson-Mendenhall syndrome,E10-E14,NO_DATA
+KMN632,Refsum Disease,G50-G59,NO_DATA
+KMN821,Relapsing Polychondritis,M91-M94,M94.1
+KMN60,Renal Cell Carcinoma,C64-C68,NO_DATA
+KMN597,Restless Legs Syndrome,G20-G26,G25.81
+KMN738,Restrictive Cardiomyopathy,I30-I52,NO_DATA
+KMN73,Retinoblastoma,C69-C72,NO_DATA
+KMN578,Rett Syndrome,F80-F89,NO_DATA
+KMN39,Rhabdomyosarcoma,C45-C49,NO_DATA
+KMN710,Rheumatic fever,I00-I02,NO_DATA
+KMN788,Rheumatoid Arthritis,M05-M14,NO_DATA
+KMN503,Rotor's syndrome,E70-E90,NO_DATA
+KMN794,SAPHO Syndrome,M15-M19,NO_DATA
+KMN720,ST-Segment Elevation Myocardial Infarction,I20-I25,NO_DATA
+KMN424,Sandhoff's Disease,E70-E90,NO_DATA
+KMN265,Sarcoidosis,D80-D89,D86
+KMN864,Schimke Immuno-Osseous Dysplasia,Q65-Q79,NO_DATA
+KMN574,Schizophrenia,F20-F29,F20
+KMN206,Sebastian syndrome,D65-D69,NO_DATA
+KMN636,Sensory Neuronopathy,G50-G59,NO_DATA
+KMN851,Septo-Optic Dysplasia,Q00-Q07,NO_DATA
+KMN901,Severe Acute Respiratory Syndrome,U00-U49,NO_DATA
+KMN277,Severe Combined Immunodeficiency,D80-D89,NO_DATA
+KMN425,Sialidosis,E70-E90,NO_DATA
+KMN428,Sitosterolemia,E70-E90,NO_DATA
+KMN799,Sjogren's Syndrome,M30-M36,NO_DATA
+KMN25,Small Cell Lung Cancer,C30-C39,NO_DATA
+KMN592,Spinal Muscular Atrophy,G10-G13,NO_DATA
+KMN610,Spinocerebellar Ataxia,G30-G32,NO_DATA
+KMN28,Squamous Tumor of Lung Cancer,C30-C39,NO_DATA
+KMN852,Subcortical ectopic gray matter,Q00-Q07,NO_DATA
+KMN899,Sudden Infant Death Syndrome,R95-R99,NO_DATA
+KMN279,Surrogate Light Chain Deficiency,D80-D89,NO_DATA
+KMN40,Synovial Sarcoma,C45-C49,NO_DATA
+KMN807,Systemic Lupus Erythematosus,M30-M36,NO_DATA
+KMN891,Systemic Mastocytosis,Q80-Q89,D47.02
+KMN808,Systemic Sclerosis,M30-M36,NO_DATA
+KMN254,T Cell Receptor Deficiency,D80-D89,NO_DATA
+KMN436,Tangier Disease,E70-E90,NO_DATA
+KMN442,Tay-Sachs Disease,E70-E90,E75.02
+KMN803,Thrombotic Thrombocytopenic Purpura,M30-M36,NO_DATA
+KMN695,Tibial Muscular Dystrophy,G70-G73,NO_DATA
+KMN273,Transient Hypogammaglobulinemia of Infancy,D80-D89,D80.7
+KMN367,Trichothiodystrophy,E50-E64,NO_DATA
+KMN2,Tuberculosis,A15-A19,NO_DATA
+KMN884,Tuberous Sclerosis,Q80-Q89,Q85.1
+KMN62,Turcot Syndrome,C69-C72,NO_DATA
+KMN292,Type 1 Diabetes Mellitus,E10-E14,E10
+KMN293,Type 2 Diabetes Mellitus,E10-E14,E11
+KMN295,Type A insulin resistance,E10-E14,NO_DATA
+KMN763,Ulcerative Colitis,K50-K52,K51
+KMN618,Unverricht-Lundborg disease,G40-G47,NO_DATA
+KMN836,Urinary Tract Obstruction,N10-N16,NO_DATA
+KMN700,Uveitis,H15-H22,NO_DATA
+KMN744,Venous Thrombosis,I80-I89,NO_DATA
+KMN9,Viral Hepatitis,B15-B19,NO_DATA
+KMN732,Viral Myocarditis,I30-I52,B33.22
+KMN898,Vitamin B1 responsive congenital lactic acidemia,R70-R79,NO_DATA
+KMN651,Welander Distal Myopathy,G70-G73,NO_DATA
+KMN355,Wernicke's Encephalopathy,E50-E64,E51.2
+KMN58,Wilms' tumor,C64-C68,NO_DATA
+KMN400,Wilson Disease,E70-E90,NO_DATA
+KMN262,Wiskott-Aldrich Syndrome,D80-D89,D82.0
+KMN256,X-Linked Agammaglobulinemia,D80-D89,NO_DATA
+KMN276,X-Linked Immunodeficiency with Hyper IgM,D80-D89,NO_DATA
+KMN255,X-Linked Lymphoproliferative Syndrome,D80-D89,NO_DATA
+KMN354,X-linked Recessive Hypophosphatemic Rickets,E50-E64,NO_DATA
+KMN849,X-linked lissencephaly,Q00-Q07,NO_DATA
+KMN887,Xeroderma pigmentosum,Q80-Q89,Q82.1
+KMN257,ZAP70 Tyrosine Kinase Deficiency,D80-D89,NO_DATA
+KMN307,Zollinger-Ellison Syndrome,E15-E16,NO_DATA
+KMN395,alpha-Mannosidosis,E70-E90,NO_DATA
+KMN469,beta-Mannosidosis,E70-E90,NO_DATA
+KMN879,von Hippel-Lindau Syndrome,Q80-Q89,NO_DATA
+KMN209,von Willebrand's Disease,D65-D69,D68.0

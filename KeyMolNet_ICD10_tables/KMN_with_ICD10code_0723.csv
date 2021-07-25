@@ -1,0 +1,902 @@
+index,Disease_english,ICD_class,ICD10,reference,reliability,comment
+KMN3,Sepsis,A30-A49,A41,who-icd,,
+KMN16,Hereditary Nonpolyposis Colon Cancer,C15-C26,D48.9,orphanet,low,Lynch Syndrome is synonymous with Hereditary Non-Polyposis Colon Cancer (HNPCC).
+KMN23,Pancreatic Endocrine Tumor,C15-C26,C25.4,who-icd,,
+KMN24,Nesidioblastosis of Pancreas,C15-C26,C25.4,,,
+KMN36,Cutaneous Squamous Cell Carcinoma,C43-C44,C44,cms-gov-2021,,
+KMN37,Dermatofibrosarcoma Protuberans,C43-C44,C44;C49,web;orphanet,low,
+KMN41,Hemangiopericytoma,C45-C49,C49;D21.9,wikipedia;orphanet,low,
+KMN42,Liposarcoma,C45-C49,C49.9,who-icd,,
+KMN43,Mesothelioma,C45-C49,C45,who-icd,,
+KMN44,Soft Tissue Sarcoma,C45-C49,C49,who-icd,,
+KMN46,Peripheral Nerve Sheath Tumors,C45-C49,C47,orphanet,,
+KMN48,Sertoli Cell Tumor,C51-C58,"C56, C62",orphanet,,
+KMN49,Leydig Cell Tumor,C51-C58,"C56, C62",orphanet,,
+KMN51,Cervix Cancer,C51-C58,C53,who-icd,,
+KMN52,Carcinoma of the Fallopian Tube,C51-C58,C57,cms-gov-2021,,
+KMN55,Seminoma,C60-C63,C62.9,who-icd,,
+KMN57,Nonseminoma,C60-C63,C62,,low,
+KMN75,Thyroid Neoplasia,C73-C75,C73,orphanet,,
+KMN86,B-cell Lymphoma,C81-C96,C85.1,who-icd,,
+KMN87,B-cell Chronic Lymphocytic Leukaemia,C81-C96,C91.1,who-icd,,
+KMN88,MALT Lymphoma,C81-C96,C88.4,who-icd,,
+KMN89,POEMS Syndrome,C81-C96,D47.7,orphanet,low,
+KMN90,T-cell Acute Lymphoid Leukemia,C81-C96,C91.0,cms-gov-2021,,acute lymphoblastic leukemia
+KMN91,Diffuse Large-Cell Lymphoma,C81-C96,C83.3,who-icd,,
+KMN92,Diffuse Large B-cell Lymphoma,C81-C96,C83.3,who-icd,,
+KMN93,alpha Heavy Chain Disease,C81-C96,C88.3,who-icd,,
+KMN94,gamma Heavy Chain Disease,C81-C96,C88.2,who-icd,,
+KMN96,Sezary Syndrome,C81-C96,C84.1,orphanet,,
+KMN98,Plasma-cell Leukaemia,C81-C96,C90.1,who-icd,,
+KMN100,Mantle-cell Lymphoma,C81-C96,C83.1,who-icd,,
+KMN101,mu Heavy Chain Disease,C81-C96,C88.2,who-icd,,
+KMN103,Waldenstrom's Macroglobulinemia,C81-C96,C88.0,who-icd,,
+KMN104,Acute Lymphoid Leukemia,C81-C96,C91.0,who-icd,,
+KMN106,Minimally Differentiated Leukemia,C81-C96,C92.0,who-icd,,
+KMN107,Myeloblastic Leukemia without Maturation,C81-C96,C92,orphanet,,
+KMN108,Myeloblastic Leukemia with Maturation,C81-C96,C92,orphanet,,
+KMN109,Hypergranular Promyelocytic Leukemia,C81-C96,C92.4,who-icd;wikipedia,,
+KMN110,Myelomonocytic Leukemia,C81-C96,C92,who-icd,,
+KMN111,Myelomonocytic Leukemia Variant: Increase in Abnormal Marrow Eosinophils,C81-C96,C92,,,
+KMN112,Erythroleukemia,C81-C96,C94.0,who-icd,,
+KMN113,Megakaryoblastic leukemia,C81-C96,C94.2,who-icd,,
+KMN115,Nodular Lymphocyte-Predominant Hodgkin's Lymphoma,C81-C96,C81.0,who-icd,,
+KMN116,Primary Effusion Lymphoma,C81-C96,C83.8,who-icd,,
+KMN117,Classical Hodgkin's Lymphoma,C81-C96,C81.2,who-icd,,
+KMN118,Adult T Cell Lymphoma/Leukemia,C81-C96,C91.5,who-icd,,
+KMN119,Primary Testicular Lymphoma,C81-C96,NO_DATA,,,
+KMN120,Precursor B Cell Acute Lymphoid Leukemia,C81-C96,C83.5;C91.0,orphanet,,
+KMN121,Precursor T cell Lymphoblastic Lymphoma,C81-C96,C91.0,orphanet,,
+KMN123,Monocytic Leukemia,C81-C96,C93,who-icd,,
+KMN124,Cutaneous T cell Lymphoma,C81-C96,C84.8,who-icd,,
+KMN127,Chronic Myelogenous Leukemia,C81-C96,C92.1,who-icd,,
+KMN128,Anaplastic Large T-cell Lymphoma,C81-C96,C83.3,who-icd,,
+KMN129,Immunoblastic lymphoma,C81-C96,C83.3,who-icd,,
+KMN130,Immunoproliferative Small Intestinal Disease,C81-C96,C88.3,who-icd,,
+KMN134,Vipoma,D10-D36,C25.4,wikipedia,,
+KMN135,Insulinoma,D10-D36,D13.7,who-icd,,
+KMN137,Glucagonoma,D10-D36,D13.7,who-icd,,
+KMN138,Somatostatinoma Syndrome,D10-D36,C25.4,kegg_disease,low,
+KMN140,Pheochromocytoma,D10-D36,D35.0,who-icd,,
+KMN141,TSH-Secreting Adenomas,D10-D36,D35.2,orphanet,,
+KMN142,Osteochondroma,D10-D36,D16.9,orphanet,,
+KMN143,Lipoma,D10-D36,D17,who-icd,,
+KMN144,Hypothalamic Gangliocytoma,D10-D36,D36.1,who-icd,low,
+KMN145,Dysplastic gangliocytoma of cerebellum,D10-D36,Q04.8,orphanet,,
+KMN146,Schwannoma,D10-D36,Q85.0,who-icd,,
+KMN147,Neuroendocrine Tumor,D10-D36,NO_DATA,Codify,low,C7A-C7A.8 in Codify site
+KMN148,Gonadotropin-Producing Pituitary Adenoma,D10-D36,D35.2,orphanet,,
+KMN149,Polyposis Coli,D10-D36,D12.6,orphanet,,
+KMN150,Myxoma,D10-D36,D16.4;D16.5,who-icd,,
+KMN151,Pulmonary Lymphangioleiomyomatosis,D10-D36,D48.7,orphanet,,
+KMN152,Leiomyoma,D10-D36,D25,,,
+KMN154,Gastrinoma,D37-D48,D37.7,who-icd,,
+KMN157,Pituitary Tumor,D37-D48,D44.3,who-icd,,
+KMN158,Familial Paraganglioma Syndrome,D37-D48,D35.0;D35.6,orphanet,,
+KMN159,Teratoma,D37-D48,D13.4;D27;D29.2,who-icd,,
+KMN160,Hemangioblastoma,D37-D48,D33.4;D33.7  ,orphanet,,
+KMN161,Goiter,D37-D48,E04.9,web,,
+KMN164,GIST,D37-D48,D37.9,who-icd,,
+KMN166,Meningiomas,D37-D48,D32.9,who-icd,,
+KMN167,Desmoplastic Small Round-cell Tumor,D37-D48,C48.2,orphanet,,
+KMN168,Adenoid-cystic carcinoma,D37-D48,C08.9,web,,
+KMN169,Multiple Endocrine Neoplasia Type 1,D37-D48,D44.8,who-icd;wikipedia,,
+KMN170,Multiple Endocrine Neoplasia Type 2,D37-D48,D44.8,who-icd;wikipedia,,
+KMN171,Craniopharyngioma,D37-D48,D44.4,who-icd,,
+KMN172,Soft Tissue Tumor,D37-D48,D20;D21;D23.5;D24;D48 ,who-icd,,
+KMN173,Brain Tumor,D37-D48,D32;D33;D42;D43;D48.9,who-icd,,
+KMN174,Refractory anemia,D37-D48,D46,who-icd,,
+KMN175,Juxtaglomerular Cell Tumor,D37-D48,D41.0,who-icd,,
+KMN176,Chronic Idiopathic Myelofibrosis,D37-D48,D47.4,who-icd,,
+KMN177,Epithelioid Hemangioendothelioma,D37-D48,D18.0,orphanet,,
+KMN179,Granulosa Cell Tumor,D37-D48,D39.1,who-icd,,
+KMN184,alpha-Thalassemia Syndrome,D55-D59,D56.0,orphanet,,
+KMN185,G6PD Deficiency,D55-D59,D55.0,who-icd;orphanet,,
+KMN186,beta-Thalassemia Syndrome,D55-D59,D56.1,orphanet,,
+KMN191,Sickle Cell Syndrome,D55-D59,D57,who-icd,,
+KMN192,High oxygen affinity hemoglobin erythremia,D55-D59,NO_DATA,,,
+KMN193,Congenital hemolytic anemia,D55-D59,"D55, D57",who-icd,,
+KMN195,Immune Hemolysis,D55-D59,D59.0;D59.1,who-icd;wikipedia,low,autoimmune hemolytic anemia
+KMN196,Spur Cell Anemia,D55-D59,NO_DATA,,,
+KMN197,X-Linked Sideroblastic Anemia,D60-D64,D64.0,orphanet,,
+KMN199,Hereditary sideroblastic anemia,D60-D64,D64.0,cms-gov-2021,,
+KMN200,Anaplastic anemia,D60-D64,D61.0;D61.1;D61.2;D61.3;D61.9;D61.9,orphanet,low,aplasitc anemia
+KMN201,Idiopathic sideroblastic anemia,D60-D64,D64.3,orphanet,,
+KMN202,Alpha2 Plasmin Inhibitor Deficiency,D65-D69,D68.8,orphanet;kegg-disease,,
+KMN203,Antithrombin Deficiency,D65-D69,D68.5,orphanet,,
+KMN205,Glanzmann's Disease,D65-D69,D69.1,who-icd;orphanet,,
+KMN207,Dysfibrinogenemia,D65-D69,D68.2,who-icd;orphanet,,
+KMN210,Plasminogen Activator Inhibitor 1 Deficiency,D65-D69,D68.8,orphanet;kegg-disease,,
+KMN211,Protein C Deficiency,D65-D69,D68.5,who-icd,,
+KMN212,Protein S Deficiency,D65-D69,D68.5,who-icd;wikipedia,,
+KMN213,Prothrombin Deficiency,D65-D69,D68.4,who-icd;orphanet,,
+KMN214,Henoch-Schonlein Purpura,D65-D69,D69.0,who-icd;orphanet,,
+KMN216,Resistance to Activated Protein C,D65-D69,D68.5,who-icd,,
+KMN217,Hemophilia A,D65-D69,D66,who-icd,,
+KMN218,Hemophilia B,D65-D69,D68,who-icd;orphanet,,
+KMN219,Hyperfibrinogenemia,D65-D69,D68.2,web,,
+KMN220,Coagulant factor VII hyperactivity,D65-D69,D68.2,who-icd,,
+KMN221,Congenital coagulant factor XII deficiency,D65-D69,D68.2,who-icd,,
+KMN222,Congenital hypoplasminogenemia,D65-D69,L90.5,orphanet,low,
+KMN223,Congenital heparin cofactor II deficiency,D65-D69,D68.5,web,,
+KMN230,Idiopathic Thrombocytopenic Purpura,D65-D69,D69.3,who-icd;orphanet,,
+KMN233,TNF-alpha Receptor-associated Periodic Syndrome,D70-D77,E85.0,orphanet;wikipedia,,
+KMN234,Mycobacteria Susceptibility,D70-D77,D84.8,orphanet,low,
+KMN236,Eosinophilia,D70-D77,D72.1,cms-gov-2021,,
+KMN237,Neutropenia,D70-D77,D70,cms-gov-2021,,
+KMN238,Polycythemia,D70-D77,D75.1,who-icd,,
+KMN239,Congenital Methemoglobinemia,D70-D77,D74.0,cms-gov-2021,,
+KMN240,Congenital neutropenia,D70-D77,D70,who-icd,,
+KMN241,Leukocyte Adhesion Deficiency Type 1,D70-D77,D84.8,orphanet;wikipedia,,
+KMN242,Leukocyte Adhesion Deficiency Type 2,D70-D77,D84.8,orphanet,,
+KMN243,Leukocyte Adhesion Deficiency Type 3,D70-D77,D84.8,orphanet,,
+KMN282,X-linked TBG Deficiency,E00-E07,E07.8,who-icd,,
+KMN283,Graves' Disease,E00-E07,E05.0,who-icd;orphanet,,
+KMN284,Sick Euthyroid Syndrome,E00-E07,E07.8,who-icd,,
+KMN285,Familial Dysalbuminemic Hyperthyroxinemia,E00-E07,E05.8,web,,
+KMN286,Hashimoto's disease,E00-E07,E06.3,who-icd,,
+KMN287,Resistance to Thyroid Hormone,E00-E07,E07,wikipedia,,
+KMN288,Euthyroid Hyperthyroxinemia,E00-E07,E07.8,web,,
+KMN289,Thyroid Disease,E00-E07,E05,who-icd,,
+KMN290,Autoimmune Hypothyroidism,E00-E07,E06.3,web,,
+KMN291,Congenital Hypothyroidism,E00-E07,E03.1,who-icd;orphanet,,
+KMN308,17 alpha-Hydroxylase Deficiency,E20-E35,E25.0,orphanet,,
+KMN309,21-Hydroxylase Deficiency,E20-E35,E25.0,who-icd;orphanet,,
+KMN310,3 beta-Hydroxysteroid Dehydrogenase Type II Deficiency,E20-E35,E25.0,web,,
+KMN311,ACTH Deficiency,E20-E35,E23.6,orphanet,,
+KMN315,Carcinoid Syndrome,E20-E35,E34.0,cms-gov-2021,,
+KMN316,Kallmann Syndrome,E20-E35,E23.0,orphanet,,
+KMN319,Cushing's Disease,E20-E35,E24.0,orphanet,,
+KMN320,Glucocorticoid-Remediable Aldosteronism,E20-E35,E26.02,cms-gov-2021,,
+KMN321,Gonadotropin Deficiency,E20-E35,E23.0,who-icd,,
+KMN322,Gonadotropin-Independent Precocious Puberty,E20-E35,E22.8,orphanet,,
+KMN324,Frohlich Syndrome,E20-E35,E23.6,wikipedia,low,prune belly syndrome
+KMN325,Jansen's Disease,E20-E35,Q78.5,orphanet,low,"metaphyseal chondeodysplasia, Jansen type"
+KMN327,Lymphocytic Hypophysitis,E20-E35,E23.6,orphanet,,
+KMN328,Ectopic hormone producing tumor,E20-E35,E24.3,orphanet,,cushing syndrome due to ectopic ACTH secretion
+KMN330,Pseudopseudohypoparathyroidism,E20-E35,E20.1,who-icd;orphanet,,
+KMN333,Syndrome of Inappropriate Antidiuretic Hormone Secretion,E20-E35,E22.2,who-icd,,
+KMN334,Hypergonadotropic Hypogonadal Ovarian Failure,E20-E35,E28.36,web,,other primary ovarian faliure
+KMN335,Autoimmune Polyendocrinopathy-Candidiasis-Ectodermal Dystrophy,E20-E35,E31.0,orphanet,,autoimmune polyendocrinopathy type 1
+KMN336,Congenital Disorders Associated with Gonadotropin Deficiency,E20-E35,E23.0,orphanet,,isolated congenital hypogonadotropic  hypogonadism
+KMN337,Gonadotropin-releasing Hormone Resistance,E20-E35,E23.0,orphanet,,isolated congenital hypogonadotropic  hypogonadism
+KMN338,Adult GH Deficiency,E20-E35,E23.0,who-icd,,hypopituitarism
+KMN341,Congenital Lipoid Adrenal Hyperplasia,E20-E35,E25.0,orphanet,,congenital lipoid adrenal hyperplasia due to STAR deficency
+KMN343,Progeria,E20-E35,E34.8,who-icd,,
+KMN344,Polyglandular Autoimmune Syndrome Type I,E20-E35,E31.0,orphanet,,
+KMN345,Polyglandular Autoimmune Syndrome Type II,E20-E35,E31.0,orphanet,,
+KMN346,Polycystic Ovarian Syndrome,E20-E35,E28.2,cms-gov-2021,,
+KMN347,Idiopathic hypoparathyroidism,E20-E35,E20.0,cms-gov-2021,,
+KMN348,Diabetes Insipidus,E20-E35,E23.2,cms-gov-2021,,
+KMN349,Panhypopituitarism,E20-E35,E23.0,who-icd,,
+KMN350,Adrenogenital Syndrome,E20-E35,E25,who-icd,,
+KMN351,Ovarian Failure,E20-E35,E28.3,who-icd,,
+KMN353,Rogers' Syndrome,E50-E64,Q21.0,orphanet,,thiamine-responsive megaloblastic anemia syndrome
+KMN356,Vitamin B12 Deficiency,E50-E64,E53.8,who-icd,,
+KMN357,Thiamine Deficiency,E50-E64,E51,cms-gov-2021,,
+KMN358,Vitamin B6 Deficiency,E50-E64,E53.1,who-icd,,
+KMN359,Vitamin D-Dependent Rickets Type II,E50-E64,E83.3,orphanet,,hypocalcemic vitamin D-resistant rickets
+KMN360,Vitamin D-Dependent Rickets Type I,E50-E64,E55.0,orphanet,,hypocalcemic vitamin D-dependent rickets
+KMN361,Vitamin D Deficiency,E50-E64,E55,cms-gov-2021,,
+KMN362,Vitamin E deficiency,E50-E64,E56.0,who-icd,,
+KMN363,Vitamin K Deficiency,E50-E64,E56.1,who-icd,,
+KMN366,Folate Deficiency,E50-E64,E53.8,who-icd,,
+KMN374,3-Oxothiolase Deficiency,E70-E90,E71.1,orphanet,,beta-ketothiolase deficiency
+KMN375,3-Hydroxy-3-methylglutaric Aciduria,E70-E90,E71.1,orphanet,,3-hydroxy-3-methylglutaric aciduria
+KMN376,3-Methylcrotonyl Glycinuria,E70-E90,E71.1,orphanet,,3-methylcrotonyl-CoA carboxylase deficiency
+KMN377,3-Methylglutaconic Aciduria Type I,E70-E90,E71.1,orphanet,,
+KMN378,4-Hydroxybutyric Aciduria,E70-E90,E72.8,orphanet,,succinic semialdehyde dehydrogenase deficiency
+KMN379,Beta-mercaptolactate-cysteine disulfiduria,E70-E90,E72.1,orphanet,,
+KMN381,GM2-ganglioside activator deficiency,E70-E90,E75.1,kegg_disease,,
+KMN382,GTP Cyclohydrolase I Deficiency,E70-E90,E70.1,orphanet,,
+KMN384,PRPP synthetase super-activity,E70-E90,E79.8,orphanet,,
+KMN385,PRPP synthetase deficiency,E70-E90,NO_DATA,,,
+KMN386,X-Linked Hypophosphatemic Rickets,E70-E90,E83.3,orphanet,,
+KMN390,ApoA-I Deficiency,E70-E90,E78.6,orphanet,,
+KMN392,Arginase Deficiency,E70-E90,E72.2,orphanet,,argininemia
+KMN393,Argininosuccinic Acidemia,E70-E90,E72.2,who-icd,,
+KMN394,alpha-Ketoadipic Acidemia,E70-E90,NO_DATA,,,
+KMN396,alpha1 Antitrypsin Deficiency,E70-E90,E88.0,orphanet,,
+KMN397,Andersen's Syndrome,E70-E90,E74.0,orphanet,,glycogen storage disease due to glycogen branching enzyme deficiency
+KMN401,Wolman Disease,E70-E90,E75.5,orphanet,,
+KMN402,Galactosemia with Uridyl Transferase Deficiency,E70-E90,E74.2,orphanet,low,classic galactosemia
+KMN403,Uridine Diphosphate Galactose 4-Epimerase Deficiency,E70-E90,E74.2,orphanet,,erythorcyte galactose epimerase deficiency
+KMN404,Ureidopropionase Deficiency,E70-E90,E79.8,orphanet,,beta-ureidopropionase deficiency
+KMN405,Urocanic Aciduria,E70-E90,E70.8,orphanet,,
+KMN408,CPT II Deficiency,E70-E90,E71.3,orphanet,,carnitine palmitoyltransferase II deficiency
+KMN409,Carnitine Deficiency,E70-E90,E71.3,orphanet,,systemic primary carnitine deficiency
+KMN410,Carnosinase deficiency,E70-E90,E70.8,orphanet,,
+KMN411,Carbamylphosphate Synthase Deficiency,E70-E90,E72.29,wikipedia,,carbamoyl phosphate synthetase I deficiency
+KMN412,Carbinolamine Dehydratase Deficiency,E70-E90,E70.1,orphanet,,pterin-4 alpha-carbinolamine dehydratase deficiency
+KMN416,Glucose-Galactose Malabsorption,E70-E90,E74.3,orphanet,,
+KMN417,Glucose-Transport Defect,E70-E90,E74.0,orphanet,,glycogen storage disease due to glucose-6-phosphatase deficiency type Ib
+KMN419,Glutaric Acidemia Type II,E70-E90,E71.3,orphanet,,multiple acyl-CoA dehydrogenase deficiency
+KMN420,Glutaric Acidemia Type I,E70-E90,E72.3,orphanet,,glutaryl-CoA dehydrogenase deficiency
+KMN421,Cholesteryl Ester Storage Disease,E70-E90,E75.5,orphanet,,
+KMN422,CETP Deficiency,E70-E90,E78.4,kegg_disease,,
+KMN423,Sarcosinemia,E70-E90,E72.5,orphanet,,
+KMN429,Citrullinemia Type II,E70-E90,E72.2,orphanet,,
+KMN430,Citrullinemia Type I,E70-E90,E72.2,orphanet,,
+KMN435,Sulfocysteinuria,E70-E90,E72.1,orphanet,,isolated sulfite oxidase deficiency
+KMN438,Thymidine Phosphorylase Deficiency,E70-E90,G71.3,kegg_disease,low,mitochodrial neurogastrointestinal encephalomyopathy
+KMN439,Tyrosinemia Type III,E70-E90,E70.2,orphanet,,
+KMN440,Tyrosinemia Type II,E70-E90,E70.2,orphanet,,
+KMN441,Tyrosinemia Type I,E70-E90,E70.2,orphanet,,
+KMN444,ALA-Dehydratase-Deficient Porphyria,E70-E90,E80.2,orphanet,,porphyria due to ALA dehydratase deficiency
+KMN445,Tryptophan Malabsorption,E70-E90,E72.0,orphanet,,hartnup disease
+KMN446,Tryptophanuria,E70-E90,E70.8,orphanet,low,hypertryptophanemia
+KMN447,Niemann-Pick Disease,E70-E90,E75.24,cms-gov-2021,,
+KMN448,Hartnup Disease,E70-E90,E72.0,orphanet,,
+KMN451,Histidinuria,E70-E90,E70.8,orphanet,,histidinemia
+KMN453,HPRT Deficiency,E70-E90,E79.8,orphanet,,
+KMN454,Pyrimidine 5'-Nucleotidase Deficiency,E70-E90,D55.3,orphanet,,
+KMN456,Farber Disease,E70-E90,E75.2,who-icd;orphanet,,
+KMN459,Fanconi Syndrome,E70-E90,E72.0,who-icd;orphanet,,
+KMN460,Phenylketonuria Type III,E70-E90,NO_DATA,,,
+KMN461,Phenylketonuria Type II,E70-E90,E70.1,orphanet,,dihydropteridine reductase deficinecy
+KMN462,Phenylketonuria Type I,E70-E90,E70.0;E70.1,orphanet,,phenylketonuria
+KMN464,"Fructose 1,6-diphosphatase Deficiency",E70-E90,E74.1,orphanet,,
+KMN465,"Fructose 1,6-bisphosphate Aldolase A Deficiency",E70-E90,E74.19,web,,
+KMN470,beta-Enolase Deficiency,E70-E90,E74.0,orphanet,,glycogen storage disease due to muscle beta-enolase deficiency
+KMN471,Hawkinsinuria,E70-E90,E70.2,orphanet,,
+KMN472,Phosphoglycerate Kinase Deficiency,E70-E90,E74.0,orphanet,,glycogen storage disease due to phosphoglycerate kinase 1 deficiency
+KMN473,Phosphoglycerate Dehydrogenase Deficiency,E70-E90,E72.8,orphanet,,"3-phosphoglycerate dehydrogenase deficiency, infantile/juvenile form"
+KMN474,Phosphoglycerate Mutase Deficiency,E70-E90,E74.0,orphanet,,glycogen storage disease due to phosphoglycerate mutase deficiency
+KMN475,Homocarnosinosis,E70-E90,E70.8,orphanet,,carnosinase deficiency
+KMN477,Homocystinuria and Methylmalonic Acidemia,E70-E90,E71.1,orphanet,,methylmalonic acidemia with homocystinuria
+KMN478,Formiminoglutamic Aciduria,E70-E90,E70.8,orphanet,,
+KMN479,Myoadenylate Deaminase Deficiency,E70-E90,E79.2,cms-gov-2021,,
+KMN480,Mucolipidoses-III,E70-E90,E77.0,orphanet,,mucolipidosis type III gamma
+KMN481,Mucolipidoses-II,E70-E90,E77.0,orphanet,,mucolipidosis type II
+KMN482,Mucopolysaccharidosis IH/S,E70-E90,E76.0,orphanet,,hurler-scheie syndrome
+KMN483,Mucopolysaccharidosis IH,E70-E90,E76.0,orphanet,,hurler syndrome
+KMN484,Mucopolysaccharidosis IIIA,E70-E90,E76.2,orphanet,,sanfilippo syndrome type A
+KMN485,Mucopolysaccharidosis IIIB,E70-E90,E76.2,orphanet,,sanfilippo syndrome type B
+KMN486,Mucopolysaccharidosis IIIC,E70-E90,E76.2,orphanet,,sanfilippo syndrome type C
+KMN487,Mucopolysaccharidosis IIID,E70-E90,E76.2,orphanet,,sanfilippo syndrome type D
+KMN488,Mucopolysaccharidosis II,E70-E90,E76.1,orphanet,,
+KMN489,Mucopolysaccharidosis IS,E70-E90,E76.0,orphanet,,scheie syndrome
+KMN490,Mucopolysaccharidosis IVA,E70-E90,E76.2,orphanet,,
+KMN491,Mucopolysaccharidosis IVB,E70-E90,E76.2,orphanet,,
+KMN492,Mucopolysaccharidosis VII,E70-E90,E76.2,orphanet,,
+KMN493,Mucopolysaccharidosis VI,E70-E90,E76.2,orphanet,,
+KMN495,Metabolic Syndrome,E70-E90,E88.81,cms-gov-2021,,
+KMN496,Methionine Malabsorption,E70-E90,E72.1,who-icd;wikipedia,,
+KMN497,Methylmalonic Acidemia,E70-E90,E71.120,cms-gov-2021,,
+KMN499,Lysinuria,E70-E90,E72.0,orphanet,,cystinuria
+KMN500,Lipoamide dehydrogenasee deficieny,E70-E90,E71.0,kegg_disease,,dihydrolipoamide dehydrogenase deficiency
+KMN501,Lipoprotein Lipase Deficiency,E70-E90,E78.3,orphanet,,familial lipoprotein lipase deficiency
+KMN502,LCAT Deficiency,E70-E90,E78.6,orphanet,,
+KMN505,Hereditary Xanthinuria,E70-E90,E79.8,who-icd;orphanet,,
+KMN506,Hereditary Coproporphyria,E70-E90,E80.2,who-icd;orphanet,,
+KMN507,Hereditary Vitamin D-resistant Rickets,E70-E90,E83.3,orphanet,,
+KMN508,Hereditary Aceruloplasminemia,E70-E90,G23.0,kegg_disease,,aceruloplasminemia
+KMN509,Familial Apolipoprotein C-II Deficiency,E70-E90,E78.3,orphanet,,
+KMN510,Familial Dysbetalipoproteinemia,E70-E90,E78.2,orphanet,,dysbetalipoproteinemia
+KMN511,Familial Defective ApoB-100,E70-E90,E78.0,who-icd,,familial hypercholesterolemia
+KMN512,Familial Hyperalphalipoproteinemia,E70-E90,E78.4,orphanet,,cholesterol-ester transfer protein deficiency
+KMN514,Familial Hypertriglyceridemia,E70-E90,E78.2,orphanet,,dysbetalipoproteinemia
+KMN518,Activation-Induced Cytidine Deaminase Deficiency,E70-E90,D80.5,orphanet,,hyper-IgM syndrome type 2
+KMN520,Hepatoerythropoietic porphyria,E70-E90,E80.2,orphanet,,
+KMN521,Glycogen Storage Disease 0,E70-E90,E74.0,orphanet,,
+KMN522,Glycogen Storage Disease III,E70-E90,E74.0,orphanet,,
+KMN523,Glycogen Storage Disease IV,E70-E90,E74.0,orphanet,,
+KMN524,Glycogen Storage Disease IX,E70-E90,E74.0,orphanet,,
+KMN525,Glycogen Storage Disease I,E70-E90,E74.0,orphanet,,
+KMN526,Glycogen Storage Disease VI,E70-E90,E74.0,orphanet,,
+KMN527,Glycogen Storage Disease XI,E70-E90,E74.0,orphanet,,
+KMN528,Pseudohypoaldosteronism,E70-E90,N25.8,orphanet,,
+KMN529,Acute Intermittent Porphyria,E70-E90,E80.2,who-icd,,
+KMN530,Glycogen Storage Disease II,E70-E90,E74.0,orphanet,,
+KMN531,Glycogen Storage Disease VII,E70-E90,E74.0,orphanet,,
+KMN532,Glycogen Storage Disease V,E70-E90,E74.0,orphanet,,
+KMN533,Primary Lactase Deficiency,E70-E90,E73.0,who-icd,,congenital lactase deficiency
+KMN534,Primary Hypoalphalipoproteinemia,E70-E90,E78.6,who-icd;wikipedia,,
+KMN535,Classic Cystinuria,E70-E90,E72.0,who-icd;orphanet,,
+KMN536,Hyper Lp(a) lipoproteinemia,E70-E90,E78.4,orphanet,,cholesterol-ester transfer protein deficiency
+KMN537,Hyperornithinemia-Hyperammonemia-Homocitrullinuria,E70-E90,E72.4,orphanet,,
+KMN538,Hypercystinuria,E70-E90,NO_DATA,,,
+KMN539,Hyperoxaluria Type II,E70-E90,E74.8,who-icd;orphanet,,
+KMN540,Hyperoxaluria Type I,E70-E90,E74.8,who-icd;orphanet,,
+KMN541,Hypervalinemia,E70-E90,E71.1,who-icd,,
+KMN542,Hyperhydroxyprolinemia,E70-E90,E72.5,who-icd,,
+KMN543,Hyperprolinemia Type II,E70-E90,E72.5,who-icd,,
+KMN544,Hyperprolinemia Type I,E70-E90,E72.5,who-icd,,
+KMN547,Hyperleucine-Isoleucinemia,E70-E90,E71.1,who-icd,,
+KMN548,Hyperuricemia,E70-E90,E79.0,who-icd,,
+KMN551,Autosomal Recessive Hypercholesterolemia,E70-E90,E78.0,orphanet,,homozygous familial hypercholesterolemia
+KMN552,Neuronal ceroid-lipofuscinosis,E70-E90,E75.4,who-icd;orphanet,,
+KMN553,Erythropoietic Protoporphyria,E70-E90,E80.0,who-icd,,
+KMN554,Congenital Chloridorrhea,E70-E90,P78.3,orphanet,,congenital chloride diarrhea
+KMN555,Congenital Homocystinuria Syndrome,E70-E90,E72.1,who-icd,,
+KMN556,Congenital Erythropoietic Porphyria,E70-E90,E80.0,orphanet,,
+KMN557,Polygenic Hypercholesterolemia,E70-E90,E78.0,who-icd,,
+KMN559,Multiple Carboxylase/Biotinidase Deficiency,E70-E90,E53.8,orphanet,,multiple carboxylase deficiency;biotinidase deficiency
+KMN560,Variegate Porphyria,E70-E90,E80.2,orphanet,,variegate porphyria
+KMN563,Hypouricemia,E70-E90,E79.8,who-icd;wikipedia,,
+KMN564,Dibasic Aminoaciduria,E70-E90,E72.0,who-icd;wikipedia;orphanet,,lysinuric protein intolerance
+KMN565,Lactate Dehydrogenase Deficiency,E70-E90,E74.4,orphanet,,glycogen storage disease due to lactate dehydrogenase deficiency
+KMN568,Albinism (oculocutaneous),E70-E90,E70.3,orphanet,,oculocutaneous albinism type 1
+KMN569,Porphyria Cutanea Tarda,E70-E90,E80.1,cms-gov-2021,,
+KMN570,Nonketotic hyperglycinemia-type I,E70-E90,E72.5,orphanet,,glycine encephalopathy
+KMN571,Essential Fructosuria,E70-E90,E74.11,cms-gov-2021,,
+KMN572,Essential pentosuria,E70-E90,E74.8,who-icd,,
+KMN575,Depression,F30-F39,F32,who-icd,,
+KMN577,Anorexia Nervosa,F50-F59,F50.0,cms-gov-2021,,
+KMN580,Acute Bacterial Meningitis,G00-G09,G00.9,who-icd,,
+KMN581,Hypothalamic Encephalitis,G00-G09,G05,who-icd,,
+KMN582,Paraneoplastic Encephalomyelitis,G00-G09,G04,who-icd,,
+KMN583,Brainstem Encephalitis,G00-G09,G04.8,who-icd;wikipedia,,
+KMN584,Encephalomyelitis,G00-G09,G05.1,who-icd,,
+KMN585,Limbic Encephalitis,G00-G09,G04.81,wikipedia,,
+KMN586,X-Linked Spinobulbar Muscular Atrophy,G10-G13,G12.1,kegg_disease,,
+KMN590,Amyotrophic Lateral Sclerosis,G10-G13,G12.21,cms-gov-2021,,
+KMN591,Dentatorubropallidoluysian Atrophy,G10-G13,G11.2,kegg_disease,,
+KMN594,DOPA-responsive Dystonia,G20-G26,G24.8,orphanet,,
+KMN596,Hereditary progressive dystonia,G20-G26,G24.8,orphanet,,dopa responsive dystonia
+KMN598,Opsoclonus-Myoclonus,G20-G26,G25.3,orphanet,,
+KMN600,Early-onset torsion dystonia,G20-G26,G24.1,orphanet; kegg_disease,,
+KMN601,Idiopathic Torsion Dystonia,G20-G26,G24.1,who-icd,,
+KMN602,Chorea,G20-G26,G25.5,who-icd,,
+KMN616,Miller-Dieker's syndrome,G40-G47,Q04.3,orphanet; kegg_disease,,
+KMN617,Epilepsy Syndrome,G40-G47,G49.5,who-icd,,
+KMN619,Familial Hemiplegic Migraine,G40-G47,G43.1,who-icd,,
+KMN621,Sleep Apnea,G40-G47,G47.3,cms-gov-2021,,
+KMN622,MERRF Syndrome,G40-G47,G71.3,cms-gov-2021,,
+KMN623,Severe myoclonic epilepsy of infancy,G40-G47,G40.4,orphanet,,dravet syndrome severe myoclonic epilepsy of infancy
+KMN624,Generalized Epilepsy with Febrile Convulsions Plus,G40-G47,G40.3,orphanet,,
+KMN625,Migraine,G40-G47,G43,cms-gov-2021,,
+KMN626,Benign Neonatal Familial Convulsion,G40-G47,G40.3,orphanet,,benign familial neonatal epilepsy
+KMN648,Myotonic Dystrophy Type 1,G70-G73,G71.1,who-icd,,
+KMN649,Myotonic Dystrophy Type 2,G70-G73,G71.1,who-icd,,
+KMN654,Schwartz-Jampel syndrome (chondrodystrophic myotonia),G70-G73,G71.1,who-icd,,
+KMN655,Stiff-Person Syndrome,G70-G73,G25.8,who-icd,,
+KMN658,Thomsen's Disease,G70-G73,G71.1,who-icd,,
+KMN659,Na channel myotonia,G70-G73,G71.1,kegg_disease,,non-dystrophic myotonia
+KMN662,Becker's Disease,G70-G73,G71.0,kegg_disease,,dystrophinopathies
+KMN663,Mitochondrial DNA Depletion Myopathy,G70-G73,G71.3,web,,
+KMN665,Primary merosin deficiency,G70-G73,G71.0,orphanet,,merosin-deficient congenital muscular dystrophy
+KMN666,Hereditary Inclusion Body Myopathy,G70-G73,G71.8,who-icd;wikipedia,,
+KMN667,Distal Myopathy with Rimmed Vacuoles,G70-G73,G71.8,orphanet,,GNE myopathy
+KMN670,Hyperkalemic Periodic Paralysis,G70-G73,G72.3,who-icd;wikipedia,,
+KMN673,Limb-Girdle Muscular Dystrophy 1A,G70-G73,G71.0,orphanet,,
+KMN674,Limb-Girdle Muscular Dystrophy 1B,G70-G73,NO_DATA,,,found in orphanet but no icd 10
+KMN676,Limb-Girdle Muscular Dystrophy 1D,G70-G73,G71.0,orphanet,,
+KMN677,Limb-Girdle Muscular Dystrophy 1E,G70-G73,NO_DATA,,,found in orphanet but no icd 10
+KMN678,Limb-Girdle Muscular Dystrophy 2A,G70-G73,G71.0,orphanet,,calpain-3-related limb-girdle muscular dystrophy R1
+KMN680,Limb-Girdle Muscular Dystrophy 2C,G70-G73,G71.0,orphanet,,gamma-sarcoglycan-related limb-girdle muscular dystrophy R5
+KMN681,Limb-Girdle Muscular Dystrophy 2D,G70-G73,G71.0,orphanet,,alpha-sarcoglycan-related limb-girdle muscular dystrophy R3
+KMN682,Limb-Girdle Muscular Dystrophy 2E,G70-G73,G71.0,orphanet,,beta-sarcoglycan-related limb-girdle muscular dystrophy R4
+KMN683,Limb-Girdle Muscular Dystrophy 2F,G70-G73,G71.0,orphanet,,delta-sarcoglycan-related limb-girdle muscular dystrophy R6
+KMN684,Limb-Girdle Muscular Dystrophy 2G,G70-G73,G71.0,orphanet,,telethonin-related limb-girdle muscular dystrophy R7
+KMN685,Limb-Girdle Muscular Dystrophy 2H,G70-G73,G71.0,orphanet,,TRIM32-related limb-girdle muscular dystrophy R8
+KMN686,Limb-Girdle Muscular Dystrophy 2I,G70-G73,G71.0,orphanet,,FKRP-related limb-girdle muscular dystrophy R9
+KMN687,Limb-Girdle Muscular Dystrophy 2J,G70-G73,G71.0,orphanet,,titin-related limb-girdle muscular dystrophy R10
+KMN688,Neuromyotonia,G70-G73,G71.1,who-icd,,
+KMN693,Hypokalemic Periodic Paralysis,G70-G73,G72.3,who-icd,,
+KMN696,Familial Spastic Paraplegia,G80-G83,G82.1,who-icd,,
+KMN703,Paraneoplastic Retinopathy,H30-H36,H36,web,,
+KMN704,Diabetic Proliferative Retinopathy,H30-H36,H35.2,cms-gov-2021,,
+KMN705,Gyrate Atrophy of the Choroid and Retina,H30-H36,E72.4,orphanet,,
+KMN706,Glaucoma,H40-H42,H40,cms-gov-2021,,
+KMN711,11beta-hydroxysteroid dehydrogenase deficiency,I10-I15,E25.8;E26.1,orphanet,,
+KMN712,11beta-hydroxylase deficiency,I10-I15,E25.0,orphanet,,congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency
+KMN714,Hypertension under acute psychological stress,I10-I15,NO_DATA,,,
+KMN715,Juvenile hypertension,I10-I15,NO_DATA,,,
+KMN716,Renovascular Hypertension,I10-I15,I15.0,cms-gov-2021,,
+KMN717,Renal Parenchymal Hypertension,I10-I15,NO_DATA,,,
+KMN718,Endocrine hypertension,I10-I15,I15.2,cms-gov-2021,,hypertension secondary to endocrine disorders
+KMN719,Essential Hypertension,I10-I15,I10,cms-gov-2021,,essential (primary) hypertension
+KMN729,Pulmonary Thromboembolism,I26-I28,I27.2,cms-gov-2021,,Chronic thromboembolic pulmonary hypertension
+KMN730,Pulmonary Embolism,I26-I28,I26,cms-gov-2021,,
+KMN733,Catecholamine VT,I30-I52,I47.2,orphanet,,catecholaminergic polymorphic ventricular tachycardia
+KMN734,Jorvell and Lange-Nielsen Syndrome,I30-I52,I45.8,orphanet,,Jervell and Lange-Nielsen syndrome
+KMN737,Acute Pericarditis,I30-I52,I30,cms-gov-2021,,
+KMN742,Aneurysm,I70-I79,I71;I72,cms-gov-2021,,
+KMN748,Bronchiectasis,J40-J47,J47,cms-gov-2021,,
+KMN749,Emphysema,J40-J47,J43,cms-gov-2021,,
+KMN750,Chronic Obstructive Pulmonary Disease,J40-J47,J44,cms-gov-2021,,
+KMN752,Hypersensitivity Pneumonitis,J60-J70,J67,orphanet,,
+KMN758,Type A Gastritis,K20-K31,K29.4,who-icd;wikipedia,,gastric atrophy
+KMN759,Menetrier's Disease,K20-K31,K29.6,orphanet,,
+KMN760,Gastroesophageal regurgitation,K20-K31,K21.9,cms-gov-2021,,Gastro-esophageal reflux disease without esophagitis
+KMN761,Peptic Ulcer Disease,K20-K31,K27.9,cms-gov-2021,,"Peptic ulcer, site unspecified, unspecified as acute or chronic, without hemorrhage or perforation"
+KMN764,Mesenteric Venous Thrombosis,K55-K63,NO_DATA,,,
+KMN774,Gallstone,K80-K87,K80.5,who-icd,,
+KMN782,Lymphomatoid Papulosis,L40-L45,C86.6,orphanet,low,
+KMN784,Urticaria,L50-L54,L50,cms-gov-2021,,
+KMN785,Papular Mucinosis,L80-L99,L98.5,orphanet,,
+KMN786,Lichen Myxedematosus,L80-L99,L98.5,orphanet,,
+KMN787,Psoriatic Arthritis,M05-M14,L40.5,cms-gov-2021,,Psoriatic arthritis mutilans
+KMN789,Adult Still's disease,M05-M14,M06.1,orphanet,,adult-onset Still disease
+KMN790,Monosodium Urate Gout,M05-M14,M10,kegg_disease,,gout
+KMN791,CPPD Deposition Disease,M05-M14,M11,cms-gov-2021,,non-gout crystal arthropathy
+KMN792,Uric Acid Nephropathy,M05-M14,NO_DATA,,,
+KMN793,Reactive Arthritis,M05-M14,M02.3,orphanet,,
+KMN797,Wegener's Granulomatosis,M30-M36,M31.3,cms-gov-2021,,
+KMN798,Goodpasture's Syndrome,M30-M36,M31.0,orphanet,,anti-glomerular basement membrane disease
+KMN800,Behcet's Syndrome,M30-M36,M35.2,orphanet,,
+KMN806,Anti-Glomerular Basement Membrane Disease,M30-M36,M31.0,orphanet,,
+KMN809,Polymyositis,M30-M36,M33.2,cms-gov-2021,,
+KMN810,Dermatomyositis,M30-M36,M33.0;M33.1,orphanet,,
+KMN820,Hypertrophic Osteoarthropathy,M86-M90,M89.4,orphanet,,primary hypertrophic osteoarthropathy
+KMN823,Light Chain Deposition Disease,N00-N08,D89.8,orphanet,,not matching
+KMN824,Cryoglobulinemia Glomerulopathy,N00-N08,D89.1,cms-gov-2021,,Cryoglobulinemia
+KMN825,Mesangioproliferative Glomerulonephritis,N00-N08,N00.5,cms-gov-2021,,Acute nephritic syndrome with diffuse mesangiocapillary glomerulonephritis
+KMN828,Focal and Segmental Glomerulosclerosis,N00-N08,N05.1,kegg_disease,low,focal segmental glomeruloscierosis
+KMN830,Idiopathic Renal-Limited Crescentic Glomerulonephritis,N00-N08,N01.9,kegg_disease,low,rapidly progressive glomerulonephritis
+KMN831,Crescentic Glomerulonephritis,N00-N08,N01.9,kegg_disease,low,rapidly progressive glomerulonephritis
+KMN832,Minimal Change Disease,N00-N08,NO_DATA,,,
+KMN833,Membranous Glomerulopathy,N00-N08,N04.2,orphanet,,primary membranous glomerulonephritis
+KMN835,Thin Basement Membrane Nephropathy,N00-N08,N05.8,who-icd;wikipedia,,
+KMN838,Type 1 Renal Tubular Acidosis,N25-N29,N25.8,orphanet,,distal renal tubular acidosis
+KMN839,Type 2 Renal Tubular Acidosis,N25-N29,N25.8,orphanet,,proximal renal tubular acidosis
+KMN840,Type 3 Renal Tubular Acidosis,N25-N29,Q78.2,orphanet,low,osteropetrosis with renal tubular acidosis
+KMN841,Type 4 Renal Tubular Acidosis,N25-N29,NO_DATA,,,
+KMN842,Renal osteodystrophy,N25-N29,N25.0,cms-gov-2021,,
+KMN853,Congenital Heart Disease,Q20-Q28,Q24.9,who-icd;csm-gov-2021,,"Congenital malformation of heart, unspecified"
+KMN856,Mayer-Rokitansky-Kuster-Hauser Syndrome,Q50-Q56,Q51.8,orphanet,,
+KMN857,Leydig Cell Hypoplasia,Q50-Q56,Q56.1,orphanet,,
+KMN858,Gonadal Dysgenesis,Q50-Q56,Q96.9;Q99.1,who-icd,,
+KMN573,Abetalipoproteinemia,E70-E90,E78.6,who-icd,,
+KMN874,Achondrodysplasia,Q65-Q79,Q77.4,web;cms-gov-2021,,achondroplasia
+KMN561,Acrodermatitis Enteropathica,E70-E90,E83.2,who-icd,,
+KMN340,Acromegaly,E20-E35,E22.0,who-icd,,
+KMN640,Acute Inflammatory Demyelinating Polyneuropathy,G50-G59,G61.8,orphanet,,subacute inflammatory demyelinating polyneuropathy
+KMN639,Acute Motor Axonal Neuropathy,G50-G59,G61.0,orphanet,,
+KMN105,Acute Myeloid Leukemia,C81-C96,C94.2,who-icd,,
+KMN773,Acute Pancreatitis,K80-K87,K85,,,
+KMN638,Acute Pharyngeal Cervicobrachial Neuropathy,G50-G59,G61.0,web,low,guillain-barre syndrome
+KMN754,Acute Respiratory Distress Syndrome,J80-J84,J80,,,
+KMN7,Acute Viral Meningitis,A80-A89,A87.9,web;cms-gov-2021,,"Viral meningitis, unspecified"
+KMN722,Acute coronary syndrome,I20-I25,I24.9,who-icd,,
+KMN312,Addison's Disease,E20-E35,E27.1,who-icd,,
+KMN389,Adenine Phosphoribosyltransferase Deficiency,E70-E90,E79.8,orphanet,,
+KMN258,Adenosine Deaminase Deficiency,D80-D89,D81.3,who-icd,,
+KMN388,Adenylosuccinate Lyase Deficiency,E70-E90,E79.8,orphanet,,
+KMN77,Adrenal Carcinoma,C73-C75,C74.0,who-icd,,
+KMN779,Afferent Loop Syndrome,K90-K93,K91.8,who-icd,,
+KMN232,Afibrinogenemia,D65-D69,D65,who-icd,,
+KMN702,Age-Related Macular Degeneration,H30-H36,H35.2,web;cms-gov-2021,,
+KMN854,Alagille Syndrome,Q38-Q45,Q44.7,who-icd,,
+KMN765,Alcoholic Cirrhosis,K70-K77,K70.3,who-icd,,
+KMN391,Alkaptonuria,E70-E90,E70.2,who-icd,,
+KMN11,Allergic Bronchopulmonary Aspergillosis,B35-B49,B44.81,,,
+KMN747,Allergic Rhinitis,J30-J39,J30,who-icd,,
+KMN699,Allergic conjunctivitis,H10-H13,H10.1,who-icd,,
+KMN781,Allergic contact dermatitis,L20-L30,L23,,,
+KMN876,Alport's Syndrome,Q80-Q89,Q87.8,who-icd,,
+KMN45,Alveolar Soft Part Sarcoma,C45-C49,C49.9,who-icd,,
+KMN603,Alzheimer's Disease,G30-G32,G30,,,
+KMN900,Anaphylaxis,T66-T78,T78.2,who-icd,,
+KMN68,Anaplastic astrocytoma,C69-C72,C71.9,who-icd,,
+KMN314,Androgen Insensitivity Syndrome,E20-E35,E34.5,,,
+KMN725,Angina pectoris,I20-I25,I20,,,
+KMN812,Ankylosing Spondylitis,M45-M49,M45,,,
+KMN606,Anti-Hu Paraneoplastic Neuropathy,G30-G32,G13.0,web;cms-gov-2021,,Paraneoplastic neuromyopathy and neuropathy
+KMN274,Antigen Peptide Transporter Deficiency,D80-D89,NO_DATA,,,
+KMN713,Apparent Mineralocorticoid Excess Syndrome,I10-I15,E26.1,orphanet,,
+KMN313,Aromatase Deficiency,E20-E35,E25.8,orphanet,,
+KMN387,Aspartylglucosaminuria,E70-E90,E77.1,who-icd,,
+KMN751,Asthma,J40-J47,J45,,,
+KMN67,Astrocytoma,C69-C72,C71.9,who-icd,,
+KMN593,Ataxia Telangiectasia,G10-G13,G11.3,who-icd,,
+KMN740,Atherosclerosis,I70-I79,I70,,,
+KMN780,Atopic Dermatitis,L20-L30,L20,,,
+KMN579,Autism,F80-F89,F84,who-icd,,
+KMN697,Autoimmune Autonomic Neuropathy,G90-G99,G99.0,web;cms-gov-2021,,Autonomic neuropathy in diseases classified elsewhere
+KMN698,Autonomic Neuropathy,G90-G99,G99.0,who-icd,,
+KMN550,Autosomal Dominant Hypophosphatemic Rickets,E70-E90,E83.3,orphanet,,
+KMN862,Autosomal Dominant Polycystic Kidney Disease,Q60-Q64,Q61.2,who-icd,,
+KMN709,Autosomal Dominant Progressive Deafness,H90-H95,H91.9,kegg_disease,,
+KMN707,Autosomal Dominant Progressive External Ophthalmoplegia,H49-H52,H49.4,orphanet,,
+KMN278,Autosomal Recessive Agammaglobulinemia,D80-D89,D80.0,who-icd,,
+KMN587,Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay,G10-G13,G11.1,orphanet,,
+KMN607,Axonal Sensorimotor Neuropathy,G30-G32,G60.0,orphanet,,Autosomal recessive lethal neonatal axonal sensorimotor polyneuropathy
+KMN246,BLNK Deficiency,D80-D89,D80.0,orphanet,,x-linked agammaglobulinemia
+KMN878,Bardet-Biedl Syndrome,Q80-Q89,Q87.8,who-icd,,
+KMN323,Bartter Syndrome,E20-E35,E26.8,who-icd,,
+KMN34,Basal Cell Carcinoma,C43-C44,C44.0,who-icd,,
+KMN661,Becker Muscular Dystrophy,G70-G73,G71.0,who-icd,,
+KMN772,Benign Recurrent Intrahepatic Cholestasis,K70-K77,K83.1,orphanet,,
+KMN365,Beriberi,E50-E64,E51.1,,,
+KMN215,Bernard-Soulier Syndrome,D65-D69,D69.1,who-icd,,
+KMN576,Bipolar Disorder,F30-F39,F31,,,
+KMN61,Bladder Cancer,C64-C68,C67,who-icd,,
+KMN880,Bloom Syndrome,Q80-Q89,Q82.8,who-icd,,
+KMN47,Breast Cancer,C50-C50,C50,who-icd,,
+KMN735,Brugada Syndrome,I30-I52,I49.8,,,
+KMN897,Bulimia Nervosa,R50-R69,F50.2,,,
+KMN97,Burkitt's Lymphoma,C81-C96,C83.7,who-icd,,
+KMN614,CADASIL,G35-G37,I67.8,orphanet,,Cerebral autosomal dominant arteriopathy-subcortical infarcts-leukoencephalopathy
+KMN247,CD40 Deficiency,D80-D89,D80.5,orphanet,,X-linked hyper-IgM syndrome
+KMN248,CD8 Deficiency,D80-D89,D84.8,orphanet,,Susceptibility to respiratory infections associated with CD8alpha chain mutation
+KMN813,Calcific Tendinitis,M65-M68,M65.2,,,
+KMN866,Campomelic Dysplasia,Q65-Q79,Q87.1,orphanet,,Campomelic dysplasia
+KMN78,Carcinoid Tumor,C76-C80,E34.0,orphanet,,carcinoid syndrome
+KMN136,Carney Complex,D10-D36,D44.8,orphanet,,
+KMN641,Carpal Tunnel Syndrome,G50-G59,G56.0,,,
+KMN872,Cartilage-Hair Hypoplasia,Q65-Q79,Q78.8,orphanet,,
+KMN155,Castleman's Disease,D37-D48,D47.4,who-icd,,
+KMN701,Cataract,H25-H28,H26,who-icd,,
+KMN775,Celiac Sprue,K90-K93,K90.0,web;cms-gov-2021,,Celiac disease
+KMN656,Central Core Disease,G70-G73,G71.2,who-icd,,
+KMN692,Centronuclear Myopathy,G70-G73,G71.22,,,
+KMN567,Cerebrotendinous xanthomatosis,E70-E90,E75.5,who-icd,,
+KMN628,Charcot-Marie-Tooth Disease Type 1,G50-G59,G60.0,orphanet,,
+KMN629,Charcot-Marie-Tooth Disease Type 2,G50-G59,G60.0,orphanet,,
+KMN437,Chediak-Higashi Syndrome,E70-E90,E70.330,,,
+KMN620,Childhood absence epilepsy,G40-G47,G40.3,who-icd,,
+KMN21,Cholangiocarcinoma,C15-C26,C22.1,who-icd,,
+KMN873,Chondrodysplasia,Q65-Q79,Q77.3,who-icd,,
+KMN33,Chondrosarcoma,C40-C41,C41.9,who-icd,,
+KMN54,Choriocarcinoma,C51-C58,C58,who-icd,,
+KMN245,Chronic Granulomatous Disease,D70-D77,D71,who-icd,,
+KMN645,Chronic Inflammatory Demyelinating Polyneuropathy,G50-G59,G61.8,orphanet,,
+KMN647,Chronic Sensory Ataxic Neuropathy,G50-G59,G61.8,orphanet,,
+KMN646,Chronic Sensory Motor Neuropathy,G50-G59,G60.0,web;cms-gov-2021,low,Hereditary motor and sensory neuropathy
+KMN885,Cleidocranial dysplasia,Q80-Q89,Q74.0,orphanet,,
+KMN20,Colorectal Cancer,C15-C26,C18,orphanet,,familial colorectal cancer type X
+KMN342,Congenital Adrenal Hyperplasia,E20-E35,E25.0,who-icd,,
+KMN643,Congenital Hypomyelination,G50-G59,G37.8,orphanet,,hypomyelination-congenital cataract syndrome
+KMN691,Congenital Myasthenic Syndrome,G70-G73,G70.2,orphanet,,
+KMN224,Congenital amegakaryocytic thrombocytopenia,D65-D69,D61.0,orphanet,,
+KMN721,Coronary vasospasm,I20-I25,I20.1,who-icd,,
+KMN153,Cowden's syndrome,D37-D48,Q85.8,orphanet,,cowden syndrome
+KMN5,Creutzfeldt-Jakob Disease,A80-A89,A81.0,,,
+KMN415,Crigler-Najjar Syndrome,E70-E90,E80.5,,,
+KMN762,Crohn's Disease,K50-K52,K50,who-icd,,
+KMN95,Crow-Fukase Syndrome,C81-C96,D47.7,orphanet,,POEMS syndrome
+KMN859,Cryptorchidism,Q50-Q56,Q53,who-icd,,
+KMN318,Cushing's Syndrome,E20-E35,E24,,,
+KMN426,Cystathioninuria,E70-E90,E72.1,who-icd,,
+KMN566,Cystic Fibrosis,E70-E90,E84,,,
+KMN427,Cystinosis,E70-E90,E72.04,,,
+KMN249,DNA Ligase IV Deficiency,D80-D89,D81.1,orphanet,,LIG4 syndrome
+KMN743,Deep Venous Thrombosis,I80-I89,I82.4,web;cms-gov-2021,,Acute embolism and thrombosis of unspecified deep veins
+KMN180,Deficiency of Transcobalamin II,D50-D53,D51.2,who-icd,,
+KMN630,Dejerine-Sottas Disease,G50-G59,G60.0,who-icd,,
+KMN604,Dementia with Lewy Bodies,G30-G32,G31.83,,,
+KMN860,Denys-Drash Syndrome,Q60-Q64,N04.1,orphanet,,
+KMN266,DiGeorge Syndrome,D80-D89,D82.1,who-icd,,
+KMN303,Diabetic Ketoacidosis,E10-E14,E14.1,who-icd,,
+KMN829,Diabetic Nephropathy,N00-N08,N08.3,who-icd,,
+KMN304,Diabetic neuropathy,E10-E14,E10.4,who-icd,,
+KMN431,Dicarboxylic Aminoaciduria,E70-E90,E72.0,orphanet,,
+KMN432,Dihydropyrimidinase Deficiency,E70-E90,E79.8,orphanet,,dihyfropyrimidinuria
+KMN433,Dihydropyrimidine Dehydrogenase Deficiency,E70-E90,E79.8,orphanet,,
+KMN736,Dilated Cardiomyopathy,I30-I52,I42.0,,,
+KMN231,Disseminated Intravascular Coagulation,D65-D69,D65,,,
+KMN895,Down's Syndrome,Q90-Q99,Q90,who-icd,,
+KMN443,Dubin-Johnson Syndrome,E70-E90,E80.6,who-icd,,
+KMN657,Duchenne Muscular Dystrophy,G70-G73,G71.0,who-icd,,
+KMN133,Ductal Carcinoma in Situ,D00-D09,D05.1,who-icd,,
+KMN776,Dumping Syndrome,K90-K93,K91.1,who-icd,,
+KMN890,Dyskeratosis Congenita,Q80-Q89,Q82.8,orphanet,,
+KMN863,Ehlers-Danlos Syndrome,Q65-Q79,Q79.6,who-icd,,
+KMN79,Embryonal Carcinoma,C76-C80,C22.7,who-icd,,
+KMN652,Emery-Dreifuss Muscular Dystrophy,G70-G73,G71.0,who-icd,,
+KMN83,Endodermal Sinus Tumor,C76-C80,C56,who-icd,,
+KMN50,Endometrial Cancer,C51-C58,C54.1,who-icd,,
+KMN845,Endometriosis,N80-N98,N80,,,
+KMN805,Eosinophilic Granulomatosis with Polyangiitis,M30-M36,M30.1,orphanet,,
+KMN64,Ependymoma,C69-C72,C71.9,who-icd,,
+KMN893,Epidermolysis Bullosa,Q80-Q89,Q81,,,
+KMN613,Episodic Ataxia,G30-G32,G11.8,orphanet,,episodic ataxia type 1
+KMN204,Epstein syndrome,D65-D69,D69.4,orphanet,,
+KMN19,Esophageal Cancer,C15-C26,C15,who-icd,,
+KMN244,Essential Thrombocytosis,D70-D77,D47.3,who-icd,,
+KMN31,Ewing's Sarcoma,C40-C41,C49.9,orphanet,,extraskeletal ewing sarcoma
+KMN457,Fabry Disease,E70-E90,E75.2,who-icd,,
+KMN669,Facioscapulohumeral Muscular Dystrophy,G70-G73,G71.02,,,
+KMN225,Factor VII Deficiency,D65-D69,D68.2,who-icd,,
+KMN226,Factor V Deficiency,D65-D69,D68.2,who-icd,,
+KMN227,Factor XIII Deficiency,D65-D69,D68.2,who-icd,,
+KMN228,Factor XI Deficiency,D65-D69,D68.1,who-icd,,
+KMN229,Factor X Deficiency,D65-D69,D68.2,who-icd,,
+KMN139,Familial Adenomatous Polyposis,D10-D36,D12.6,orphanet,,
+KMN635,Familial Amyloid Polyneuropathy,G50-G59,E85.1;G63.3,orphanet,,ATTRC30M amyloidosis
+KMN517,Familial Combined Hyperlipidemia,E70-E90,E78.4,who-icd,,
+KMN513,Familial Hypercholesterolemia,E70-E90,E78.01,,,
+KMN516,Familial Hypobetalipoproteinemia,E70-E90,E78.6,who-icd,,
+KMN515,Familial Hypocalciuric Hypercalcemia,E70-E90,E83.5,who-icd,,
+KMN329,Familial Male-Limited Precocious Puberty,E20-E35,E30.1,orphanet,,
+KMN458,Fanconi-Bickel Syndrome,E70-E90,E74.0,orphanet,,
+KMN198,Fanconi's Anemia,D60-D64,D61.0,who-icd,,
+KMN8,Fatal Familial Insomnia,A80-A89,A81.83,,,
+KMN208,Fechtner syndrome,D65-D69,D69.4,orphanet,,
+KMN814,Fibromyalgia,M70-M79,M79.7,,,
+KMN132,Follicular Lymphoma,C81-C96,C82,,,
+KMN589,Friedreich's Ataxia,G10-G13,G11.1,who-icd,,
+KMN611,Frontotemporal Lobar Degeneration,G30-G32,G31.0,orphanet,,
+KMN463,Fucosidosis,E70-E90,E77.1,who-icd,,
+KMN694,Fukuyama Congenital Muscular Dystrophy,G70-G73,G71.0,,,
+KMN306,GRFomas,E15-E16,E16.8,orphanet,,
+KMN413,Galactokinase Deficiency,E70-E90,E74.2,who-icd,,
+KMN15,Gastric Cancer,C15-C26,C16.9,who-icd,,
+KMN380,Gaucher Disease,E70-E90,E75.22,,,
+KMN85,Germ Cell Tumor,C76-C80,C80.9,orphanet,,mixed germ cell tumor
+KMN84,Germinoma,C76-C80,C38.3;C48.8;C72.9,orphanet,,extragonadal germinoma
+KMN6,Gerstmann-Straussler-Scheinker Disease,A80-A89,A81.8,orphanet,,
+KMN801,Giant Cell Arteritis,M30-M36,M31.5;M31.6,who-icd,,
+KMN434,Gilbert's Syndrome,E70-E90,E80.4,who-icd,,
+KMN317,Gitelman Syndrome,E20-E35,N15.8,orphanet,,
+KMN74,Glioblastoma,C69-C72,C71.9,who-icd,,
+KMN65,Glioma,C69-C72,C71.9,orphanet,,anaplastic astrocytoma
+KMN418,Glutathione synthetase deficiency,E70-E90,D55.1,orphanet,,
+KMN877,Gorlin Syndrome,Q80-Q89,Q87.0,who-icd,,
+KMN264,Griscelli Syndrome,D80-D89,E70.3,orphanet,,
+KMN339,Growth Hormone Deficiency,E20-E35,E23.0,who-icd,,
+KMN627,Guillain-Barre Syndrome,G50-G59,G61.0,,,
+KMN131,Hairy Cell Leukemia,C81-C96,C91.4,,,
+KMN82,Head and Neck Cancer,C76-C80,C47.0;C49.0;C76.0;C77.0,who-icd,,
+KMN14,Helicobacter Pylori Infection,B95-B98,B98.0,who-icd,,
+KMN796,Hemarthrosis,M20-M25,M25.0,,,
+KMN468,Hemochromatosis,E70-E90,E83.11,,,
+KMN767,Hepatic Coma,K70-K77,K72,who-icd,,
+KMN768,Hepatic Encephalopathy,K70-K77,K72.9,who-icd,,
+KMN519,Hepatic Lipase Deficiency,E70-E90,E78.4,orphanet,,hypperlipidemia due to hepatic triacylglycerol lipase deficiency
+KMN815,Hepatic osteodystrophy,M80-M85,N25.0,web;cms-gov-2021,low,renal osteodystrophy
+KMN766,Hepatitis,K70-K77,K75.9,who-icd,,
+KMN17,Hepatoblastoma,C15-C26,C22.2,,,
+KMN18,Hepatocellular Carcinoma,C15-C26,C22.0,who-icd,,
+KMN189,Hereditary Elliptocytosis,D55-D59,D58.1,,,
+KMN777,Hereditary Fructose Intolerance,K90-K93,E74.12,,,
+KMN708,Hereditary Hearing Impairment,H90-H95,H91.9,web;cms-gov-2021,low,"Unspecified hearing loss, unspecified ear"
+KMN741,Hereditary Hemorrhagic Telangiectasia,I70-I79,I78.0,,,
+KMN633,Hereditary Neuropathy with Pressure Palsies,G50-G59,G60.0,orphanet,,
+KMN190,Hereditary Pyropoikilocytosis,D55-D59,D58.1,orphanet,,
+KMN634,Hereditary Sensory and Autonomic Neuropathy,G50-G59,G60.8,orphanet,,Hereditary Sensory and Autonomic Neuropathy type 1
+KMN187,Hereditary Spherocytosis,D55-D59,D58.0,,,
+KMN188,Hereditary Stomatocytosis,D55-D59,D58.8,orphanet,,
+KMN605,Hereditary cortical cerebellar atrophy,G30-G32,G32.8,web;cms-gov-2021,,Cerebellar ataxia in diseases classified elsewhere
+KMN449,Hermansky-Pudlak Syndrome,E70-E90,E70.331,,,
+KMN450,Histidinemia,E70-E90,E70.41,,,
+KMN99,Hodgkin's Lymphoma,C81-C96,C81,who-icd,,
+KMN882,Holt-Oram Syndrome,Q80-Q89,Q87.2,who-icd,,
+KMN476,Homocystinuria,E70-E90,E72.11,,,
+KMN10,Human Immunodeficiency Virus Infection,B20-B24,B24,who-icd,,
+KMN588,Huntington's Disease,G10-G13,G10,,,
+KMN846,Hydatidiform Mole,O00-O08,O01,,,
+KMN452,Hydroxykynureninuria,E70-E90,E70.8,who-icd,,
+KMN275,Hyper-IgE Syndrome,D80-D89,D82.4,who-icd,,
+KMN546,Hyperlysinemia,E70-E90,E72.3,who-icd,,
+KMN545,Hypermethioninemia,E70-E90,E72.1,who-icd,,
+KMN869,Hyperostosis Corticalis Generalisata,Q65-Q79,M85.2,orphanet,,
+KMN739,Hypertrophic Cardiomyopathy,I30-I52,I42,who-icd,,
+KMN562,Hypophosphatasia,E70-E90,E83.3,who-icd,,
+KMN886,Hypothalamic Hamartoma,Q80-Q89,G40.5,orphanet,low,Hypothalamic Hamartoma with gelastic seizures
+KMN250,ICF Syndrome,D80-D89,D84.8,orphanet,,
+KMN755,Idiopathic Pulmonary Fibrosis,J80-J84,J84.112,,,
+KMN251,IgA Deficiency,D80-D89,D80.2,who-icd,,
+KMN822,IgA Nephropathy,N00-N08,N02,who-icd,,
+KMN252,IgG Subclass Deficiency,D80-D89,D80.3,who-icd,,
+KMN399,Iminoglycinuria,E70-E90,E72.0,orphanet,,
+KMN281,Immunoglobulin-Associated beta Deficiency,D80-D89,D80.8,orphanet,low,immunodeficiency due to selective anti-polysaccharide antibody deficiency
+KMN280,Immunoglobulin Heavy Chain Deficiency,D80-D89,D80.8,orphanet,,
+KMN811,Inclusion Body Myositis,M30-M36,G72.4,who-icd,,
+KMN1,Inflammatory Bowel Disease,A00-A09,K50,who-icd,,
+KMN745,Influenza Infection,J10-J18,J10.1,who-icd,,
+KMN259,Interferon gamma Receptor Deficiency,D80-D89,D84.8,orphanet,,Autosomal dominant mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR1 deficiency
+KMN260,Interleukin 12 Deficiency,D80-D89,D84.8,orphanet,,Mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency
+KMN261,Interleukin 12 Receptor Deficiency,D80-D89,D84.8,orphanet,,Mendelian susceptibility to mycobacterial diseases due to complete IL12B1 deficiency
+KMN753,Interstitial Lung Disease,J80-J84,J84,who-icd,,
+KMN183,Iron Deficiency Anemia,D50-D53,D50,,,
+KMN723,Ischemic Heart Disease,I20-I25,I24;I25,who-icd,,
+KMN724,Ischemic arrhythmia,I20-I25,I24;I25,who-icd,,
+KMN352,Isolated Follicle-stimulating Hormone Deficiency,E20-E35,E23.6,orphanet,,
+KMN398,Isovaleric Acidemia,E70-E90,E71.110,,,
+KMN38,Kaposi's Sarcoma,C45-C49,C46,,,
+KMN653,Kearns-Sayre Syndrome,G70-G73,H49.81,,,
+KMN894,Klinefelter Syndrome,Q90-Q99,Q98,who-icd,,
+KMN414,Krabbe's Disease,E70-E90,E75.2,who-icd,,
+KMN4,Kuru,A80-A89,A81.81,,,
+KMN650,Lambert-Eaton Myasthenic Syndrome,G70-G73,G73.1,orphanet,,
+KMN326,Laron Syndrome,E20-E35,E34.3,orphanet,,
+KMN305,Leprechaunism,E10-E14,E34.8,who-icd,,
+KMN370,Leptin gene mutation,E65-E68,E66.8,orphanet,,
+KMN371,Leptin receptor gene mutation,E65-E68,E66.8,kegg_disease,,
+KMN156,Li-Fraumeni Syndrome,D37-D48,C97,orphanet,,
+KMN826,Liddle Syndrome,N00-N08,I15.1,orphanet,,
+KMN675,Limb-Girdle Muscular Dystrophy 1C,G70-G73,G71.0,orphanet,,Limb-girdle muscular dystrophy
+KMN679,Limb-Girdle Muscular Dystrophy 2B,G70-G73,G71.0,orphanet,,Dysferlin-related limb-girdle muscular dystrophy R2
+KMN549,Lipodystrophy,E70-E90,E88.1,who-icd,,
+KMN731,Long QT Syndrome,I30-I52,I45.81,,,
+KMN27,Lung Adenocarcinoma,C30-C39,C34,orphanet,,Well-differentiated fetal adenocarcinoma of the lung
+KMN26,Lung Cancer,C30-C39,C34,who-icd,,
+KMN29,Lung Cancer in Never Smokers,C30-C39,C34,who-icd,,
+KMN827,Lupus Nephritis,N00-N08,N08.5,who-icd,,
+KMN102,Lymphoplasmacytic Lymphoma,C81-C96,C83.0,who-icd,,
+KMN664,MELAS Syndrome,G70-G73,E88.41,,,
+KMN253,MHC Class II Deficiency,D80-D89,D81.7,orphanet,,
+KMN294,MIDD,E10-E14,E13.8,orphanet,,Maternally-inherited diabetes and deafness
+KMN297,MODY 1,E10-E14,E13,kegg_disease,,
+KMN298,MODY 2,E10-E14,E13,kegg_disease,,
+KMN299,MODY 3,E10-E14,E13,kegg_disease,,
+KMN300,MODY 4,E10-E14,E13,kegg_disease,,
+KMN301,MODY 5,E10-E14,E13,kegg_disease,,
+KMN302,MODY 6,E10-E14,E13,kegg_disease,,
+KMN778,Malabsorption Syndrome,K90-K93,K90.9,who-icd,,
+KMN12,Malaria Infection,B50-B64,B52,who-icd,,
+KMN272,Mannose Binding Lectin Deficiency,D80-D89,D84.8,web;cms-gov-2021,,Immunodeficiency due to conditions classified elsewhere
+KMN494,Maple Syrup Urine Disease,E70-E90,E71.0,who-icd,,
+KMN883,Marfan Syndrome,Q80-Q89,Q87.4,who-icd,,
+KMN235,May-Hegglin Anomaly,D70-D77,D72.0,who-icd,,
+KMN865,McCune-Albright Syndrome,Q65-Q79,D78.1,who-icd,,
+KMN66,Medulloblastoma,C69-C72,C71.6,who-icd,,
+KMN182,Megaloblastic Anemia,D50-D53,D53,who-icd,,
+KMN369,Melanocortin-4 receptor gene mutation,E65-E68,E66.8,orphanet,,obesity due to Melanocortin-4 receptor gene mutation
+KMN35,Melanoma,C43-C44,C43,who-icd,,
+KMN834,Membranoproliferative Glomerulonephritis,N00-N08,N00.6,who-icd,,
+KMN818,Metabolic Bone Disease,M80-M85,M83.4,web;cms-gov-2021,,aluminum bone disease
+KMN504,Metachromatic Leukodystrophy,E70-E90,E75.25,,,
+KMN81,Metastatic Tumor of Bone,C76-C80,C79.5,web;cms-gov-2021,,Secondary malignant neoplasm of bone
+KMN80,Metastatic Tumor of the Liver,C76-C80,C78.7,web;cms-gov-2021,,Secondary malignant neoplasm of liver and intrahepatic bile duct
+KMN850,Microcephaly,Q00-Q07,Q02,,,
+KMN804,Microscopic polyangiitis,M30-M36,M31.7,,,
+KMN631,Miller Fisher Syndrome,G50-G59,G61.0,who-icd,,
+KMN671,Miyoshi Myopathy,G70-G73,G71.0,orphanet,,
+KMN498,Molybdenum cofactor deficiency,E70-E90,E72.1,orphanet,,Sulfite oxidase deficiency due to molybdenum cofactor deficiency
+KMN271,Mulibrey Nanism,D80-D89,Q87.1,orphanet,,
+KMN644,Multifocal Motor Neuropathy,G50-G59,G61.82,,,
+KMN870,Multiple Exostosis,Q65-Q79,Q78.6,who-icd,,
+KMN122,Multiple Myeloma,C81-C96,C90.0,,,
+KMN615,Multiple Sclerosis,G35-G37,G35,,,
+KMN558,Multiple Sulfatase Deficiency,E70-E90,E75.2,orphanet,,
+KMN612,Multiple System Atrophy,G30-G32,G23.2,who-icd,,
+KMN672,Myasthenia Gravis,G70-G73,G70.0,,,
+KMN114,Mycosis Fungoides,C81-C96,C84.0,,,
+KMN162,Myelodysplastic Syndrome,D37-D48,D46,who-icd,,
+KMN163,Myelofibrosis,D37-D48,D75.81,,,
+KMN726,Myocardial Infarction,I20-I25,I21;I22,who-icd,,
+KMN690,Myotonia Congenita,G70-G73,G71.12,,,
+KMN383,N-Acetylglutamate Synthase Deficiency,E70-E90,E72.2,orphanet,,Hyperammonemia due to N-acetylglutamate synthase deficiency
+KMN892,Nail-Patella Syndrome,Q80-Q89,Q87.2,who-icd,,
+KMN660,Nemaline Myopathy,G70-G73,G71.21,,,
+KMN59,Nephroblastoma,C64-C68,C64,who-icd,,
+KMN837,Nephrolithiasis,N20-N23,N20.0,who-icd,,
+KMN861,Nephronophthisis,Q60-Q64,Q61.5,orphanet,,
+KMN269,Netherton Syndrome,D80-D89,Q80.8,orphanet,,
+KMN76,Neuroblastoma,C73-C75,C74.9,who-icd,,
+KMN888,Neurofibromatosis Type 1,Q80-Q89,Q85.0,orphanet,,
+KMN889,Neurofibromatosis Type 2,Q80-Q89,Q85.0,orphanet,,
+KMN267,Nijmegen Breakage Syndrome,D80-D89,Q87.8,orphanet,,
+KMN125,Non-Hodgkin's Lymphoma,C81-C96,C85,who-icd,,
+KMN727,Non-ST-Elevation Myocardial Infarction,I20-I25,I21.4,who-icd,,
+KMN30,Non-Small Cell Lung Cancer,C30-C39,C34.9,web;cms-gov-2021,,Malignant neoplasm of unspecified part of unspecified bronchus or lung
+KMN771,Nonalcoholic Fatty Liver Disease,K70-K77,K76.0,who-icd,,
+KMN268,Nude Syndrome,D80-D89,D82.8,orphanet,,Severe combined immunodeficiency due to FOXN1 deficiency
+KMN373,Obesity,E65-E68,E66,who-icd,,
+KMN372,Obesity in endocrine disease,E65-E68,E66,who-icd,low,
+KMN668,Oculopharyngeal Muscular Dystrophy,G70-G73,G71.0,who-icd,,
+KMN69,Oligo-astrocytoma,C69-C72,C71.9,who-icd,,
+KMN63,Oligoastrocytoma,C69-C72,C71.9,who-icd,,
+KMN70,Oligodendroglioma,C69-C72,C71.9,who-icd,,
+KMN263,Omenn Syndrome,D80-D89,D81.8,orphanet,,
+KMN817,Oncogenic Osteomalacia,M80-M85,M83.8,orphanet,,
+KMN406,Ornithine Transcarbamylase Deficiency,E70-E90,E72.4,who-icd,,
+KMN407,Orotic Aciduria,E70-E90,D53.0;E79.8,who-icd,,
+KMN795,Osteoarthritis,M15-M19,M15.9,who-icd,,
+KMN867,Osteogenesis Imperfecta,Q65-Q79,Q78.0,,,
+KMN871,Osteopetrosis,Q65-Q79,Q78.2,,,
+KMN816,Osteoporosis,M80-M85,M80;M81;M82,who-icd,,
+KMN32,Osteosarcoma,C40-C41,C41.9,who-icd,,
+KMN53,Ovarian Cancer,C51-C58,C56,,,
+KMN819,Paget Disease of Bone,M86-M90,M88,,,
+KMN22,Pancreatic Cancer,C15-C26,C25,who-icd,,
+KMN178,Pancreatic Neuroendocrine Tumor,D37-D48,E16.8,orphanet,,Neuroendocrine tumor of pancreas
+KMN689,Paramyotonia Congenita,G70-G73,G71.1,who-icd,,
+KMN608,Paraneoplastic Cerebellar Ataxia,G30-G32,G32.81,web;cms-gov-2021,,Cerebellar ataxia in diseases classified elsewhere
+KMN609,Paraneoplastic Cerebellar Degeneration,G30-G32,G32.81,web;cms-gov-2021,,Cerebellar ataxia in diseases classified elsewhere
+KMN642,Paraneoplastic Sensory Neuronopathy,G50-G59,G13,web;cms-gov-2021,,Paraneoplastic neuromyopathy and neuropathy
+KMN595,Parkinson's Disease,G20-G26,G20,,,
+KMN194,Paroxysmal Nocturnal Hemoglobinuria,D55-D59,D59.5,who-icd,,
+KMN844,Pathologic Gynecomastia,N60-N64,N62,web;cms-gov-2021,,Hypertrophy of breast
+KMN364,Pellagra,E50-E64,E52,who-icd,,
+KMN13,Periodic Fever Syndrome,B50-B64,E85.0,orphanet,low,periodic fever syndrome
+KMN126,Peripheral T Cell Lymphoma,C81-C96,C84.4,who-icd,,
+KMN181,Pernicious Anemia,D50-D53,D51.0,who-icd,,
+KMN855,Persistent Mullerian Duct syndrome,Q50-Q56,Q55.8,orphanet,,
+KMN848,Persistent hyperinsulinemic hypoglycemia of infancy,P70-P74,E16.1,who-icd,,
+KMN72,Pilocytic astrocytoma,C69-C72,C71.9,who-icd,,
+KMN746,Pneumonia,J10-J18,J10;J11;J12;J13;J14;J15;J16;J17;J18,who-icd,,
+KMN802,Polyarteritis Nodosa,M30-M36,M30.0,,,
+KMN165,Polycythemia Vera,D37-D48,D45,,,
+KMN896,Postural Orthostatic Tachycardia Syndrome,R00-R09,I49.8,web;cms-gov-2021,,Other specified cardiac arrhythmias
+KMN881,Prader-Willi Syndrome,Q80-Q89,Q87.11,,,
+KMN637,Predominant Sensory Demyelinating Neuropathy,G50-G59,G60.0,web;cms-gov-2021,,Hereditary motor and sensory neuropathy
+KMN847,Preeclampsia,O10-O16,O14,who-icd,,
+KMN332,Primary Aldosteronism,E20-E35,E26.0,who-icd,,
+KMN769,Primary Biliary Cirrhosis,K70-K77,K74.3,,,
+KMN728,Primary Pulmonary Hypertension,I26-I28,I27.0,,,
+KMN71,Primitive Neuroectodermal Tumor,C69-C72,C71.9,who-icd,,
+KMN868,Progressive Diaphyseal Dysplasia,Q65-Q79,Q78.3,,,
+KMN770,Progressive Familial Intrahepatic Cholestasis,K70-K77,K76.8,orphanet,,
+KMN599,Progressive Supranuclear Palsy,G20-G26,G23.1,who-icd,,
+KMN368,Prohormone convertase 1 gene mutation,E65-E68,E66.8,orphanet,,Obesity due to prohormone convertase I deficiency
+KMN467,Prolidase Deficiency,E70-E90,E72.8,orphanet,,
+KMN466,Propionic Acidemia,E70-E90,E71.121,,,
+KMN56,Prostate Cancer,C60-C63,C61,who-icd,,
+KMN843,Prostatic hypertrophy,N40-N51,N40;N41.1,who-icd,,
+KMN331,Pseudohypoparathyroidism,E20-E35,E20.1,,,
+KMN783,Psoriasis,L40-L45,L40,,,
+KMN757,Pulmonary Alveolar Proteinosis,J80-J84,J84.0,who-icd,,
+KMN756,Pulmonary Edema,J80-J84,J81,,,
+KMN270,Purine Nucleoside Phosphorylase Deficiency,D80-D89,D81.5,who-icd,,
+KMN875,Pyknodysostosis,Q65-Q79,Q78.8,orphanet,,pycnodysostosis
+KMN455,Pyruvate Kinase Deficiency,E70-E90,E74.4,who-icd,,
+KMN296,Rabson-Mendenhall syndrome,E10-E14,E13,orphanet,,
+KMN632,Refsum Disease,G50-G59,G60.1,who-icd,,
+KMN821,Relapsing Polychondritis,M91-M94,M94.1,,,
+KMN60,Renal Cell Carcinoma,C64-C68,C64,who-icd,,
+KMN597,Restless Legs Syndrome,G20-G26,G25.81,,,
+KMN738,Restrictive Cardiomyopathy,I30-I52,I42.5,who-icd,,
+KMN73,Retinoblastoma,C69-C72,C69.2,who-icd,,
+KMN578,Rett Syndrome,F80-F89,F84.2,who-icd,,
+KMN39,Rhabdomyosarcoma,C45-C49,C49.9,who-icd,,
+KMN710,Rheumatic fever,I00-I02,I00;I01;I02,who-icd,,
+KMN788,Rheumatoid Arthritis,M05-M14,M06,who-icd,,
+KMN503,Rotor's syndrome,E70-E90,E80.6,who-icd,,
+KMN794,SAPHO Syndrome,M15-M19,M86.3,orphanet,,
+KMN720,ST-Segment Elevation Myocardial Infarction,I20-I25,I21.3,web;cms-gov-2021,,ST elevation (STEMI) myocardial infarction of unspecified site
+KMN424,Sandhoff's Disease,E70-E90,E75.0,who-icd,,
+KMN265,Sarcoidosis,D80-D89,D86,,,
+KMN864,Schimke Immuno-Osseous Dysplasia,Q65-Q79,Q77.7,orphanet,,
+KMN574,Schizophrenia,F20-F29,F20,,,
+KMN206,Sebastian syndrome,D65-D69,D69.4,orphanet,,
+KMN636,Sensory Neuronopathy,G50-G59,G60.0,web;cms-gov-2021,,Hereditary motor and sensory neuropathy
+KMN851,Septo-Optic Dysplasia,Q00-Q07,Q04.4,who-icd,,
+KMN901,Severe Acute Respiratory Syndrome,U00-U49,U04,who-icd,,
+KMN277,Severe Combined Immunodeficiency,D80-D89,D81,who-icd,,
+KMN425,Sialidosis,E70-E90,E77.1,who-icd,,
+KMN428,Sitosterolemia,E70-E90,E78.0,orphanet,,
+KMN799,Sjogren's Syndrome,M30-M36,M35.0,who-icd,,
+KMN25,Small Cell Lung Cancer,C30-C39,C34.9,orphanet,,
+KMN592,Spinal Muscular Atrophy,G10-G13,G12,who-icd,,
+KMN610,Spinocerebellar Ataxia,G30-G32,G11.1,who-icd,,
+KMN28,Squamous Tumor of Lung Cancer,C30-C39,C34.9,web;cms-gov-2021,, Malignant neoplasm of unspecified part of unspecified bronchus or lung
+KMN852,Subcortical ectopic gray matter,Q00-Q07,Q04.8,web;cms-gov-2021,,Other specified congenital malformations of brain
+KMN899,Sudden Infant Death Syndrome,R95-R99,E95,who-icd,,
+KMN279,Surrogate Light Chain Deficiency,D80-D89,NO_DATA,,,
+KMN40,Synovial Sarcoma,C45-C49,C49.9,who-icd,,
+KMN807,Systemic Lupus Erythematosus,M30-M36,M32,who-icd,,
+KMN891,Systemic Mastocytosis,Q80-Q89,D47.02,,,
+KMN808,Systemic Sclerosis,M30-M36,M34,who-icd,,
+KMN254,T Cell Receptor Deficiency,D80-D89,D83.1,web;cms-gov-2021,,Common variable immunodeficiency with predominant immunoregulatory T-cell disorders
+KMN436,Tangier Disease,E70-E90,E78.6,who-icd,,
+KMN442,Tay-Sachs Disease,E70-E90,E75.02,,,
+KMN803,Thrombotic Thrombocytopenic Purpura,M30-M36,M31.1,who-icd,,
+KMN695,Tibial Muscular Dystrophy,G70-G73,G71.0,orphanet,,
+KMN273,Transient Hypogammaglobulinemia of Infancy,D80-D89,D80.7,,,
+KMN367,Trichothiodystrophy,E50-E64,L67.8,orphanet,,
+KMN2,Tuberculosis,A15-A19,A15;A16;A17;A18;A19,who-icd,,
+KMN884,Tuberous Sclerosis,Q80-Q89,Q85.1,,,
+KMN62,Turcot Syndrome,C69-C72,D12.6,orphanet,,Turcot syndrome with polyposis
+KMN292,Type 1 Diabetes Mellitus,E10-E14,E10,,,
+KMN293,Type 2 Diabetes Mellitus,E10-E14,E11,,,
+KMN295,Type A insulin resistance,E10-E14,E13,orphanet,,Insulin-resistance syndrome type A
+KMN763,Ulcerative Colitis,K50-K52,K51,,,
+KMN618,Unverricht-Lundborg disease,G40-G47,G40.3,who-icd,,
+KMN836,Urinary Tract Obstruction,N10-N16,N13.9,who-icd,,
+KMN700,Uveitis,H15-H22,H22.0,who-icd,,associated to various diseases and has multiple icd10 ids
+KMN744,Venous Thrombosis,I80-I89,I82,who-icd,,associated to various diseases and has multiple icd10 ids
+KMN9,Viral Hepatitis,B15-B19,B15;B16;B17;B18;B19,who-icd,,
+KMN732,Viral Myocarditis,I30-I52,B33.22,,,
+KMN898,Vitamin B1 responsive congenital lactic acidemia,R70-R79,NO_DATA,,,
+KMN651,Welander Distal Myopathy,G70-G73,G71.0,orphanet,,"Distal myopathy, Welander type"
+KMN355,Wernicke's Encephalopathy,E50-E64,E51.2,,,
+KMN58,Wilms' tumor,C64-C68,C64,,,
+KMN400,Wilson Disease,E70-E90,E83.0,who-icd,,
+KMN262,Wiskott-Aldrich Syndrome,D80-D89,D82.0,,,
+KMN256,X-Linked Agammaglobulinemia,D80-D89,D80.0,who-icd,,
+KMN276,X-Linked Immunodeficiency with Hyper IgM,D80-D89,D80.5,web;cms-gov-2021,,Immunodeficiency with increased immunoglobulin M [IgM]
+KMN255,X-Linked Lymphoproliferative Syndrome,D80-D89,D82.3,orphanet,,X-linked lymphoproliferative disease due to SH2D1A deficiency
+KMN354,X-linked Recessive Hypophosphatemic Rickets,E50-E64,N25.8,orphanet,,dent disease
+KMN849,X-linked lissencephaly,Q00-Q07,Q04.3,orphanet,,Lissencephaly type 1 due to doublecortin gene mutation
+KMN887,Xeroderma pigmentosum,Q80-Q89,Q82.1,,,
+KMN257,ZAP70 Tyrosine Kinase Deficiency,D80-D89,D81.1,web;cms-gov-2021,,Severe combined immunodeficiency [SCID] with low T- and B-cell numbers
+KMN307,Zollinger-Ellison Syndrome,E15-E16,E16.4,who-icd,,
+KMN395,alpha-Mannosidosis,E70-E90,E77.1,orphanet,,
+KMN469,beta-Mannosidosis,E70-E90,E77.1,orphanet,,
+KMN879,von Hippel-Lindau Syndrome,Q80-Q89,Q85.8,who-icd,,
+KMN209,von Willebrand's Disease,D65-D69,D68.0,,,
